@@ -12961,26 +12961,26 @@
     }
   },
   {
-    "id": "cointool\n",
-    "slug": "cointool\n",
+    "id": "cointool",
+    "slug": "cointool",
     "name": "Coin Tool",
     "category": "other",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
-        "fileName": "cointool\n-logo-small.jpeg",
+        "fileName": "cointool-logo-small.jpeg",
         "width": 36,
         "height": 36,
         "mimeType": "image/jpeg"
       },
       "large": {
-        "fileName": "cointool\n-logo-large.jpeg",
+        "fileName": "cointool-logo-large.jpeg",
         "width": 400,
         "height": 400,
         "mimeType": "image/jpeg"
       },
       "full": {
-        "fileName": "cointool\n-logo-full.jpeg",
+        "fileName": "cointool-logo-full.jpeg",
         "width": 3000,
         "height": 3000,
         "mimeType": "image/jpeg"
