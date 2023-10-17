@@ -3,7 +3,7 @@
     "id": "moonwell",
     "slug": "moonwell",
     "name": "Moonwell",
-    "category": "defi",
+    "category": "lending",
     "chains": ["Moonriver", "Moonbeam"],
     "logo": {
       "small": {
@@ -48,7 +48,7 @@
     "id": "prime-protocol",
     "slug": "prime-protocol",
     "name": "Prime Protocol",
-    "category": "defi",
+    "category": "lending",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -86,7 +86,7 @@
     "id": "stellaswap",
     "slug": "stellaswap",
     "name": "StellaSwap",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -130,7 +130,7 @@
     "id": "beamswap",
     "slug": "beamswap",
     "name": "BEAMSWAP",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -256,7 +256,7 @@
     "id": "sushi",
     "slug": "sushi",
     "name": "Sushi",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -295,7 +295,7 @@
     "id": "zenlink",
     "slug": "zenlink",
     "name": "Zenlink",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -1004,7 +1004,7 @@
     "id": "dex-leonicornswap",
     "slug": "dex-leonicornswap",
     "name": "Jungle|Leonicorn Swap",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonriver"],
     "logo": {
       "small": {
@@ -1617,7 +1617,7 @@
     "id": "aliumswap",
     "slug": "aliumswap",
     "name": "AliumSwap",
-    "category": "defi",
+    "category": "bridges",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -1820,7 +1820,7 @@
     "id": "padswap",
     "slug": "padswap",
     "name": "PADSwap",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -1858,7 +1858,7 @@
     "id": "frax",
     "slug": "frax",
     "name": "Frax",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -1940,7 +1940,7 @@
     "id": "lunardex",
     "slug": "lunardex",
     "name": "LunarDEX",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -2460,7 +2460,7 @@
     "id": "hydradx",
     "slug": "hydradx",
     "name": "HydraDX",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -2750,7 +2750,7 @@
     "id": "fidi",
     "slug": "fidi",
     "name": "FiDi",
-    "category": "defi",
+    "category": "wallets",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -2916,7 +2916,7 @@
     "id": "solarbeam",
     "slug": "solarbeam",
     "name": "Solarbeam",
-    "category": "bridges",
+    "category": "dex",
     "chains": ["Moonriver"],
     "logo": {
       "small": {
@@ -2961,7 +2961,7 @@
     "id": "xp-network",
     "slug": "xp-network",
     "name": "XP Network",
-    "category": "bridges",
+    "category": "nfts",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -2999,7 +2999,7 @@
     "id": "indigos",
     "slug": "indigos",
     "name": "Indigos",
-    "category": "bridges",
+    "category": "nfts",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -3036,7 +3036,7 @@
     "id": "ferrum-network",
     "slug": "ferrum-network",
     "name": "Ferrum Network",
-    "category": "bridges",
+    "category": "other",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -3075,7 +3075,7 @@
     "id": "wormhole",
     "slug": "wormhole",
     "name": "Wormhole",
-    "category": "bridges",
+    "category": "other",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -3824,7 +3824,7 @@
     "id": "glmrjungle",
     "slug": "glmrjungle",
     "name": "GLMR JUNGLE",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -4026,7 +4026,7 @@
     "id": "exiled-racers",
     "slug": "exiled-racers",
     "name": "Exiled Racers",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -4100,7 +4100,7 @@
     "id": "seascape",
     "slug": "seascape",
     "name": "Seascape",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -4138,7 +4138,7 @@
     "id": "treasureland",
     "slug": "treasureland",
     "name": "Treasureland",
-    "category": "nfts",
+    "category": "other",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -4175,7 +4175,7 @@
     "id": "zoombies",
     "slug": "zoombies",
     "name": "Zoombies",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -4289,7 +4289,7 @@
     "id": "evrloot",
     "slug": "evrloot",
     "name": "EVRLoot",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -4327,7 +4327,7 @@
     "id": "taverndao-io",
     "slug": "taverndao-io",
     "name": "TavernDAO",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -4404,7 +4404,7 @@
     "id": "omnisea",
     "slug": "omnisea",
     "name": "Omnisea",
-    "category": "nfts",
+    "category": "other",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -4519,7 +4519,7 @@
     "id": "tfalpha",
     "slug": "tfalpha",
     "name": "UTOPIA & TF ALPHA",
-    "category": "nfts",
+    "category": "other",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -5009,7 +5009,7 @@
     "id": "livetree",
     "slug": "livetree",
     "name": "Livetree",
-    "category": "nfts",
+    "category": "social",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -5207,7 +5207,7 @@
     "id": "teddy-dao",
     "slug": "teddy-dao",
     "name": "Teddy DAO",
-    "category": "nfts",
+    "category": "dao",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -5453,7 +5453,7 @@
     "id": "the-quest-of-evolution",
     "slug": "the-quest-of-evolution",
     "name": "The Quest of Evolution",
-    "category": "nfts",
+    "category": "social",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -5490,7 +5490,7 @@
     "id": "moonscape",
     "slug": "moonscape",
     "name": "Moonscape",
-    "category": "nfts",
+    "category": "gaming",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
