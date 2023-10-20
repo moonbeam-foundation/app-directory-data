@@ -340,7 +340,7 @@
     "id": "solarflare",
     "slug": "solarflare",
     "name": "Solarflare",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -1140,7 +1140,7 @@
       }
     },
     "shortDescription": "Open and transparent DeFi TVL and analytics.",
-    "description": "",
+    "description": "DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols. Our focus is on accurate data and transparent methodology.",
     "tags": ["DeFi", "Tool"],
     "contracts": [],
     "urls": {
@@ -1311,7 +1311,7 @@
     "id": "energyfi",
     "slug": "energyfi",
     "name": "Energyfi",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -1656,7 +1656,7 @@
     "id": "demodyfi",
     "slug": "demodyfi",
     "name": "Demodyfi",
-    "category": "defi",
+    "category": "dex",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -2499,7 +2499,7 @@
     "id": "orbiter-one",
     "slug": "orbiter-one",
     "name": "Orbiter One",
-    "category": "defi",
+    "category": "lending",
     "chains": ["Moonbeam"],
     "logo": {
       "small": {
@@ -3395,7 +3395,7 @@
     "id": "wepiggy",
     "slug": "wepiggy",
     "name": "WePiggy",
-    "category": "bridges",
+    "category": "lending",
     "chains": ["Moonriver", "Moonbeam"],
     "logo": {
       "small": {
@@ -6801,7 +6801,7 @@
     "id": "axelar",
     "slug": "axelar",
     "name": "AXELAR",
-    "category": "other",
+    "category": "bridges",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
@@ -8995,7 +8995,7 @@
     "id": "nomad",
     "slug": "nomad",
     "name": "Nomad",
-    "category": "other",
+    "category": "bridges",
     "chains": ["Moonbeam", "Moonriver"],
     "logo": {
       "small": {
