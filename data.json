@@ -4,7 +4,7 @@
     "slug": "moonwell",
     "name": "Moonwell",
     "category": "lending",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "moonwell-logo-small.jpeg",
@@ -49,7 +49,7 @@
     "slug": "prime-protocol",
     "name": "Prime Protocol",
     "category": "lending",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "prime-protocol-logo-small.jpeg",
@@ -87,7 +87,7 @@
     "slug": "stellaswap",
     "name": "StellaSwap",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "stellaswap-logo-small.jpeg",
@@ -131,7 +131,7 @@
     "slug": "beamswap",
     "name": "BEAMSWAP",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "beamswap-logo-small.jpeg",
@@ -175,7 +175,7 @@
     "slug": "curve",
     "name": "Curve",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "curve-logo-small.jpeg",
@@ -212,7 +212,7 @@
     "slug": "beefy-finance",
     "name": "Beefy Finance",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "beefy-finance-logo-small.jpeg",
@@ -257,7 +257,7 @@
     "slug": "sushi",
     "name": "Sushi",
     "category": "dex",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "sushi-logo-small.jpeg",
@@ -296,7 +296,7 @@
     "slug": "zenlink",
     "name": "Zenlink",
     "category": "dex",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "zenlink-logo-small.jpeg",
@@ -341,7 +341,7 @@
     "slug": "solarflare",
     "name": "Solarflare",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "solarflare-logo-small.jpeg",
@@ -384,7 +384,7 @@
     "slug": "zoodao",
     "name": "ZooDao",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "zoodao-logo-small.png",
@@ -424,7 +424,7 @@
     "slug": "manager-quarashi-network",
     "name": "Quarashi",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "manager-quarashi-network-logo-small.jpeg",
@@ -462,7 +462,7 @@
     "slug": "squid",
     "name": "Squid",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "squid-logo-small.jpeg",
@@ -501,7 +501,7 @@
     "slug": "ogp-bulk-sender",
     "name": "OGP Bulk Sender",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "ogp-bulk-sender-logo-small.png",
@@ -546,7 +546,7 @@
     "slug": "scion-finance",
     "name": "Scion Finance",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "scion-finance-logo-small.jpeg",
@@ -584,7 +584,7 @@
     "slug": "mixbytes-io",
     "name": "MixBytes",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "mixbytes-io-logo-small.png",
@@ -621,7 +621,7 @@
     "slug": "skytale-finance",
     "name": "Skytale",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "skytale-finance-logo-small.jpeg",
@@ -659,7 +659,7 @@
     "slug": "nansen-portfolio",
     "name": "Nansen Portfolio",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "nansen-portfolio-logo-small.jpeg",
@@ -697,7 +697,7 @@
     "slug": "cask-protocol",
     "name": "Cask Protocol",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "cask-protocol-logo-small.jpeg",
@@ -737,7 +737,7 @@
     "slug": "blockpour",
     "name": "Blockpour",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "blockpour-logo-small.jpeg",
@@ -774,7 +774,7 @@
     "slug": "rocketx-hybrid-exchange",
     "name": "RocketX Hybrid Exchange",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "rocketx-hybrid-exchange-logo-small.png",
@@ -812,7 +812,7 @@
     "slug": "crystl-finance",
     "name": "Crystl Finance",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "crystl-finance-logo-small.jpeg",
@@ -852,7 +852,7 @@
     "slug": "app-minimax-finance",
     "name": "Minimax",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "app-minimax-finance-logo-small.png",
@@ -891,7 +891,7 @@
     "slug": "acryptos",
     "name": "ACryptoS",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "acryptos-logo-small.jpeg",
@@ -929,7 +929,7 @@
     "slug": "list-yieldbay-io",
     "name": "YieldBay Farms",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "list-yieldbay-io-logo-small.png",
@@ -966,7 +966,7 @@
     "slug": "crescent-dao",
     "name": "Crescent DAO",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "crescent-dao-logo-small.jpeg",
@@ -1005,7 +1005,7 @@
     "slug": "dex-leonicornswap",
     "name": "Jungle|Leonicorn Swap",
     "category": "dex",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "dex-leonicornswap-logo-small.jpeg",
@@ -1043,7 +1043,7 @@
     "slug": "defiyield-app",
     "name": "DEFIYIELD",
     "category": "defi",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "defiyield-app-logo-small.jpeg",
@@ -1081,7 +1081,7 @@
     "slug": "dappradar",
     "name": "DappRadar",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "dappradar-logo-small.jpeg",
@@ -1118,7 +1118,7 @@
     "slug": "defillama",
     "name": "DefiLIama",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "defillama-logo-small.jpeg",
@@ -1140,7 +1140,7 @@
       }
     },
     "shortDescription": "Open and transparent DeFi TVL and analytics.",
-    "description": "DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols. Our focus is on accurate data and transparent methodology.",
+    "description": "",
     "tags": ["DeFi", "Tool"],
     "contracts": [],
     "urls": {
@@ -1156,7 +1156,7 @@
     "slug": "zapper",
     "name": "Zapper",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "zapper-logo-small.jpeg",
@@ -1193,7 +1193,7 @@
     "slug": "athos-finance",
     "name": "Athos Finance",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "athos-finance-logo-small.png",
@@ -1237,7 +1237,7 @@
     "slug": "stox",
     "name": "Stox",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "stox-logo-small.jpeg",
@@ -1273,7 +1273,7 @@
     "slug": "vulture.finance",
     "name": "Vulture Finance",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "vulture.finance-logo-small.jpeg",
@@ -1312,7 +1312,7 @@
     "slug": "energyfi",
     "name": "Energyfi",
     "category": "dex",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "energyfi-logo-small.jpeg",
@@ -1350,7 +1350,7 @@
     "slug": "transferto",
     "name": "Li.Fi",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "transferto-logo-small.png",
@@ -1388,7 +1388,7 @@
     "slug": "dexscreener",
     "name": "Dexcreener",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "dexscreener-logo-small.jpeg",
@@ -1426,7 +1426,7 @@
     "slug": "coindix",
     "name": "Coindix",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "coindix-logo-small.jpeg",
@@ -1463,7 +1463,7 @@
     "slug": "oh-finance",
     "name": "Oh Finance",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "oh-finance-logo-small.jpeg",
@@ -1501,7 +1501,7 @@
     "slug": "multisender",
     "name": "Token MultiSender",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "multisender-logo-small.jpeg",
@@ -1539,7 +1539,7 @@
     "slug": "chaotic-finance",
     "name": "Chaotic Finance",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "chaotic-finance-logo-small.jpeg",
@@ -1578,7 +1578,7 @@
     "slug": "autofarm-network",
     "name": "Autofarm Network",
     "category": "defi",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "autofarm-network-logo-small.jpeg",
@@ -1618,7 +1618,7 @@
     "slug": "aliumswap",
     "name": "AliumSwap",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "aliumswap-logo-small.png",
@@ -1657,7 +1657,7 @@
     "slug": "demodyfi",
     "name": "Demodyfi",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "demodyfi-logo-small.png",
@@ -1696,7 +1696,7 @@
     "slug": "cougarswap",
     "name": "Cougarswap",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "cougarswap-logo-small.png",
@@ -1738,7 +1738,7 @@
     "slug": "zircon",
     "name": "Zircon",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "zircon-logo-small.jpeg",
@@ -1776,7 +1776,7 @@
     "slug": "impermax-finance",
     "name": "Impermax Finance",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "impermax-finance-logo-small.jpeg",
@@ -1821,7 +1821,7 @@
     "slug": "padswap",
     "name": "PADSwap",
     "category": "dex",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "padswap-logo-small.jpeg",
@@ -1859,7 +1859,7 @@
     "slug": "frax",
     "name": "Frax",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "frax-logo-small.jpeg",
@@ -1902,7 +1902,7 @@
     "slug": "covercompared",
     "name": "Cover Compared",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "covercompared-logo-small.jpeg",
@@ -1941,7 +1941,7 @@
     "slug": "lunardex",
     "name": "LunarDEX",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "lunardex-logo-small.jpeg",
@@ -1980,7 +1980,7 @@
     "slug": "equilibrium-io",
     "name": "Equilibrium",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "equilibrium-io-logo-small.jpeg",
@@ -2019,7 +2019,7 @@
     "slug": "minterest",
     "name": "Minterest",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "minterest-logo-small.jpeg",
@@ -2057,7 +2057,7 @@
     "slug": "amara",
     "name": "Amara Finance",
     "category": "defi",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "amara-logo-small.jpeg",
@@ -2102,7 +2102,7 @@
     "slug": "offshift",
     "name": "Offshift",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "offshift-logo-small.png",
@@ -2140,7 +2140,7 @@
     "slug": "convergence-finance",
     "name": "Convergence Finance",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "convergence-finance-logo-small.jpeg",
@@ -2178,7 +2178,7 @@
     "slug": "dot-finance",
     "name": "Dot.Finance",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "dot-finance-logo-small.jpeg",
@@ -2222,7 +2222,7 @@
     "slug": "mosaic-composable",
     "name": "Mosaic",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "mosaic-composable-logo-small.jpeg",
@@ -2261,7 +2261,7 @@
     "slug": "anonstake",
     "name": "Anonstake",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "anonstake-logo-small.jpeg",
@@ -2299,7 +2299,7 @@
     "slug": "italian-independent-validators",
     "name": "Italian Independent Validators",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "italian-independent-validators-logo-small.jpeg",
@@ -2336,7 +2336,7 @@
     "slug": "moonlit-finance",
     "name": "Moonlit Finance",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "moonlit-finance-logo-small.jpeg",
@@ -2378,7 +2378,7 @@
     "slug": "impossible-finance",
     "name": "Impossible Finance",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "impossible-finance-logo-small.jpeg",
@@ -2422,7 +2422,7 @@
     "slug": "debank",
     "name": "DeBank",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "debank-logo-small.jpeg",
@@ -2461,7 +2461,7 @@
     "slug": "hydradx",
     "name": "HydraDX",
     "category": "dex",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "hydradx-logo-small.png",
@@ -2500,7 +2500,7 @@
     "slug": "orbiter-one",
     "name": "Orbiter One",
     "category": "lending",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "orbiter-one-logo-small.jpeg",
@@ -2545,7 +2545,7 @@
     "slug": "de.fi",
     "name": "De.Fi",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "de.fi-logo-small.jpeg",
@@ -2583,7 +2583,7 @@
     "slug": "rocifi-nfcs-bridge",
     "name": "RociFi NFCS Bridge",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "rocifi-nfcs-bridge-logo-small.jpeg",
@@ -2628,7 +2628,7 @@
     "slug": "blockshard",
     "name": "Blockshard",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "blockshard-logo-small.jpeg",
@@ -2674,7 +2674,7 @@
     "slug": "superhedge",
     "name": "SuperHedge",
     "category": "defi",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "superhedge-logo-small.jpeg",
@@ -2713,7 +2713,7 @@
     "slug": "bitok",
     "name": "BitOK",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "bitok-logo-small.jpeg",
@@ -2751,7 +2751,7 @@
     "slug": "fidi",
     "name": "FiDi",
     "category": "wallets",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "fidi-logo-small.jpeg",
@@ -2790,7 +2790,7 @@
     "slug": "footprint-analytics",
     "name": "Footprint Analytics",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "footprint-analytics-logo-small.jpeg",
@@ -2830,7 +2830,7 @@
     "slug": "gonana",
     "name": "Gonana",
     "category": "defi",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "gonana-logo-small.jpeg",
@@ -2868,7 +2868,7 @@
     "slug": "kogecoin.io",
     "name": "Kogecoin.io",
     "category": "defi",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "kogecoin.io-logo-small.jpeg",
@@ -2917,7 +2917,7 @@
     "slug": "solarbeam",
     "name": "Solarbeam",
     "category": "dex",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "solarbeam-logo-small.jpeg",
@@ -2962,7 +2962,7 @@
     "slug": "xp-network",
     "name": "XP Network",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "xp-network-logo-small.jpeg",
@@ -3000,7 +3000,7 @@
     "slug": "indigos",
     "name": "Indigos",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "indigos-logo-small.jpeg",
@@ -3037,7 +3037,7 @@
     "slug": "ferrum-network",
     "name": "Ferrum Network",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "ferrum-network-logo-small.jpeg",
@@ -3076,7 +3076,7 @@
     "slug": "wormhole",
     "name": "Wormhole",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "wormhole-logo-small.jpeg",
@@ -3115,7 +3115,7 @@
     "slug": "chainport",
     "name": "ChainPort",
     "category": "bridges",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "chainport-logo-small.jpeg",
@@ -3153,7 +3153,7 @@
     "slug": "allianceblock",
     "name": "AllianceBlock",
     "category": "bridges",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "allianceblock-logo-small.jpeg",
@@ -3192,7 +3192,7 @@
     "slug": "multichain-org",
     "name": "Multichain",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "multichain-org-logo-small.jpeg",
@@ -3237,7 +3237,7 @@
     "slug": "celer-network",
     "name": "Celer Network",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "celer-network-logo-small.jpeg",
@@ -3277,7 +3277,7 @@
     "slug": "relaychain",
     "name": "Relay Chain",
     "category": "bridges",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "relaychain-logo-small.jpeg",
@@ -3316,7 +3316,7 @@
     "slug": "synapse-protocol",
     "name": "Synapse Protocol",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "synapse-protocol-logo-small.png",
@@ -3356,7 +3356,7 @@
     "slug": "wanchain",
     "name": "WanChain",
     "category": "bridges",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "wanchain-logo-small.jpeg",
@@ -3396,7 +3396,7 @@
     "slug": "wepiggy",
     "name": "WePiggy",
     "category": "lending",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "wepiggy-logo-small.jpeg",
@@ -3436,7 +3436,7 @@
     "slug": "connext",
     "name": "Connext",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "connext-logo-small.jpeg",
@@ -3475,7 +3475,7 @@
     "slug": "para-space",
     "name": "ParaSpace",
     "category": "lending",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "para-space-logo-small.jpeg",
@@ -3512,7 +3512,7 @@
     "slug": "double-one",
     "name": "Double Protocol",
     "category": "lending",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "double-one-logo-small.jpeg",
@@ -3550,7 +3550,7 @@
     "slug": "midas-capital",
     "name": "Midas Capital",
     "category": "lending",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "midas-capital-logo-small.jpeg",
@@ -3589,7 +3589,7 @@
     "slug": "hundred-finance",
     "name": "Hundred Finance",
     "category": "lending",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "hundred-finance-logo-small.jpeg",
@@ -3627,7 +3627,7 @@
     "slug": "unilend",
     "name": "UniLend",
     "category": "lending",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "unilend-logo-small.jpeg",
@@ -3665,7 +3665,7 @@
     "slug": "qidao",
     "name": "QiDao",
     "category": "lending",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "qidao-logo-small.jpeg",
@@ -3709,7 +3709,7 @@
     "slug": "qoda-finance",
     "name": "Qoda Finance",
     "category": "lending",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "qoda-finance-logo-small.jpeg",
@@ -3748,7 +3748,7 @@
     "slug": "cora-protocol",
     "name": "Cora Protocol",
     "category": "lending",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "cora-protocol-logo-small.jpeg",
@@ -3786,7 +3786,7 @@
     "slug": "tofunft",
     "name": "tofuNFT",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "tofunft-logo-small.jpeg",
@@ -3825,7 +3825,7 @@
     "slug": "glmrjungle",
     "name": "GLMR JUNGLE",
     "category": "gaming",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "glmrjungle-logo-small.jpeg",
@@ -3863,7 +3863,7 @@
     "slug": "rmrk",
     "name": "RMRK",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "rmrk-logo-small.jpeg",
@@ -3901,7 +3901,7 @@
     "slug": "raresama",
     "name": "Raresama",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "raresama-logo-small.jpeg",
@@ -3939,7 +3939,7 @@
     "slug": "moonbeans",
     "name": "Moonbeans",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "moonbeans-logo-small.jpeg",
@@ -3988,7 +3988,7 @@
     "slug": "nftrade",
     "name": "NFTrade",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "nftrade-logo-small.jpeg",
@@ -4027,7 +4027,7 @@
     "slug": "exiled-racers",
     "name": "Exiled Racers",
     "category": "gaming",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "exiled-racers-logo-small.jpeg",
@@ -4064,7 +4064,7 @@
     "slug": "damned-pirates-society",
     "name": "Damned Pirates Society",
     "category": "nfts",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "damned-pirates-society-logo-small.jpeg",
@@ -4101,7 +4101,7 @@
     "slug": "seascape",
     "name": "Seascape",
     "category": "gaming",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "seascape-logo-small.jpeg",
@@ -4139,7 +4139,7 @@
     "slug": "treasureland",
     "name": "Treasureland",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "treasureland-logo-small.jpeg",
@@ -4176,7 +4176,7 @@
     "slug": "zoombies",
     "name": "Zoombies",
     "category": "gaming",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "zoombies-logo-small.jpeg",
@@ -4215,7 +4215,7 @@
     "slug": "evelon-app",
     "name": "Evelon.App",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "evelon-app-logo-small.jpeg",
@@ -4252,7 +4252,7 @@
     "slug": "singular-app",
     "name": "Singular App",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "singular-app-logo-small.png",
@@ -4290,7 +4290,7 @@
     "slug": "evrloot",
     "name": "EVRLoot",
     "category": "gaming",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "evrloot-logo-small.png",
@@ -4328,7 +4328,7 @@
     "slug": "taverndao-io",
     "name": "TavernDAO",
     "category": "gaming",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "taverndao-io-logo-small.jpeg",
@@ -4366,7 +4366,7 @@
     "slug": "metacourt",
     "name": "Metacourt",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "metacourt-logo-small.jpeg",
@@ -4405,7 +4405,7 @@
     "slug": "omnisea",
     "name": "Omnisea",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "omnisea-logo-small.jpeg",
@@ -4443,7 +4443,7 @@
     "slug": "galxe",
     "name": "Galxe",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "galxe-logo-small.jpeg",
@@ -4482,7 +4482,7 @@
     "slug": "speedboat.studio",
     "name": "Speedboat",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "speedboat.studio-logo-small.png",
@@ -4520,7 +4520,7 @@
     "slug": "tfalpha",
     "name": "UTOPIA & TF ALPHA",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "tfalpha-logo-small.jpeg",
@@ -4558,7 +4558,7 @@
     "slug": "pipcards",
     "name": "PIP Cards",
     "category": "nfts",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "pipcards-logo-small.jpeg",
@@ -4595,7 +4595,7 @@
     "slug": "moondao",
     "name": "MoonDAO",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "moondao-logo-small.png",
@@ -4633,7 +4633,7 @@
     "slug": "moonbeam-punks",
     "name": "Moonbeam Punks",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "moonbeam-punks-logo-small.jpeg",
@@ -4670,7 +4670,7 @@
     "slug": "brawl-turtles",
     "name": "Brawl Turtles",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "brawl-turtles-logo-small.jpeg",
@@ -4707,7 +4707,7 @@
     "slug": "mynft",
     "name": "myNFT",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "mynft-logo-small.jpeg",
@@ -4743,7 +4743,7 @@
     "slug": "yuser",
     "name": "Yuser",
     "category": "nfts",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "yuser-logo-small.jpeg",
@@ -4782,7 +4782,7 @@
     "slug": "blocsport-one",
     "name": "Blocsport.one",
     "category": "nfts",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "blocsport-one-logo-small.jpeg",
@@ -4820,7 +4820,7 @@
     "slug": "jambb",
     "name": "Jambb",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "jambb-logo-small.jpeg",
@@ -4857,7 +4857,7 @@
     "slug": "blockchain-monster-hunt",
     "name": "Blockchain Monster Hunt",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "blockchain-monster-hunt-logo-small.jpeg",
@@ -4896,7 +4896,7 @@
     "slug": "pawnfi",
     "name": "PawnFi",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "pawnfi-logo-small.jpeg",
@@ -4936,7 +4936,7 @@
     "slug": "glmr-apes",
     "name": "GLMR APES",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "glmr-apes-logo-small.png",
@@ -4974,7 +4974,7 @@
     "slug": "glmr-punks",
     "name": "Glmr Punks",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "glmr-punks-logo-small.jpeg",
@@ -5010,7 +5010,7 @@
     "slug": "livetree",
     "name": "Livetree",
     "category": "social",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "livetree-logo-small.jpeg",
@@ -5047,7 +5047,7 @@
     "slug": "upgradooor",
     "name": "Upgradooor",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "upgradooor-logo-small.jpeg",
@@ -5086,7 +5086,7 @@
     "slug": "rmrk-wizard",
     "name": "RMRK Wizard",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "rmrk-wizard-logo-small.jpeg",
@@ -5125,7 +5125,7 @@
     "slug": "emotes.app",
     "name": "Emotes.app",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "emotes.app-logo-small.jpeg",
@@ -5164,7 +5164,7 @@
     "slug": "snake-soldiers",
     "name": "Snake Soldiers",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "snake-soldiers-logo-small.jpeg",
@@ -5208,7 +5208,7 @@
     "slug": "teddy-dao",
     "name": "Teddy DAO",
     "category": "dao",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "teddy-dao-logo-small.jpeg",
@@ -5251,7 +5251,7 @@
     "slug": "d-book.io",
     "name": "D-book.io",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "d-book.io-logo-small.png",
@@ -5292,7 +5292,7 @@
     "slug": "golem-park",
     "name": "Golem Park",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "golem-park-logo-small.png",
@@ -5335,7 +5335,7 @@
     "slug": "smartstamp",
     "name": "SmartStamp",
     "category": "nfts",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "smartstamp-logo-small.jpeg",
@@ -5371,7 +5371,7 @@
     "slug": "omni-x",
     "name": "Omni-X",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "omni-x-logo-small.jpeg",
@@ -5410,7 +5410,7 @@
     "slug": "nfts2me",
     "name": "NFTs2Me",
     "category": "nfts",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "nfts2me-logo-small.jpeg",
@@ -5454,7 +5454,7 @@
     "slug": "the-quest-of-evolution",
     "name": "The Quest of Evolution",
     "category": "social",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "the-quest-of-evolution-logo-small.jpeg",
@@ -5491,7 +5491,7 @@
     "slug": "moonscape",
     "name": "Moonscape",
     "category": "gaming",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "moonscape-logo-small.jpeg",
@@ -5534,7 +5534,7 @@
     "slug": "guild-xyz",
     "name": "Guild",
     "category": "gaming",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "guild-xyz-logo-small.jpeg",
@@ -5572,7 +5572,7 @@
     "slug": "polkamarkets",
     "name": "Polkamarkets",
     "category": "gaming",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "polkamarkets-logo-small.jpeg",
@@ -5610,7 +5610,7 @@
     "slug": "ignite-tournaments",
     "name": "Ignite Tournaments",
     "category": "gaming",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ignite-tournaments-logo-small.png",
@@ -5649,7 +5649,7 @@
     "slug": "ibetyou",
     "name": "iBetYou",
     "category": "gaming",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "ibetyou-logo-small.jpeg",
@@ -5687,7 +5687,7 @@
     "slug": "mymessage-io",
     "name": "myMessage",
     "category": "social",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "mymessage-io-logo-small.jpeg",
@@ -5726,7 +5726,7 @@
     "slug": "omnicha-in",
     "name": "The Omnichain",
     "category": "social",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "omnicha-in-logo-small.png",
@@ -5762,7 +5762,7 @@
     "slug": "lunarcrush",
     "name": "Lunar Crush",
     "category": "social",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "lunarcrush-logo-small.jpeg",
@@ -5800,7 +5800,7 @@
     "slug": "polkassembly",
     "name": "Polkassembly",
     "category": "social",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "polkassembly-logo-small.jpeg",
@@ -5837,7 +5837,7 @@
     "slug": "taskon",
     "name": "TaskOn",
     "category": "social",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "taskon-logo-small.png",
@@ -5876,7 +5876,7 @@
     "slug": "airlyft.one",
     "name": "AirLyft.One",
     "category": "social",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "airlyft.one-logo-small.jpeg",
@@ -5925,7 +5925,7 @@
     "slug": "subwallet",
     "name": "SubWallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "subwallet-logo-small.jpeg",
@@ -5964,7 +5964,7 @@
     "slug": "ledger",
     "name": "Ledger",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ledger-logo-small.jpeg",
@@ -6002,7 +6002,7 @@
     "slug": "metamask",
     "name": "MetaMask",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "metamask-logo-small.jpeg",
@@ -6040,7 +6040,7 @@
     "slug": "math-wallet",
     "name": "Math Wallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "math-wallet-logo-small.jpeg",
@@ -6078,7 +6078,7 @@
     "slug": "enkrypt",
     "name": "Enkrypt",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "enkrypt-logo-small.png",
@@ -6117,7 +6117,7 @@
     "slug": "frontier-xyz",
     "name": "Frontier",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "frontier-xyz-logo-small.jpeg",
@@ -6155,7 +6155,7 @@
     "slug": "fearless-wallet",
     "name": "Fearless Wallet",
     "category": "wallets",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "fearless-wallet-logo-small.jpeg",
@@ -6193,7 +6193,7 @@
     "slug": "token-im",
     "name": "imToken",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "token-im-logo-small.jpeg",
@@ -6232,7 +6232,7 @@
     "slug": "shibawallet",
     "name": "ShibaWallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "shibawallet-logo-small.jpeg",
@@ -6271,7 +6271,7 @@
     "slug": "ambire-wallet",
     "name": "Ambire Wallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ambire-wallet-logo-small.png",
@@ -6310,7 +6310,7 @@
     "slug": "bitcoin-suisse",
     "name": "Bitcoin Suisse ",
     "category": "wallets",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "bitcoin-suisse-logo-small.png",
@@ -6347,7 +6347,7 @@
     "slug": "nova-wallet",
     "name": "Nova Wallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "nova-wallet-logo-small.jpeg",
@@ -6385,7 +6385,7 @@
     "slug": "airgap",
     "name": "AirGap",
     "category": "wallets",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "airgap-logo-small.jpeg",
@@ -6422,7 +6422,7 @@
     "slug": "rabby",
     "name": "Rabby",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "rabby-logo-small.jpeg",
@@ -6462,7 +6462,7 @@
     "slug": "foxwallet",
     "name": "FoxWallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "foxwallet-logo-small.jpeg",
@@ -6502,7 +6502,7 @@
     "slug": "onto-wallet",
     "name": "ONTO Wallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "onto-wallet-logo-small.jpeg",
@@ -6541,7 +6541,7 @@
     "slug": "mowallet-app",
     "name": "MoWallet",
     "category": "wallets",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "mowallet-app-logo-small.jpeg",
@@ -6579,7 +6579,7 @@
     "slug": "subdao-network",
     "name": "SubDAO",
     "category": "dao",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "subdao-network-logo-small.jpeg",
@@ -6616,7 +6616,7 @@
     "slug": "nftscan",
     "name": "NFTScan",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "nftscan-logo-small.jpeg",
@@ -6654,7 +6654,7 @@
     "slug": "subscan",
     "name": "Subscan",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "subscan-logo-small.jpeg",
@@ -6692,7 +6692,7 @@
     "slug": "moonscan",
     "name": "MoonScan",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "moonscan-logo-small.jpeg",
@@ -6728,7 +6728,7 @@
     "slug": "ryabina",
     "name": "Ryabina",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ryabina-logo-small.jpeg",
@@ -6766,7 +6766,7 @@
     "slug": "hetavalidation",
     "name": "Hetavalidation",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "hetavalidation-logo-small.jpeg",
@@ -6802,7 +6802,7 @@
     "slug": "axelar",
     "name": "AXELAR",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "axelar-logo-small.jpeg",
@@ -6841,7 +6841,7 @@
     "slug": "bware-labs",
     "name": "Bware Labs",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "bware-labs-logo-small.jpeg",
@@ -6880,7 +6880,7 @@
     "slug": "stakefish",
     "name": "stakefish",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "stakefish-logo-small.jpeg",
@@ -6917,7 +6917,7 @@
     "slug": "alfastake",
     "name": "AlfaStake",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "alfastake-logo-small.jpeg",
@@ -6954,7 +6954,7 @@
     "slug": "simply-vc",
     "name": "Simply VC",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "simply-vc-logo-small.jpeg",
@@ -6992,7 +6992,7 @@
     "slug": "polkadot-js",
     "name": "Polkadot-JS",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "polkadot-js-logo-small.jpeg",
@@ -7028,7 +7028,7 @@
     "slug": "astar-network",
     "name": "Astar Network",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "astar-network-logo-small.jpeg",
@@ -7068,7 +7068,7 @@
     "slug": "tenderly.co",
     "name": "Tenderly",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "tenderly.co-logo-small.jpeg",
@@ -7106,7 +7106,7 @@
     "slug": "relationlabs.ai",
     "name": "Relation Labs",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "relationlabs.ai-logo-small.jpeg",
@@ -7146,7 +7146,7 @@
     "slug": "bitquery-io",
     "name": "Bitquery",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "bitquery-io-logo-small.jpeg",
@@ -7183,7 +7183,7 @@
     "slug": "layerzero-network",
     "name": "LayerZero",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "layerzero-network-logo-small.jpeg",
@@ -7222,7 +7222,7 @@
     "slug": "blast",
     "name": "Blast",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "blast-logo-small.jpeg",
@@ -7262,7 +7262,7 @@
     "slug": "getlaika-app",
     "name": "Laika Blockchain Lab",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "getlaika-app-logo-small.jpeg",
@@ -7299,7 +7299,7 @@
     "slug": "collectify-app",
     "name": "Collectify",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "collectify-app-logo-small.png",
@@ -7337,7 +7337,7 @@
     "slug": "interlay-io",
     "name": "interlay",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "interlay-io-logo-small.jpeg",
@@ -7377,7 +7377,7 @@
     "slug": "kilt-io",
     "name": "KILT Protocol",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "kilt-io-logo-small.jpeg",
@@ -7416,7 +7416,7 @@
     "slug": "calamari-network",
     "name": "Calamari\n Network",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "calamari-network-logo-small.jpeg",
@@ -7452,7 +7452,7 @@
     "slug": "phala-network",
     "name": "Phala Network",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "phala-network-logo-small.jpeg",
@@ -7488,7 +7488,7 @@
     "slug": "kintsugi-interlay",
     "name": "Kintsugi",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "kintsugi-interlay-logo-small.jpeg",
@@ -7524,7 +7524,7 @@
     "slug": "crab-network",
     "name": "Crab Network",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "crab-network-logo-small.jpeg",
@@ -7560,7 +7560,7 @@
     "slug": "heiko-parallel",
     "name": "HEIKO",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "heiko-parallel-logo-small.jpeg",
@@ -7596,7 +7596,7 @@
     "slug": "bifrost-finance",
     "name": "Bifrost",
     "category": "other",
-    "chains": ["Moonriver", "Moonbeam"],
+    "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
         "fileName": "bifrost-finance-logo-small.jpeg",
@@ -7635,7 +7635,7 @@
     "slug": "acala-karura",
     "name": "Acala Karura",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "acala-karura-logo-small.jpeg",
@@ -7672,7 +7672,7 @@
     "slug": "polkadot-network",
     "name": "Polkadot Statemint",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "polkadot-network-logo-small.jpeg",
@@ -7708,7 +7708,7 @@
     "slug": "kusama-network",
     "name": "Kusama Statemine",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "kusama-network-logo-small.jpeg",
@@ -7744,7 +7744,7 @@
     "slug": "mystiko-network",
     "name": "Mystiko.Network",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "mystiko-network-logo-small.jpeg",
@@ -7784,7 +7784,7 @@
     "slug": "senditstaking",
     "name": "Sendit Staking",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "senditstaking-logo-small.png",
@@ -7823,7 +7823,7 @@
     "slug": "seor",
     "name": "SEOR Network",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "seor-logo-small.png",
@@ -7862,7 +7862,7 @@
     "slug": "bloclick",
     "name": "BloClick",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "bloclick-logo-small.jpeg",
@@ -7897,7 +7897,7 @@
     "slug": "stakeglmr",
     "name": "Stake GLMR",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "stakeglmr-logo-small.jpeg",
@@ -7933,7 +7933,7 @@
     "slug": "cointool",
     "name": "Coin Tool",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "cointool-logo-small.jpeg",
@@ -7970,7 +7970,7 @@
     "slug": "stakebaby",
     "name": "StakeBaby",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "stakebaby-logo-small.jpeg",
@@ -8007,7 +8007,7 @@
     "slug": "moonli",
     "name": "Moonli",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "moonli-logo-small.jpeg",
@@ -8044,7 +8044,7 @@
     "slug": "zooper",
     "name": "ZooperCorp",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "zooper-logo-small.jpeg",
@@ -8080,7 +8080,7 @@
     "slug": "subsquid",
     "name": "Subsquid",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "subsquid-logo-small.png",
@@ -8120,7 +8120,7 @@
     "slug": "moonbeam-name-service",
     "name": "Moonbeam Name Service",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "moonbeam-name-service-logo-small.jpeg",
@@ -8157,7 +8157,7 @@
     "slug": "web3go",
     "name": "Web3Go",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "web3go-logo-small.jpeg",
@@ -8196,7 +8196,7 @@
     "slug": "gpvalidator",
     "name": "GPvalidator",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "gpvalidator-logo-small.jpeg",
@@ -8234,7 +8234,7 @@
     "slug": "injective-protocol",
     "name": "Injective Protocol",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "injective-protocol-logo-small.jpeg",
@@ -8273,7 +8273,7 @@
     "slug": "purestake",
     "name": "PureStake",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "purestake-logo-small.jpeg",
@@ -8311,7 +8311,7 @@
     "slug": "ankr-network",
     "name": "Ankr",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ankr-network-logo-small.jpeg",
@@ -8349,7 +8349,7 @@
     "slug": "razor",
     "name": "Razor",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "razor-logo-small.jpeg",
@@ -8388,7 +8388,7 @@
     "slug": "dia-data",
     "name": "DIA Data",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "dia-data-logo-small.jpeg",
@@ -8426,7 +8426,7 @@
     "slug": "premagine",
     "name": "Premagine",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "premagine-logo-small.jpeg",
@@ -8461,7 +8461,7 @@
     "slug": "truestaking",
     "name": "TrueStaking",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "truestaking-logo-small.jpeg",
@@ -8498,7 +8498,7 @@
     "slug": "crust-network",
     "name": "Crust Network",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "crust-network-logo-small.jpeg",
@@ -8537,7 +8537,7 @@
     "slug": "ocean-protocol",
     "name": "Ocean Protocol",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "ocean-protocol-logo-small.jpeg",
@@ -8575,7 +8575,7 @@
     "slug": "certhum",
     "name": "CertHum",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "certhum-logo-small.jpeg",
@@ -8613,7 +8613,7 @@
     "slug": "band-protocol",
     "name": "Band Protocol",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "band-protocol-logo-small.jpeg",
@@ -8652,7 +8652,7 @@
     "slug": "subquery",
     "name": "SubQuery",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "subquery-logo-small.jpeg",
@@ -8692,7 +8692,7 @@
     "slug": "masternode24",
     "name": "Masternode24",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "masternode24-logo-small.jpeg",
@@ -8729,7 +8729,7 @@
     "slug": "kyve-network",
     "name": "KYVE Network",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "kyve-network-logo-small.jpeg",
@@ -8769,7 +8769,7 @@
     "slug": "polkadotters",
     "name": "Polkadotters",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "polkadotters-logo-small.jpeg",
@@ -8805,7 +8805,7 @@
     "slug": "the-graph",
     "name": "The Graph",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "the-graph-logo-small.jpeg",
@@ -8845,7 +8845,7 @@
     "slug": "automata-network",
     "name": "Automata Network",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "automata-network-logo-small.jpeg",
@@ -8883,7 +8883,7 @@
     "slug": "staker-space",
     "name": "Staker Space",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "staker-space-logo-small.jpeg",
@@ -8920,7 +8920,7 @@
     "slug": "figment",
     "name": "Figment",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "figment-logo-small.jpeg",
@@ -8959,7 +8959,7 @@
     "slug": "staking4all",
     "name": "Staking4All",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "staking4all-logo-small.jpeg",
@@ -8996,7 +8996,7 @@
     "slug": "nomad",
     "name": "Nomad",
     "category": "bridges",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "nomad-logo-small.jpeg",
@@ -9035,7 +9035,7 @@
     "slug": "pathrock-network",
     "name": "Pathrock Network",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "pathrock-network-logo-small.jpeg",
@@ -9071,7 +9071,7 @@
     "slug": "zero-knowledge-validator",
     "name": "Zero Knowledge Validator",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "zero-knowledge-validator-logo-small.jpeg",
@@ -9108,7 +9108,7 @@
     "slug": "brightlystake",
     "name": "Brightlystake",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "brightlystake-logo-small.jpeg",
@@ -9146,7 +9146,7 @@
     "slug": "letzbake",
     "name": "LetzBake!",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "letzbake-logo-small.jpeg",
@@ -9183,7 +9183,7 @@
     "slug": "banksea-finance",
     "name": "Banksea Finance",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "banksea-finance-logo-small.jpeg",
@@ -9223,7 +9223,7 @@
     "slug": "ethsign",
     "name": "EthSign",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "ethsign-logo-small.jpeg",
@@ -9261,7 +9261,7 @@
     "slug": "crifferent",
     "name": "Crifferent",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "crifferent-logo-small.jpeg",
@@ -9298,7 +9298,7 @@
     "slug": "human-protocol",
     "name": "HUMAN Protocol",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "human-protocol-logo-small.jpeg",
@@ -9337,7 +9337,7 @@
     "slug": "dominodes",
     "name": "DomiNodes",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "dominodes-logo-small.jpeg",
@@ -9373,7 +9373,7 @@
     "slug": "chainlink",
     "name": "Chainlink",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "chainlink-logo-small.jpeg",
@@ -9412,7 +9412,7 @@
     "slug": "onfinality",
     "name": "OnFinality",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "onfinality-logo-small.jpeg",
@@ -9451,7 +9451,7 @@
     "slug": "web3space",
     "name": "WEB3Space",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "web3space-logo-small.jpeg",
@@ -9488,7 +9488,7 @@
     "slug": "icon",
     "name": "ICON",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "icon-logo-small.jpeg",
@@ -9528,7 +9528,7 @@
     "slug": "blockdaemon",
     "name": "Blockdaemon",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "blockdaemon-logo-small.jpeg",
@@ -9566,7 +9566,7 @@
     "slug": "particle-network",
     "name": "Particle Network",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "particle-network-logo-small.png",
@@ -9604,7 +9604,7 @@
     "slug": "stakemovr.com",
     "name": "StakeMovr.com",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "stakemovr.com-logo-small.jpeg",
@@ -9641,7 +9641,7 @@
     "slug": "attarius-network",
     "name": "Attarius Network",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "attarius-network-logo-small.png",
@@ -9680,7 +9680,7 @@
     "slug": "unmarshal-io",
     "name": "Unmarshal",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "unmarshal-io-logo-small.jpeg",
@@ -9720,7 +9720,7 @@
     "slug": "request-finance",
     "name": "Request Finance",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "request-finance-logo-small.jpeg",
@@ -9757,7 +9757,7 @@
     "slug": "btse",
     "name": "BTSE",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "btse-logo-small.jpeg",
@@ -9795,7 +9795,7 @@
     "slug": "aircash.finance",
     "name": "AirCash Finance",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "aircash.finance-logo-small.jpeg",
@@ -9834,7 +9834,7 @@
     "slug": "transak",
     "name": "Transak",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "transak-logo-small.jpeg",
@@ -9873,7 +9873,7 @@
     "slug": "jrstudio-solutions",
     "name": "JR Studio",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "jrstudio-solutions-logo-small.jpeg",
@@ -9910,7 +9910,7 @@
     "slug": "chainjet-io",
     "name": "ChainJet",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "chainjet-io-logo-small.jpeg",
@@ -9948,7 +9948,7 @@
     "slug": "unstoppable",
     "name": "Unstoppable Domain",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "unstoppable-logo-small.jpeg",
@@ -9986,7 +9986,7 @@
     "slug": "protofire-io",
     "name": "ProtoFire",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "protofire-io-logo-small.jpeg",
@@ -10024,7 +10024,7 @@
     "slug": "gelato-network",
     "name": "Gelato",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "gelato-network-logo-small.jpeg",
@@ -10062,7 +10062,7 @@
     "slug": "xdao",
     "name": "XDAO",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "xdao-logo-small.png",
@@ -10102,7 +10102,7 @@
     "slug": "chainsafe",
     "name": "ChainSafe",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "chainsafe-logo-small.jpeg",
@@ -10140,7 +10140,7 @@
     "slug": "ethereum-remix",
     "name": "Remix IDE",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ethereum-remix-logo-small.jpeg",
@@ -10178,7 +10178,7 @@
     "slug": "api3",
     "name": "API3",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "api3-logo-small.jpeg",
@@ -10217,7 +10217,7 @@
     "slug": "moonbeam",
     "name": "Moonbeam",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "moonbeam-logo-small.jpeg",
@@ -10257,7 +10257,7 @@
     "slug": "ceramic",
     "name": "Ceramic",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ceramic-logo-small.jpeg",
@@ -10296,7 +10296,7 @@
     "slug": "polimec",
     "name": "Polimec",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "polimec-logo-small.jpeg",
@@ -10332,7 +10332,7 @@
     "slug": "mars",
     "name": "Mars",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "mars-logo-small.jpeg",
@@ -10368,7 +10368,7 @@
     "slug": "open-zeppelin",
     "name": "Open Zeppelin",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "open-zeppelin-logo-small.jpeg",
@@ -10407,7 +10407,7 @@
     "slug": "swing",
     "name": "Swing",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "swing-logo-small.jpeg",
@@ -10446,7 +10446,7 @@
     "slug": "dapplooker",
     "name": "DappLooker",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "dapplooker-logo-small.jpeg",
@@ -10484,7 +10484,7 @@
     "slug": "bepro",
     "name": "BePro",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "bepro-logo-small.jpeg",
@@ -10524,7 +10524,7 @@
     "slug": "my-wish",
     "name": "My Wish",
     "category": "other",
-    "chains": ["Moonriver"],
+    "chains": ["moonriver"],
     "logo": {
       "small": {
         "fileName": "my-wish-logo-small.jpeg",
@@ -10563,7 +10563,7 @@
     "slug": "waffle",
     "name": "Waffle",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "waffle-logo-small.jpeg",
@@ -10599,7 +10599,7 @@
     "slug": "truffle",
     "name": "Truffle",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "truffle-logo-small.jpeg",
@@ -10636,7 +10636,7 @@
     "slug": "magic-labs",
     "name": "Magic Labs",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "magic-labs-logo-small.jpeg",
@@ -10676,7 +10676,7 @@
     "slug": "biconomy",
     "name": "Biconomy",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "biconomy-logo-small.jpeg",
@@ -10714,7 +10714,7 @@
     "slug": "ventureflow",
     "name": "Venture Flow",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "ventureflow-logo-small.jpeg",
@@ -10751,7 +10751,7 @@
     "slug": "add3",
     "name": "Add3",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "add3-logo-small.jpeg",
@@ -10787,7 +10787,7 @@
     "slug": "apillon",
     "name": "Apillon",
     "category": "other",
-    "chains": ["Moonbeam", "Moonriver"],
+    "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
         "fileName": "apillon-logo-small.jpeg",
@@ -10827,7 +10827,7 @@
     "slug": "getblock-io",
     "name": "Getblock",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "getblock-io-logo-small.jpeg",
@@ -10865,7 +10865,7 @@
     "slug": "etherspot",
     "name": "Etherspot",
     "category": "other",
-    "chains": ["Moonbeam"],
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "etherspot-logo-small.jpeg",
