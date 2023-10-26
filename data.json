@@ -4,7 +4,8 @@
     "slug": "moonwell",
     "name": "Moonwell",
     "category": "lending",
-    "chains": ["moonriver", "moonbeam"],
+    "coinGeckoId": "moonwell-artemis",
+    "chains": ["moonbeam"],
     "logo": {
       "small": {
         "fileName": "moonwell-logo-small.jpeg",
@@ -87,6 +88,7 @@
     "slug": "stellaswap",
     "name": "StellaSwap",
     "category": "dex",
+    "coinGeckoId": "stellaswap",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -131,6 +133,7 @@
     "slug": "beamswap",
     "name": "BEAMSWAP",
     "category": "dex",
+    "coinGeckoId": "beamswap",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -175,6 +178,7 @@
     "slug": "curve",
     "name": "Curve",
     "category": "defi",
+    "coinGeckoId": "curve-dao-token",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -212,6 +216,7 @@
     "slug": "beefy-finance",
     "name": "Beefy Finance",
     "category": "defi",
+    "coinGeckoId": "beefy-finance",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -257,6 +262,7 @@
     "slug": "sushi",
     "name": "Sushi",
     "category": "dex",
+    "coinGeckoId": "sushi",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -296,6 +302,7 @@
     "slug": "zenlink",
     "name": "Zenlink",
     "category": "dex",
+    "coinGeckoId": "zenlink-network-token",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -341,6 +348,7 @@
     "slug": "solarflare",
     "name": "Solarflare",
     "category": "dex",
+    "coinGeckoId": "solarflare",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -891,6 +899,7 @@
     "slug": "acryptos",
     "name": "ACryptoS",
     "category": "defi",
+    "coinGeckoId": "acryptos",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -1005,6 +1014,7 @@
     "slug": "dex-leonicornswap",
     "name": "Jungle|Leonicorn Swap",
     "category": "dex",
+    "coinGeckoId": "leonicorn-swap",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -1193,6 +1203,7 @@
     "slug": "athos-finance",
     "name": "Athos Finance",
     "category": "defi",
+    "coinGeckoId": "athos-finance",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -1237,6 +1248,7 @@
     "slug": "stox",
     "name": "Stox",
     "category": "defi",
+    "coinGeckoId": "stox",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -1312,6 +1324,7 @@
     "slug": "energyfi",
     "name": "Energyfi",
     "category": "dex",
+    "coinGeckoId": "energyfi",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -1463,6 +1476,7 @@
     "slug": "oh-finance",
     "name": "Oh Finance",
     "category": "defi",
+    "coinGeckoId": "oh-finance",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -1618,6 +1632,7 @@
     "slug": "aliumswap",
     "name": "AliumSwap",
     "category": "bridges",
+    "coinGeckoId": "alium-finance",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -1657,6 +1672,7 @@
     "slug": "demodyfi",
     "name": "Demodyfi",
     "category": "dex",
+    "coinGeckoId": "demodyfi",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -1696,6 +1712,7 @@
     "slug": "cougarswap",
     "name": "Cougarswap",
     "category": "defi",
+    "coinGeckoId": "cougar-token",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -1776,6 +1793,7 @@
     "slug": "impermax-finance",
     "name": "Impermax Finance",
     "category": "defi",
+    "coinGeckoId": "impermax",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -1859,6 +1877,7 @@
     "slug": "frax",
     "name": "Frax",
     "category": "dex",
+    "coinGeckoId": "frax",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -1902,6 +1921,7 @@
     "slug": "covercompared",
     "name": "Cover Compared",
     "category": "defi",
+    "coinGeckoId": "covercompared",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -2057,6 +2077,7 @@
     "slug": "amara",
     "name": "Amara Finance",
     "category": "defi",
+    "coinGeckoId": "amara-finance",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -2102,6 +2123,7 @@
     "slug": "offshift",
     "name": "Offshift",
     "category": "defi",
+    "coinGeckoId": "offshift",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -2140,6 +2162,7 @@
     "slug": "convergence-finance",
     "name": "Convergence Finance",
     "category": "defi",
+    "coinGeckoId": "convergence",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -2178,6 +2201,7 @@
     "slug": "dot-finance",
     "name": "Dot.Finance",
     "category": "defi",
+    "coinGeckoId": "dot-finance",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -2378,6 +2402,7 @@
     "slug": "impossible-finance",
     "name": "Impossible Finance",
     "category": "defi",
+    "coinGeckoId": "impossible-finance",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -2868,6 +2893,7 @@
     "slug": "kogecoin.io",
     "name": "Kogecoin.io",
     "category": "defi",
+    "coinGeckoId": "kogecoin",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -2917,6 +2943,7 @@
     "slug": "solarbeam",
     "name": "Solarbeam",
     "category": "dex",
+    "coinGeckoId": "solarbeam",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -3115,6 +3142,7 @@
     "slug": "chainport",
     "name": "ChainPort",
     "category": "bridges",
+    "coinGeckoId": "chainport",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -3192,6 +3220,7 @@
     "slug": "multichain-org",
     "name": "Multichain",
     "category": "bridges",
+    "coinGeckoId": "multichain",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -3237,6 +3266,7 @@
     "slug": "celer-network",
     "name": "Celer Network",
     "category": "bridges",
+    "coinGeckoId": "celer-network",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -3277,6 +3307,7 @@
     "slug": "relaychain",
     "name": "Relay Chain",
     "category": "bridges",
+    "coinGeckoId": "relay-token",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -3316,6 +3347,7 @@
     "slug": "synapse-protocol",
     "name": "Synapse Protocol",
     "category": "bridges",
+    "coinGeckoId": "synapse",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -3356,6 +3388,7 @@
     "slug": "wanchain",
     "name": "WanChain",
     "category": "bridges",
+    "coinGeckoId": "wanchain",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -3396,6 +3429,7 @@
     "slug": "wepiggy",
     "name": "WePiggy",
     "category": "lending",
+    "coinGeckoId": "wepiggy-coin",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -3589,6 +3623,7 @@
     "slug": "hundred-finance",
     "name": "Hundred Finance",
     "category": "lending",
+    "coinGeckoId": "hundred-finance",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -3627,6 +3662,7 @@
     "slug": "unilend",
     "name": "UniLend",
     "category": "lending",
+    "coinGeckoId": "unlend-finance",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -3665,6 +3701,7 @@
     "slug": "qidao",
     "name": "QiDao",
     "category": "lending",
+    "coinGeckoId": "qi-dao",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -3863,6 +3900,7 @@
     "slug": "rmrk",
     "name": "RMRK",
     "category": "nfts",
+    "coinGeckoId": "rmrk",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -3939,6 +3977,7 @@
     "slug": "moonbeans",
     "name": "Moonbeans",
     "category": "nfts",
+    "coinGeckoId": "moonbeans",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -3988,6 +4027,7 @@
     "slug": "nftrade",
     "name": "NFTrade",
     "category": "nfts",
+    "coinGeckoId": "nftrade",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -4101,6 +4141,7 @@
     "slug": "seascape",
     "name": "Seascape",
     "category": "gaming",
+    "coinGeckoId": "seascape-crowns",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -5491,6 +5532,7 @@
     "slug": "moonscape",
     "name": "Moonscape",
     "category": "gaming",
+    "coinGeckoId": "moonscape",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -5572,6 +5614,7 @@
     "slug": "polkamarkets",
     "name": "Polkamarkets",
     "category": "gaming",
+    "coinGeckoId": "polkamarkets",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -5649,6 +5692,7 @@
     "slug": "ibetyou",
     "name": "iBetYou",
     "category": "gaming",
+    "coinGeckoId": "ibetyou",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -6040,6 +6084,7 @@
     "slug": "math-wallet",
     "name": "Math Wallet",
     "category": "wallets",
+    "coinGeckoId": "math",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -6271,6 +6316,7 @@
     "slug": "ambire-wallet",
     "name": "Ambire Wallet",
     "category": "wallets",
+    "coinGeckoId": "ambire-wallet",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -6802,6 +6848,7 @@
     "slug": "axelar",
     "name": "AXELAR",
     "category": "bridges",
+    "coinGeckoId": "axelar-network",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -7377,6 +7424,7 @@
     "slug": "kilt-io",
     "name": "KILT Protocol",
     "category": "other",
+    "coinGeckoId": "kilt-protocol",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -7416,6 +7464,7 @@
     "slug": "calamari-network",
     "name": "Calamari\n Network",
     "category": "other",
+    "coinGeckoId": "calamari-network",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -7452,6 +7501,7 @@
     "slug": "phala-network",
     "name": "Phala Network",
     "category": "other",
+    "coinGeckoId": "phala-network",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -7488,6 +7538,7 @@
     "slug": "kintsugi-interlay",
     "name": "Kintsugi",
     "category": "other",
+    "coinGeckoId": "kintsugi",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -7596,6 +7647,7 @@
     "slug": "bifrost-finance",
     "name": "Bifrost",
     "category": "other",
+    "coinGeckoId": "bifrost",
     "chains": ["moonriver", "moonbeam"],
     "logo": {
       "small": {
@@ -7635,6 +7687,7 @@
     "slug": "acala-karura",
     "name": "Acala Karura",
     "category": "other",
+    "coinGeckoId": "acala",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -7672,6 +7725,7 @@
     "slug": "polkadot-network",
     "name": "Polkadot Statemint",
     "category": "other",
+    "coinGeckoId": "polkadot",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -7708,6 +7762,7 @@
     "slug": "kusama-network",
     "name": "Kusama Statemine",
     "category": "other",
+    "coinGeckoId": "kusama",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -8349,6 +8404,7 @@
     "slug": "razor",
     "name": "Razor",
     "category": "other",
+    "coinGeckoId": "razor-network",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -8388,6 +8444,7 @@
     "slug": "dia-data",
     "name": "DIA Data",
     "category": "other",
+    "coinGeckoId": "dia",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -8498,6 +8555,7 @@
     "slug": "crust-network",
     "name": "Crust Network",
     "category": "other",
+    "coinGeckoId": "crust-network",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -8537,6 +8595,7 @@
     "slug": "ocean-protocol",
     "name": "Ocean Protocol",
     "category": "other",
+    "coinGeckoId": "ocean-protocol",
     "chains": ["moonriver"],
     "logo": {
       "small": {
@@ -8613,6 +8672,7 @@
     "slug": "band-protocol",
     "name": "Band Protocol",
     "category": "other",
+    "coinGeckoId": "band-protocol",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -8729,6 +8789,7 @@
     "slug": "kyve-network",
     "name": "KYVE Network",
     "category": "other",
+    "coinGeckoId": "kyve-network",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -8805,6 +8866,7 @@
     "slug": "the-graph",
     "name": "The Graph",
     "category": "other",
+    "coinGeckoId": "the-graph",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -8845,6 +8907,7 @@
     "slug": "automata-network",
     "name": "Automata Network",
     "category": "other",
+    "coinGeckoId": "automata",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -9298,6 +9361,7 @@
     "slug": "human-protocol",
     "name": "HUMAN Protocol",
     "category": "other",
+    "coinGeckoId": "human-protocol",
     "chains": ["moonbeam"],
     "logo": {
       "small": {
@@ -9373,6 +9437,7 @@
     "slug": "chainlink",
     "name": "Chainlink",
     "category": "other",
+    "coinGeckoId": "chainlink",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -10024,6 +10089,7 @@
     "slug": "gelato-network",
     "name": "Gelato",
     "category": "other",
+    "coinGeckoId": "gelato",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -10217,6 +10283,7 @@
     "slug": "moonbeam",
     "name": "Moonbeam",
     "category": "other",
+    "coinGeckoId": "moonbeam",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -10484,6 +10551,7 @@
     "slug": "bepro",
     "name": "BePro",
     "category": "other",
+    "coinGeckoId": "bepro-network",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
@@ -10676,6 +10744,7 @@
     "slug": "biconomy",
     "name": "Biconomy",
     "category": "other",
+    "coinGeckoId": "biconomy",
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
