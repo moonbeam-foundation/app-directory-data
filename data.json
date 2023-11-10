@@ -36,6 +36,12 @@
         "name": "WELL Token"
       }
     ],
+    "screenshots": [
+      "moonwell-screenshot1",
+      "moonwell-screenshot2",
+      "moonwell-screenshot3",
+      "moonwell-screenshot4"
+    ],
     "urls": {
       "website": "https://moonwell.fi/",
       "try": "https://moonwell.fi/",
