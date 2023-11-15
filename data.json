@@ -44,7 +44,65 @@
       "telegram": "https://t.me/moonwellfichat",
       "github": "https://github.com/moonwell-open-source",
       "discord": "https://discord.gg/moonwellfi"
-    }
+    },
+    "screenshots": [
+      {
+        "small": {
+          "fileName": "moonwell-screenshot-small1.png",
+          "width": 429,
+          "height": 200,
+          "mimeType": "image/png"
+        },
+        "full": {
+          "fileName": "moonwell-screenshot-full1.png",
+          "width": 514,
+          "height": 300,
+          "mimeType": "image/png"
+        }
+      },
+      {
+        "small": {
+          "fileName": "moonwell-screenshot-small2.png",
+          "width": 429,
+          "height": 200,
+          "mimeType": "image/png"
+        },
+        "full": {
+          "fileName": "moonwell-screenshot-full2.png",
+          "width": 1716,
+          "height": 800,
+          "mimeType": "image/png"
+        }
+      },
+      {
+        "small": {
+          "fileName": "moonwell-screenshot-small3.png",
+          "width": 429,
+          "height": 200,
+          "mimeType": "image/png"
+        },
+        "full": {
+          "fileName": "moonwell-screenshot-full3.png",
+          "width": 1054,
+          "height": 637,
+          "mimeType": "image/png"
+        }
+      },
+      {
+        "small": {
+          "fileName": "moonwell-screenshot-small4.png",
+          "width": 429,
+          "height": 200,
+          "mimeType": "image/png"
+        },
+        "full": {
+          "fileName": "moonwell-screenshot-full4.png",
+          "width": 1365,
+          "height": 436,
+          "mimeType": "image/png"
+        }
+      }
+    ]
   },
   {
     "id": "prime-protocol",
