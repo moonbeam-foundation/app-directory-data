@@ -33,7 +33,7 @@ Example:
 ## Project Type
 
 ```typescript
-type ProjectCategory =
+export type ProjectCategory =
   | "defi"
   | "dex"
   | "bridges"
@@ -45,25 +45,25 @@ type ProjectCategory =
   | "dao"
   | "other";
 
-type ProjectImage = {
+export type ProjectImage = {
   fileName: string;
   width: number;
   height: number;
   mimeType: string;
 };
 
-type ProjectImagesSizes = {
+export type ProjectImagesSizes = {
   small?: ProjectImage;
   large?: ProjectImage;
   full?: ProjectImage;
 };
 
-type ProjectTVL = {
+export type ProjectValuesByChain = {
   moonbeam?: number;
   moonriver?: number;
 };
 
-type MarketData = {
+export type MarketData = {
   contracts?: {
     moonbeam?: string;
     moonriver?: string;
@@ -84,9 +84,9 @@ type MarketData = {
   marketCapChange24h?: number;
 };
 
-interface AppDirProject {
-  id: string;
-  slug: string; // moonwell, sushi, etc
+export interface AppDirProject {
+  [idKey]: string;
+  [slugKey]: string; // moonwell
   chains: string[];
   shortDescription: string;
   defiLLamaTvlExist?: boolean;
@@ -94,9 +94,15 @@ interface AppDirProject {
   description: string;
   name: string;
   [coinGeckoIdKey]?: string;
-  currentTVL?: ProjectTVL;
-  tvlChange1d?: ProjectTVL;
-  tvlChange7d?: ProjectTVL;
+  currentTVL?: ProjectValuesByChain;
+  tvlChange1d?: ProjectValuesByChain;
+  tvlChange7d?: ProjectValuesByChain;
+  currentTx?: ProjectValuesByChain;
+  txChange1d?: ProjectValuesByChain;
+  txChange7d?: ProjectValuesByChain;
+  currentUsers?: ProjectValuesByChain;
+  usersChange1d?: ProjectValuesByChain;
+  usersChange7d?: ProjectValuesByChain;
   logo: ProjectImagesSizes;
   screenshots?: ProjectImagesSizes[];
   category: ProjectCategory;
@@ -106,13 +112,13 @@ interface AppDirProject {
   marketData?: MarketData;
 }
 
-interface SmartContracts {
+export interface SmartContracts {
   contract: string;
   chain: string;
   name: string;
 }
 
-interface Urls {
+export interface Urls {
   website?: string;
   try?: string;
   twitter?: string;
@@ -123,7 +129,7 @@ interface Urls {
   others?: Other[];
 }
 
-interface Other {
+export interface Other {
   platform: string;
   link: string;
 }
