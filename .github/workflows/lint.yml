@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Lint data.json
+      - name: Lint JSON and YAML files
         id: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.4.0
         with:
