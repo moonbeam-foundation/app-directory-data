@@ -13,4 +13,4 @@ jobs:
       - name: Lint data.json
         uses: sergeysova/jq-action@v2
         with:
-          cmd: jq . data.json
+          cmd: jq -n data.json
