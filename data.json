@@ -368,7 +368,6 @@
     "category": "dex",
     "coinGeckoId": "zenlink-network-token",
     "chains": ["moonbeam", "moonriver"],
-    "web3goIDs": ["Zenlink", "Zenlink Network"],
     "logo": {
       "small": {
         "fileName": "zenlink-logo-small.jpeg",
@@ -1951,7 +1950,6 @@
     "category": "dex",
     "coinGeckoId": "frax",
     "chains": ["moonbeam"],
-    "web3goIDs": ["Frax Finance", "Fraxswap"],
     "logo": {
       "small": {
         "fileName": "frax-logo-small.jpeg",
@@ -4061,7 +4059,6 @@
     "category": "nfts",
     "coinGeckoId": "moonbeans",
     "chains": ["moonbeam", "moonriver"],
-    "web3goIDs": ["Moonbeans", "MoonBeans"],
     "logo": {
       "small": {
         "fileName": "moonbeans-logo-small.jpeg",
@@ -6943,7 +6940,6 @@
     "name": "AXELAR",
     "category": "bridges",
     "coinGeckoId": "axelar-network",
-    "web3goIDs": ["Axelar", "Axelar Network"],
     "chains": ["moonbeam", "moonriver"],
     "logo": {
       "small": {
