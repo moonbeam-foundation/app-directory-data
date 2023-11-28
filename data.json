@@ -6,6 +6,7 @@
     "category": "lending",
     "coinGeckoId": "moonwell-artemis",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Moonwell Artemis"],
     "logo": {
       "small": {
         "fileName": "moonwell-logo-small.jpeg",
@@ -149,6 +150,7 @@
     "category": "dex",
     "coinGeckoId": "stellaswap",
     "chains": ["moonbeam"],
+    "web3goIDs": ["StellaSwap"],
     "logo": {
       "small": {
         "fileName": "stellaswap-logo-small.jpeg",
@@ -194,6 +196,7 @@
     "category": "dex",
     "coinGeckoId": "beamswap",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Beamswap"],
     "logo": {
       "small": {
         "fileName": "beamswap-logo-small.jpeg",
@@ -277,6 +280,7 @@
     "category": "defi",
     "coinGeckoId": "beefy-finance",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Beefy"],
     "logo": {
       "small": {
         "fileName": "beefy-finance-logo-small.jpeg",
@@ -323,6 +327,7 @@
     "category": "dex",
     "coinGeckoId": "sushi",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["SushiSwap"],
     "logo": {
       "small": {
         "fileName": "sushi-logo-small.jpeg",
@@ -409,6 +414,7 @@
     "category": "dex",
     "coinGeckoId": "solarflare",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Solarflare"],
     "logo": {
       "small": {
         "fileName": "solarflare-logo-small.jpeg",
@@ -452,6 +458,7 @@
     "name": "ZooDao",
     "category": "defi",
     "chains": ["moonbeam"],
+    "web3goIDs": ["ZooDAO"],
     "logo": {
       "small": {
         "fileName": "zoodao-logo-small.png",
@@ -530,6 +537,7 @@
     "name": "Squid",
     "category": "defi",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Squid"],
     "logo": {
       "small": {
         "fileName": "squid-logo-small.jpeg",
@@ -1385,6 +1393,7 @@
     "category": "dex",
     "coinGeckoId": "energyfi",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Energyfi"],
     "logo": {
       "small": {
         "fileName": "energyfi-logo-small.jpeg",
@@ -1733,6 +1742,7 @@
     "category": "dex",
     "coinGeckoId": "demodyfi",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Demodyfi"],
     "logo": {
       "small": {
         "fileName": "demodyfi-logo-small.png",
@@ -1773,6 +1783,7 @@
     "category": "defi",
     "coinGeckoId": "cougar-token",
     "chains": ["moonbeam"],
+    "web3goIDs": ["CougarSwap"],
     "logo": {
       "small": {
         "fileName": "cougarswap-logo-small.png",
@@ -1899,6 +1910,7 @@
     "name": "PADSwap",
     "category": "dex",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["PADSwap"],
     "logo": {
       "small": {
         "fileName": "padswap-logo-small.jpeg",
@@ -2223,6 +2235,7 @@
     "category": "defi",
     "coinGeckoId": "convergence",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Convergence"],
     "logo": {
       "small": {
         "fileName": "convergence-finance-logo-small.jpeg",
@@ -2463,6 +2476,7 @@
     "category": "defi",
     "coinGeckoId": "impossible-finance",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Impossible Finance"],
     "logo": {
       "small": {
         "fileName": "impossible-finance-logo-small.jpeg",
@@ -3163,6 +3177,7 @@
     "name": "Wormhole",
     "category": "other",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Wormhole"],
     "logo": {
       "small": {
         "fileName": "wormhole-logo-small.jpeg",
@@ -3281,6 +3296,7 @@
     "category": "bridges",
     "coinGeckoId": "multichain",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Multichain"],
     "logo": {
       "small": {
         "fileName": "multichain-org-logo-small.jpeg",
@@ -3327,6 +3343,7 @@
     "category": "bridges",
     "coinGeckoId": "celer-network",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Celer Network"],
     "logo": {
       "small": {
         "fileName": "celer-network-logo-small.jpeg",
@@ -3408,6 +3425,7 @@
     "category": "bridges",
     "coinGeckoId": "synapse",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Synapse"],
     "logo": {
       "small": {
         "fileName": "synapse-protocol-logo-small.png",
@@ -3490,6 +3508,7 @@
     "category": "lending",
     "coinGeckoId": "wepiggy-coin",
     "chains": ["moonriver", "moonbeam"],
+    "web3goIDs": ["WePiggy"],
     "logo": {
       "small": {
         "fileName": "wepiggy-logo-small.jpeg",
@@ -3606,6 +3625,7 @@
     "name": "Double Protocol",
     "category": "lending",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Double"],
     "logo": {
       "small": {
         "fileName": "double-one-logo-small.jpeg",
@@ -3806,6 +3826,7 @@
     "name": "Qoda Finance",
     "category": "lending",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Qoda Finance"],
     "logo": {
       "small": {
         "fileName": "qoda-finance-logo-small.jpeg",
@@ -4127,6 +4148,7 @@
     "name": "Exiled Racers",
     "category": "gaming",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Exiled Racers"],
     "logo": {
       "small": {
         "fileName": "exiled-racers-logo-small.jpeg",
@@ -4164,6 +4186,7 @@
     "name": "Damned Pirates Society",
     "category": "nfts",
     "chains": ["moonriver"],
+    "web3goIDs": ["Damned Pirates Society"],
     "logo": {
       "small": {
         "fileName": "damned-pirates-society-logo-small.jpeg",
@@ -4277,6 +4300,7 @@
     "name": "Zoombies",
     "category": "gaming",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Zoombies NFT World"],
     "logo": {
       "small": {
         "fileName": "zoombies-logo-small.jpeg",
@@ -4391,6 +4415,7 @@
     "name": "EVRLoot",
     "category": "gaming",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Evrloot"],
     "logo": {
       "small": {
         "fileName": "evrloot-logo-small.png",
@@ -4621,6 +4646,7 @@
     "name": "UTOPIA & TF ALPHA",
     "category": "other",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Take Flight Alpha"],
     "logo": {
       "small": {
         "fileName": "tfalpha-logo-small.jpeg",
@@ -4696,6 +4722,7 @@
     "name": "MoonDAO",
     "category": "nfts",
     "chains": ["moonbeam"],
+    "web3goIDs": ["MoonDAO"],
     "logo": {
       "small": {
         "fileName": "moondao-logo-small.png",
@@ -4734,6 +4761,7 @@
     "name": "Moonbeam Punks",
     "category": "nfts",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Moonbeam Punks"],
     "logo": {
       "small": {
         "fileName": "moonbeam-punks-logo-small.jpeg",
@@ -4771,6 +4799,7 @@
     "name": "Brawl Turtles",
     "category": "nfts",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Brawl Turtles"],
     "logo": {
       "small": {
         "fileName": "brawl-turtles-logo-small.jpeg",
@@ -5037,6 +5066,7 @@
     "name": "GLMR APES",
     "category": "nfts",
     "chains": ["moonbeam"],
+    "web3goIDs": ["GLMR Apes"],
     "logo": {
       "small": {
         "fileName": "glmr-apes-logo-small.png",
@@ -5075,6 +5105,7 @@
     "name": "Glmr Punks",
     "category": "nfts",
     "chains": ["moonbeam"],
+    "web3goIDs": ["Glmr Punks"],
     "logo": {
       "small": {
         "fileName": "glmr-punks-logo-small.jpeg",
@@ -5675,6 +5706,7 @@
     "category": "gaming",
     "coinGeckoId": "polkamarkets",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Polkamarkets"],
     "logo": {
       "small": {
         "fileName": "polkamarkets-logo-small.jpeg",
@@ -7290,6 +7322,7 @@
     "name": "LayerZero",
     "category": "other",
     "chains": ["moonbeam"],
+    "web3goIDs": ["LayerZero"],
     "logo": {
       "small": {
         "fileName": "layerzero-network-logo-small.jpeg",
@@ -8235,6 +8268,7 @@
     "name": "Moonbeam Name Service",
     "category": "other",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Moonbeam Name Service"],
     "logo": {
       "small": {
         "fileName": "moonbeam-name-service-logo-small.jpeg",
@@ -9119,6 +9153,7 @@
     "name": "Nomad",
     "category": "bridges",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Nomad"],
     "logo": {
       "small": {
         "fileName": "nomad-logo-small.jpeg",
@@ -10150,6 +10185,7 @@
     "category": "other",
     "coinGeckoId": "gelato",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Gelato Network"],
     "logo": {
       "small": {
         "fileName": "gelato-network-logo-small.jpeg",
@@ -10188,6 +10224,7 @@
     "name": "XDAO",
     "category": "other",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["XDAO"],
     "logo": {
       "small": {
         "fileName": "xdao-logo-small.png",
@@ -10612,6 +10649,7 @@
     "category": "other",
     "coinGeckoId": "bepro-network",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Bepro Network"],
     "logo": {
       "small": {
         "fileName": "bepro-logo-small.jpeg",
@@ -10805,6 +10843,7 @@
     "category": "other",
     "coinGeckoId": "biconomy",
     "chains": ["moonbeam", "moonriver"],
+    "web3goIDs": ["Biconomy"],
     "logo": {
       "small": {
         "fileName": "biconomy-logo-small.jpeg",

@@ -110,6 +110,7 @@ export interface AppDirProject {
   contracts: SmartContracts[];
   urls: Urls;
   marketData?: MarketData;
+  web3goIDs?: string[];
 }
 
 export interface SmartContracts {
