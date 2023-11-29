@@ -1,0 +1,44 @@
+{
+  "id": "subscan",
+  "slug": "subscan",
+  "name": "Subscan",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "subscan-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "subscan-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "subscan-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Moonbeam Substrate explorer",
+  "description": "Subscan.io is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.\r\n\r\nSubscan provides customized services for the ecological network, such as EVM module, multi-token, etc. In addition, Subscan also provides stable API services, data charts and convenient tool applications.",
+  "tags": [
+    "Explorers",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://subscan.io/",
+    "try": "https://subscan.io/",
+    "twitter": "https://twitter.com/subscan_io/",
+    "medium": "https://medium.com/subscan",
+    "github": "https://github.com/itering/subscan-essentials"
+  }
+}

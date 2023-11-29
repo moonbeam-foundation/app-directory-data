@@ -1,0 +1,51 @@
+{
+  "id": "blockshard",
+  "slug": "blockshard",
+  "name": "Blockshard",
+  "category": "defi",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blockshard-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blockshard-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blockshard-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Reliable and secure staking services",
+  "description": "Blockshard (formerly LetzBake!) is a premier Web3 infrastructure provider based in Switzerland, committed to delivering enterprise-grade security and reliability for all your staking needs.\n\nBlockshard is a founding member of UnitedBloc, a global alliance of professional validator organizations that provides tailor-made blockchain solutions across 75+ blockchains.",
+  "tags": [
+    "DeFi",
+    "Infrastructure"
+  ],
+  "contracts": [
+    {
+      "contract": "0x021cd61168a50b3b0252A251878e8f81F8f9cb37",
+      "chain": "moonbeam"
+    },
+    {
+      "contract": "0xdd16C266534C6729112B8AA501F797Ec33c122f7",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://blockshard.io",
+    "try": "https://blockshard.io",
+    "twitter": "https://twitter.com/blockshard1",
+    "telegram": "https://t.me/blockshard"
+  }
+}

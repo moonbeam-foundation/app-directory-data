@@ -1,0 +1,43 @@
+{
+  "id": "tenderly.co",
+  "slug": "tenderly.co",
+  "name": "Tenderly",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "tenderly.co-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "tenderly.co-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "tenderly.co-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "and integrate with Unstoppable Domains.",
+  "description": "Enabling Web3 developers to build, test, monitor, and operate smart contracts from their inception to mass adoption.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://tenderly.co/",
+    "try": "https://tenderly.co/",
+    "twitter": "https://twitter.com/TenderlyApp",
+    "github": "https://github.com/Tenderly",
+    "discord": "https://discord.gg/fBvDJYR"
+  }
+}

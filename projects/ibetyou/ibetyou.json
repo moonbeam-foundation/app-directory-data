@@ -1,0 +1,44 @@
+{
+  "id": "ibetyou",
+  "slug": "ibetyou",
+  "name": "iBetYou",
+  "category": "gaming",
+  "coinGeckoId": "ibetyou",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ibetyou-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ibetyou-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ibetyou-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Create irreversible bets in under 10 minutes, prove you’re right, and win money",
+  "description": "iBetYou a permissionless blockchain protocol that allows you to bet any amount of tokens with anyone on anything. It is a smarter way to place and track your bets. Keep ‘em all in one place, make sure no one bails out, and win money in your favorite cryptocurrency.\r\n\r\niBetYou uses the basic principles of betting and kicks it up a notch with crypto wizardry, powered by MATIC and AAVE. When a bet is placed both the challenger and their opponent send the stake amount to a smart contract which holds the crypto in escrow. The stake is then tokenized and held in interest yielding protocols on the AAVE platform. The crypto generated from interest is shared proportionally between the judges and the IBetYou Community at the conclusion of the bet.",
+  "tags": [
+    "Gaming",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://ibetyou.xyz/",
+    "try": "https://ibetyou.xyz/",
+    "twitter": "https://twitter.com/ibetyouxyz",
+    "medium": "https://ibetyouxyz.medium.com/",
+    "telegram": "https://t.me/IBYXYZ"
+  }
+}

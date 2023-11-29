@@ -1,0 +1,43 @@
+{
+  "id": "coindix",
+  "slug": "coindix",
+  "name": "Coindix",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "coindix-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "coindix-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "coindix-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Today’s best vaults in DeFi",
+  "description": "Monitoring +10,000 vaults on 63 protocols through 27 chains.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://coindix.com/",
+    "try": "https://coindix.com/",
+    "twitter": "https://twitter.com/0xCoindix",
+    "telegram": "http://t.me/coindix"
+  }
+}

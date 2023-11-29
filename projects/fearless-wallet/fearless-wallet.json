@@ -1,0 +1,43 @@
+{
+  "id": "fearless-wallet",
+  "slug": "fearless-wallet",
+  "name": "Fearless Wallet",
+  "category": "wallets",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "fearless-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "fearless-wallet-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "fearless-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The DeFi Wallet for the Future",
+  "description": "Android and iOS native mobile Polkadot/Kusama wallet for the Dotsama ecosystem with the best UX, performance, and security. Version 2.0 with multi-asset support now available.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://fearlesswallet.io/",
+    "try": "https://fearlesswallet.io/",
+    "twitter": "https://twitter.com/fearlesswallet",
+    "telegram": "https://t.me/fearlesswallet",
+    "github": "https://github.com/soramitsu/"
+  }
+}

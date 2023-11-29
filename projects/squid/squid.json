@@ -1,0 +1,48 @@
+{
+  "id": "squid",
+  "slug": "squid",
+  "name": "Squid",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Squid"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "squid-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "squid-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "squid-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Squid lets you swap any token between blockchains, and unlocks access to apps across chains in a single click. Powered by Axelar",
+  "description": "Squid utilises existing DEXs to swap and send any native token between chains. This can be done via our SDK, Front End or Contracts directly. Swaps are composable with Axelar's generalised message passing, so Squid can enable one-click transactions between any application and any user, using any asset.",
+  "tags": [
+    "DeFi",
+    "DEX",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.squidrouter.com/",
+    "try": "https://www.squidrouter.com/",
+    "twitter": "https://twitter.com/squidrouter",
+    "medium": "https://medium.com/@squidrouter",
+    "github": "https://github.com/0xsquid",
+    "discord": "http://discord.squidrouter.com/"
+  }
+}

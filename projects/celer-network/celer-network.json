@@ -1,0 +1,49 @@
+{
+  "id": "celer-network",
+  "slug": "celer-network",
+  "name": "Celer Network",
+  "category": "bridges",
+  "coinGeckoId": "celer-network",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Celer Network"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "celer-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "celer-network-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "celer-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Bring Internet Scale to Every Blockchain",
+  "description": "Celer Network is a layer-2 scaling platform that brings fast, secure, and low-cost blockchain applications on Ethereum, Polkadot, and other blockchains to mass adoption. Celer launched the world’s first Generalized State Channel Network and continues to push the frontier of layer-2 scaling with advanced Rollup technology. Core applications and middlewares like cBridge, layer2.finance and more ecosystem applications built on Celer have attracted more large audiences in DeFi, blockchain interoperability, and gaming space.",
+  "tags": [
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://cbridge.celer.network/#/transfer",
+    "try": "https://cbridge.celer.network/#/transfer",
+    "twitter": "https://twitter.com/CelerNetwork",
+    "medium": "https://medium.com/celer-network",
+    "telegram": "https://t.me/celernetwork",
+    "github": "https://github.com/celer-network",
+    "discord": "https://discord.com/invite/Trhab5w"
+  }
+}

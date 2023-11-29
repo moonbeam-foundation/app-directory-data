@@ -1,0 +1,47 @@
+{
+  "id": "biconomy",
+  "slug": "biconomy",
+  "name": "Biconomy",
+  "category": "other",
+  "coinGeckoId": "biconomy",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Biconomy"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "biconomy-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "biconomy-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "biconomy-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Enabling Digital Economies of the future.",
+  "description": "Biconomy is a transaction super-highway for Web 3.0 to enable mass adoption by vastly improving user experience. \r\n\r\nAs we envisage a new realm of digital economies empowered by the convergence of emerging technologies, we want to make sure its applications, known as decentralized applications, are simple and easy to use.\r\n\r\nWe are focused on improving the user experience of decentralized applications.\r\n\r\nAs a team of Web 3.0 evangelists, we strive to solve complex problems, challenge the status quo and to continuously learn from our mistakes.\r\n\r\nWe are on a fun and inspiring journey in enabling the digital economies of the future.\r\n\r\nWe are currently developing a platform (an SDK and dashboard) that utilizes the merits of meta transactions to allow end-users that are unfamiliar with crypto to seamlessly use dApps without them having to learn about wallets, crypto and paying transaction fees.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://biconomy.io/",
+    "try": "https://biconomy.io/",
+    "twitter": "https://twitter.com/biconomy",
+    "medium": "https://medium.com/biconomy",
+    "github": "https://github.com/bcnmy/"
+  }
+}

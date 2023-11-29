@@ -1,0 +1,48 @@
+{
+  "id": "teddy-dao",
+  "slug": "teddy-dao",
+  "name": "Teddy DAO",
+  "category": "dao",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "teddy-dao-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "teddy-dao-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "teddy-dao-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Teddy DAO is an NFT project created specifically for charity so that others can \"do good\"",
+  "description": "Teddy DAO is an NFT project that mints one digital collectible per day. Potential donors can place a bid and choose a specific charity in our partner's network. If that donor is the winning bidder, he or she will win the NFT and nearly 100% of the funds go to that specific charity.",
+  "tags": [
+    "DAO",
+    "NFT"
+  ],
+  "contracts": [
+    {
+      "contract": "N/A",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://teddydao.org",
+    "try": "https://teddydao.org",
+    "twitter": "https://twitter.com/TeddyDaoNFT",
+    "medium": "https://medium.com/@TeddyDaoNFT",
+    "discord": "https://discord.gg/QnFYE9hqc9"
+  }
+}

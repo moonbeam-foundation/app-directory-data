@@ -1,0 +1,42 @@
+{
+  "id": "blocsport-one",
+  "slug": "blocsport-one",
+  "name": "Blocsport.one",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blocsport-one-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blocsport-one-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blocsport-one-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web 3.0 metaverse, smart sports money, athlete NFT launchpad & assets tokenization",
+  "description": "Blocsport.one is a Swiss sports tech company founded in 2019 that is transforming the sports business by building a transparent and reliable sports ecosystem uniting athletes, clubs, and fans based on blockchain. Company owns NFTdeals.io exclusive marketplace and has the biometric-enabled football scouting DApp live. Blocsport.one helps the young promising athletes get the money and exposure for their career development, which is nobody else doing in the world.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://blocsport.one/",
+    "try": "https://blocsport.one/",
+    "twitter": "https://twitter.com/blocsport1",
+    "medium": "https://blocsport1.medium.com/",
+    "telegram": "https://t.me/blocsport"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "chainport",
+  "slug": "chainport",
+  "name": "ChainPort",
+  "category": "bridges",
+  "coinGeckoId": "chainport",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chainport-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chainport-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chainport-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Securely Port Tokens\nBeyond Blockchain Frontiers",
+  "description": "ChainPort is a next-gen hard-security blockchain bridge that lets you hop across chains at a click",
+  "tags": [
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://app.chainport.io/",
+    "try": "https://app.chainport.io/",
+    "twitter": "https://twitter.com/chain_port",
+    "medium": "https://medium.com/chainport",
+    "telegram": "https://t.me/chainport"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "unstoppable",
+  "slug": "unstoppable",
+  "name": "Unstoppable Domain",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "unstoppable-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "unstoppable-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "unstoppable-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Everything you need to build, customize,",
+  "description": "Unstoppable Domains allows you to own your own identity across Web3 by creating one unified account to access all of your favorite platforms across Web3 without compromising privacy.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://unstoppabledomains.com/",
+    "try": "https://unstoppabledomains.com/",
+    "twitter": "https://twitter.com/unstoppableweb",
+    "medium": "https://medium.com/unstoppabledomains",
+    "discord": "https://discord.gg/unstoppabledomains"
+  }
+}

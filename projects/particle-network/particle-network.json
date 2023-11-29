@@ -1,0 +1,42 @@
+{
+  "id": "particle-network",
+  "slug": "particle-network",
+  "name": "Particle Network",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "particle-network-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "particle-network-logo-large.png",
+      "width": 280,
+      "height": 280,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "particle-network-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "A full-stack middleware platform for Web3 mass adoption.",
+  "description": "Particle Network is a full-stack, data-driven, and composable Web3 data and development platform. Our vision is to accelerate the world's transition into the cryptoverse. Using our powerful SDKs, developers can focus on creating great app experiences rather than the heavy lifting.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://particle.network/",
+    "try": "https://particle.network/",
+    "twitter": "https://twitter.com/ParticleNtwrk",
+    "medium": "https://medium.com/particle-network",
+    "discord": "https://discord.com/invite/2y44qr6CR2"
+  }
+}

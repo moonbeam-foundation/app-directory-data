@@ -1,0 +1,44 @@
+{
+  "id": "band-protocol",
+  "slug": "band-protocol",
+  "name": "Band Protocol",
+  "category": "other",
+  "coinGeckoId": "band-protocol",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "band-protocol-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "band-protocol-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "band-protocol-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Toolkit for making token-powered communities",
+  "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts. It is a protocol to Create Token-Curated Registry, each with its own community token. We band communities with open and reliable data source.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bandprotocol.com/",
+    "try": "https://bandprotocol.com/",
+    "twitter": "https://twitter.com/bandprotocol",
+    "medium": "https://medium.com/bandprotocol",
+    "telegram": "https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ",
+    "github": "https://github.com/bandprotocol"
+  }
+}

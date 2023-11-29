@@ -1,0 +1,47 @@
+{
+  "id": "padswap",
+  "slug": "padswap",
+  "name": "PADSwap",
+  "category": "dex",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "PADSwap"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "padswap-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "padswap-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "padswap-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "One stop shop for your farming needs",
+  "description": "PADSwap is one stop shop for your farming needs. Advanced Liquidity Solutions.",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://padswap.exchange/",
+    "try": "https://padswap.exchange/",
+    "twitter": "https://twitter.com/toadnetwork",
+    "telegram": "https://t.me/toadnetwork",
+    "discord": "https://discord.gg/yChaaxyGjf"
+  }
+}

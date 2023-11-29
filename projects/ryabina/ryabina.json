@@ -1,0 +1,43 @@
+{
+  "id": "ryabina",
+  "slug": "ryabina",
+  "name": "Ryabina",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ryabina-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ryabina-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ryabina-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "We are validators on awesome networks",
+  "description": "Ryabina is a validator and blockchain software developer. Launched in 2019, it has extended its activities to various Substrate-based, Cosmos-based and Ethereum-based networks.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://ryabina.io/",
+    "try": "https://ryabina.io/",
+    "twitter": "https://twitter.com/Ryabinaio",
+    "medium": "https://ryabina.medium.com/",
+    "telegram": "https://t.me/RyabinaValidator"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "wanchain",
+  "slug": "wanchain",
+  "name": "WanChain",
+  "category": "bridges",
+  "coinGeckoId": "wanchain",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "wanchain-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "wanchain-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "wanchain-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "REBUILDING FINANCE",
+  "description": "Wanchain is a distributed financial platform that enables private, cross-blockchain smart contract execution. We are passionate about rebuilding finance by connecting the world's digital assets onto a single blockchain.",
+  "tags": [
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://wanchain.org/",
+    "try": "https://wanchain.org/",
+    "twitter": "https://twitter.com/wanchain_org",
+    "medium": "https://medium.com/wanchain-foundation",
+    "telegram": "https://t.me/WanchainANN",
+    "github": "https://github.com/wanchain",
+    "discord": "https://discord.gg/3DpeV6W"
+  }
+}

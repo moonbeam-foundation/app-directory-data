@@ -1,0 +1,44 @@
+{
+  "id": "dia-data",
+  "slug": "dia-data",
+  "name": "DIA Data",
+  "category": "other",
+  "coinGeckoId": "dia",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dia-data-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dia-data-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dia-data-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Decentralized Information Asset",
+  "description": "DIA, Decentralised Information Asset, is an open-source, financial information platform that utilizes cryptoeconomic incentives to source and validate data. Market actors can supply, share and use financial and digital asset data.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://diadata.org/",
+    "try": "https://diadata.org/",
+    "twitter": "https://twitter.com/DIAdata_org",
+    "medium": "https://medium.com/dia-insights",
+    "telegram": "https://t.me/DIAdata_org"
+  }
+}

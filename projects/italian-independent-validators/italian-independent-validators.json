@@ -1,0 +1,42 @@
+{
+  "id": "italian-independent-validators",
+  "slug": "italian-independent-validators",
+  "name": "Italian Independent Validators",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "italian-independent-validators-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "italian-independent-validators-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "italian-independent-validators-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Substrate Validators Services",
+  "description": "Italian Independent Validators, Substrate Validators Services.\r\n\r\nWe offer validation services on the whole substrate environment. We are a group of Indipendent Validators who dedicate themselves with professionalism and code of good conduct to participate in the security of P2P networks.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://iiv.dev/",
+    "try": "https://iiv.dev/",
+    "telegram": "https://t.me/IIV_stacking",
+    "discord": "https://discord.com/invite/gK99v8j7"
+  }
+}

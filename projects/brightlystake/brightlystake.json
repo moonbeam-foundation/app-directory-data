@@ -1,0 +1,43 @@
+{
+  "id": "brightlystake",
+  "slug": "brightlystake",
+  "name": "Brightlystake",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "brightlystake-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "brightlystake-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "brightlystake-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Stake with confidence",
+  "description": "Brightlystake, Staking Service Providers. We run nodes for you to stake. Let's grow together.\r\n\r\nBrightlystake provides professional staking and delegation services for a number of PoS networks. Brightlystake has a team that with 25+ years of total IT experience and has coverage in many time zones around the globe.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://brightlystake.com/",
+    "try": "https://brightlystake.com/",
+    "twitter": "https://twitter.com/brightlystake",
+    "telegram": "https://t.me/Brightlystake",
+    "discord": "https://discord.com/invite/7jtYTQZz2w"
+  }
+}

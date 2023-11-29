@@ -1,0 +1,43 @@
+{
+  "id": "offshift",
+  "slug": "offshift",
+  "name": "Offshift",
+  "category": "defi",
+  "coinGeckoId": "offshift",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "offshift-logo-small.png",
+      "width": 162,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "offshift-logo-large.png",
+      "width": 600,
+      "height": 133,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "offshift-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Private DeFi = PriFi",
+  "description": "Offshift is pioneering PriFi with the world’s first Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. zkAssets are here.\r\n\r\nOffshift's proprietary zkAssets compose the world's first line of private on-chain synthetics.\r\n\r\nOffshift leverages Chainlink oracles to support private DeFi for a wide array of cryptos, stocks,and commodities.\r\n\r\nConvert public assets into private synthetics in a single transaction with XFT.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.offshift.io/",
+    "try": "https://www.offshift.io/",
+    "twitter": "https://twitter.com/OffshiftXFT",
+    "telegram": "https://t.me/OffshiftXFT",
+    "discord": "https://discord.com/invite/9mZswcKRvz"
+  }
+}

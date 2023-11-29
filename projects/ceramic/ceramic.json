@@ -1,0 +1,44 @@
+{
+  "id": "ceramic",
+  "slug": "ceramic",
+  "name": "Ceramic",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ceramic-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ceramic-logo-large.jpeg",
+      "width": 425,
+      "height": 425,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ceramic-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The dataweb for open applications",
+  "description": "Ceramic provides developers with database-like functionality for storing all kinds of dynamic, mutable content. This finally gives developers a Web3 native way to add critical features like rich identities (profiles, reputation, social graphs), user-generated content (posts, interactions), dynamic application-data, and much more.\r\n\r\nCeramic’s stream-based architecture is designed for web-scale volume and latency and to handle any type of data. Built on top of open standards including IPFS, libp2p, and DIDs and compatible with any raw storage protocol like Filecoin or Arweave, all information stored on Ceramic exists within a permissionless cross-chain network that lets developers tap into an ever growing library of identities and data while using their preferred stack.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ceramic.network/",
+    "try": "https://www.ceramic.network/",
+    "twitter": "https://twitter.com/ceramicnetwork",
+    "medium": "https://medium.com/ceramic",
+    "github": "https://github.com/ceramicnetwork",
+    "discord": "https://discord.com/invite/6VRZpGP"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "blast",
+  "slug": "blast",
+  "name": "Blast",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blast-logo-small.jpeg",
+      "width": 108,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blast-logo-large.jpeg",
+      "width": 1535,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blast-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A multichain, subscription-based, API platform, providing access to the hottest blockchain networks",
+  "description": "BLAST delivers a high-tech proprietary solution for proxying and routing user requests allowing it to achieve best-in-industry response times and top-notch reliability. Moreover, the platform features stable-coin crypto payments, and it allows users to simply connect with their Metamask wallets to create an account and obtain their custom API endpoints in just a couple of clicks. For increased convenience and ease of use, Public APIs are also available in Blast, for all supported networks.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://blastapi.io/",
+    "try": "https://blastapi.io/",
+    "twitter": "https://twitter.com/BwareLabs",
+    "medium": "https://medium.com/bware-labs",
+    "telegram": "https://medium.com/bware-labs",
+    "github": "https://github.com/bwarelabs",
+    "discord": "https://discord.com/invite/VPkWESgtvV"
+  }
+}

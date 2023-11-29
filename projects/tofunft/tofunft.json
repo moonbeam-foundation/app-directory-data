@@ -1,0 +1,45 @@
+{
+  "id": "tofunft",
+  "slug": "tofunft",
+  "name": "tofuNFT",
+  "category": "nfts",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "tofunft-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "tofunft-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "tofunft-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The largest multichain NFT marketplace",
+  "description": "tofuNFT.com is an NFT marketplace focused on GameFi and collectibles, rebranded from SCV’s NFT market. Enjoy exploring & trading with your buddies!",
+  "tags": [
+    "NFT Marketplaces",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://tofunft.com/",
+    "try": "https://tofunft.com/",
+    "twitter": "https://twitter.com/tofuNFT",
+    "medium": "https://medium.com/tofunftofficial",
+    "telegram": "https://t.me/tofuNFT",
+    "discord": "https://discord.com/invite/3wFUTZmTm7"
+  }
+}

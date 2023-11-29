@@ -1,0 +1,43 @@
+{
+  "id": "blockdaemon",
+  "slug": "blockdaemon",
+  "name": "Blockdaemon",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blockdaemon-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blockdaemon-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blockdaemon-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Blockchain Nodes as a Service",
+  "description": "Blockdaemon is the leading independent blockchain node infrastructure to stake, scale, and deploy nodes with institutional-grade security and monitoring. Supporting 40+ cutting edge blockchain networks in the cloud and on-premise, Blockdaemon is used by exchanges, custodians, crypto platforms, financial institutions and developers to connect commercial stakeholders to blockchains. We power the blockchain economy by simplifying the process of deploying nodes and creating scalable enterprise blockchain solutions via APIs, high availability clusters, auto-decentralization and auto-healing of nodes.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://blockdaemon.com/",
+    "try": "https://blockdaemon.com/",
+    "twitter": "https://twitter.com/_blockdaemon",
+    "telegram": "http://eepurl.com/du1Bdv",
+    "github": "https://github.com/Blockdaemon"
+  }
+}

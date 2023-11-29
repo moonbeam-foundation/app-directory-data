@@ -1,0 +1,43 @@
+{
+  "id": "chaotic-finance",
+  "slug": "chaotic-finance",
+  "name": "Chaotic Finance",
+  "category": "defi",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chaotic-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chaotic-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chaotic-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The first delta-one asset protocol on Moonriver",
+  "description": "Introducing Chaotic, a Community-driven delta-one asset protocol on Moonriver. Chaotic will allow users to trade long and short positions of their favorite tokens with up to four times leverage. Yes, you read that right, 4x leverage!",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://chaotic.finance/",
+    "try": "https://chaotic.finance/",
+    "twitter": "https://twitter.com/Chaotic_Finance",
+    "medium": "https://chaoticfinance.medium.com/",
+    "telegram": "https://t.me/chaotic_finance",
+    "discord": "https://discord.gg/nvCk356bky"
+  }
+}

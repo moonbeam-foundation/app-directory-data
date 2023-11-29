@@ -1,0 +1,43 @@
+{
+  "id": "ankr-network",
+  "slug": "ankr-network",
+  "name": "Ankr",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ankr-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ankr-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ankr-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Build a Faster, Cheaper, Securer cloud",
+  "description": "Ankr provides a computation-resource-efficient blockchain and an integrated data feed system leveraging both cryptographic primitives and trusted hardware.\r\n\r\nAnkr is a distributed computing platform that aims to leverage idle computing resources in data centers and edge devices. What Ankr enables is a Sharing Economy model where enterprises and consumers can monetize their spare computing capacities from their devices, on-premise servers, private cloud and even public cloud. This enables Ankr to provide computing power much closer to users at a much cheaper price.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://ankr.network/",
+    "try": "https://ankr.network/",
+    "twitter": "https://twitter.com/ankr",
+    "medium": "http://medium.com/ankr-network",
+    "telegram": "https://t.me/ankrnetwork"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "multisender",
+  "slug": "multisender",
+  "name": "Token MultiSender",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "multisender-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "multisender-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "multisender-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A tool that allows you to batch send ERC20 tokens",
+  "description": "Welcome to Token MultiSender. A tool that allows you to batch send #ERC20 tokens",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://multisender.app/",
+    "try": "https://multisender.app/",
+    "twitter": "https://twitter.com/multi_sender",
+    "medium": "https://medium.com/@TokenMultiSender",
+    "telegram": "https://t.me/MultiSender"
+  }
+}

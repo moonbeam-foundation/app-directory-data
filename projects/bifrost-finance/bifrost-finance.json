@@ -1,0 +1,45 @@
+{
+  "id": "bifrost-finance",
+  "slug": "bifrost-finance",
+  "name": "Bifrost",
+  "category": "other",
+  "coinGeckoId": "bifrost",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bifrost-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bifrost-finance-logo-large.jpeg",
+      "width": 152,
+      "height": 152,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bifrost-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Cross-chain liquidity for Staking",
+  "description": "",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bifrost.finance/",
+    "try": "https://bifrost.finance/",
+    "twitter": "https://twitter.com/BifrostFinance",
+    "medium": "https://medium.com/bifrost-finance",
+    "telegram": "https://t.me/bifrost_finance",
+    "github": "https://github.com/bifrost-finance"
+  }
+}

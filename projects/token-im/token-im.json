@@ -1,0 +1,44 @@
+{
+  "id": "token-im",
+  "slug": "token-im",
+  "name": "imToken",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "token-im-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "token-im-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "token-im-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "imToken is an easy and secure digital wallet trusted by millions",
+  "description": "Provide secure and trusted digital asset management services to millions of users in more than 150 countries and regions around the world",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.token.im/",
+    "try": "https://www.token.im/",
+    "twitter": "https://twitter.com/imTokenOfficial",
+    "medium": "https://medium.com/@imToken",
+    "github": "https://github.com/consenlabs",
+    "discord": "https://discord.com/invite/fjX85Ww4Nw"
+  }
+}

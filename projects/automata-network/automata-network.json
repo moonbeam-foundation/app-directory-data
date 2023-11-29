@@ -1,0 +1,44 @@
+{
+  "id": "automata-network",
+  "slug": "automata-network",
+  "name": "Automata Network",
+  "category": "other",
+  "coinGeckoId": "automata",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "automata-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "automata-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "automata-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web 3.0 Realized",
+  "description": "Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.\r\n\r\nWitness is an off-chain governance platform that provides a simple interface for users to create governance proposals and vote on them while maintaining their anonymity by choosing between various privacy levels. The actual voting is conducted off-chain to eliminate gas costs and encourage greater participation in the governance process. On-chain execution is also possible via Chainhook, as the contract registered during proposal creation can be triggered based on the final voting results.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ata.network/",
+    "try": "https://www.ata.network/",
+    "twitter": "https://twitter.com/AutomataNetwork",
+    "medium": "https://medium.com/@automatanetwork",
+    "github": "https://github.com/automata-network"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "blockpour",
+  "slug": "blockpour",
+  "name": "Blockpour",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blockpour-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blockpour-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blockpour-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Multi-chain data analytics & insights. In real-time. Token dashboards & trade reports | Rug pull alerts | DEX metrics",
+  "description": "Instantly discover alpha you can’t find elsewhere with Blockpour’s metrics. Blockpour is chain agnostic and provides in-depth multichain aggregation across all of our tools and datasets. View aggregated liquidity pool metrics, token stats, and more.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.blockpour.com/",
+    "try": "https://www.blockpour.com/",
+    "twitter": "https://twitter.com/Blockpour",
+    "medium": "https://medium.com/@blockpour"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "zenlink",
+  "slug": "zenlink",
+  "name": "Zenlink",
+  "category": "dex",
+  "coinGeckoId": "zenlink-network-token",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "zenlink-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "zenlink-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "zenlink-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Cross-chain DEX protocol for better composability\nDEX on Polkadot",
+  "description": "Zenlink is committed to building a new generation of cross-chain DEX network. By integrating the Zenlink DEX Module, Zenlink can enable parachains to quickly possess DEX capabilities and share liquidity with other parachains; Zenlink DEX aggregator can link all DEX DApps on Polkadot. Users can not only complete the exchange easily and quickly, but also enjoy a low slippage transaction experience; Zenlink native token ZLK provides a fair and transparent governance mechanism and reasonable value capture methods to incentivize ecosystem users to participate in long-term network development.",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://zenlink.pro/",
+    "try": "https://zenlink.pro/",
+    "twitter": "https://twitter.com/ZenlinkPro",
+    "medium": "https://medium.com/zenlinkpro",
+    "telegram": "https://t.me/ZenlinkPro_EN",
+    "github": "https://github.com/zenlinkpro",
+    "discord": "https://discord.com/invite/v32WcymvXn"
+  }
+}

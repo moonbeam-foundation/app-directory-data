@@ -1,0 +1,42 @@
+{
+  "id": "calamari-network",
+  "slug": "calamari-network",
+  "name": "Calamari\n Network",
+  "category": "other",
+  "coinGeckoId": "calamari-network",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "calamari-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "calamari-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "calamari-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Calamari Network is the plug-and-play privacy-preservation protocol built to service the entire DeFi stack on Kusama (and Manta Network on Polkadot).",
+  "description": "Built on Substrate to leverage interoperability and zkSNARKs to leverage scalable privacy, Calamari Network offers a suite of products and services that enable privacy for blockchain projects. As part of its own suite of products, Calamari Network offers private payment and a private decentralized exchange, MantaSwap. Manta’s founding team comprises many US cryptocurrency veterans, professors, and scholars whose experience include Harvard, MIT, and Algorand. ",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.calamari.network/",
+    "try": "https://www.calamari.network/",
+    "twitter": "https://twitter.com/CalamariNetwork"
+  }
+}

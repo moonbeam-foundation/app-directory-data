@@ -1,0 +1,46 @@
+{
+  "id": "footprint-analytics",
+  "slug": "footprint-analytics",
+  "name": "Footprint Analytics",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "footprint-analytics-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "footprint-analytics-logo-large.jpeg",
+      "width": 180,
+      "height": 180,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "footprint-analytics-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Free Analytics for NFT, GameFi, and cross-chain data.",
+  "description": "Footprint Analytics provides API and visualization tools to uncover and visualize data across the blockchain, including NFT and GameFi data. It currently collects, parses and cleans data from 19 chains into structured and semantic tables. It lets users build charts and dashboards without code, using a drag-and-drop interface as well as with SQL.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.footprint.network/",
+    "try": "https://www.footprint.network/",
+    "twitter": "https://twitter.com/Footprint_Data",
+    "medium": "https://medium.com/@footprintofficial",
+    "telegram": "https://t.me/Footprint_Analytics",
+    "github": "https://github.com/footprint-network",
+    "discord": "https://discord.com/invite/3HYaR6USM7"
+  }
+}

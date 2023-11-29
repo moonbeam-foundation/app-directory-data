@@ -1,0 +1,40 @@
+{
+  "id": "zooper",
+  "slug": "zooper",
+  "name": "ZooperCorp",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "zooper-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "zooper-logo-large.jpeg",
+      "width": 169,
+      "height": 169,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "zooper-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Interplanetary PoS Blockchain Validator",
+  "description": "Zooper Corp is based in Italy. We are a team of full stack engineers with more than 10 years of experience managing infrastructure. We like cats.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://corp.zooper.org/",
+    "try": "https://corp.zooper.org/",
+    "twitter": "https://twitter.com/zoopercorp"
+  }
+}

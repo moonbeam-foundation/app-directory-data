@@ -1,0 +1,45 @@
+{
+  "id": "taverndao-io",
+  "slug": "taverndao-io",
+  "name": "TavernDAO",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "taverndao-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "taverndao-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "taverndao-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The Metaverse's NFT Gaming Job Board",
+  "description": "At TavernDAO, we are obsessed with empowering scholars and players with tools to navigate the Play-And-Earn space. TavernDAO aims to be at the intersection of scholars, gaming guilds, and game developers.",
+  "tags": [
+    "Gaming",
+    "NFT",
+    "MOVR Grants",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://taverndao.io/",
+    "try": "https://taverndao.io/",
+    "twitter": "https://twitter.com/TavernDAO",
+    "medium": "https://medium.com/@TavernDAO",
+    "discord": "https://discord.gg/k5EC4uEE6n"
+  }
+}

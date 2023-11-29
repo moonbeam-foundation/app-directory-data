@@ -1,0 +1,43 @@
+{
+  "id": "prime-protocol",
+  "slug": "prime-protocol",
+  "name": "Prime Protocol",
+  "category": "lending",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "prime-protocol-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "prime-protocol-logo-large.jpeg",
+      "width": 370,
+      "height": 369,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "prime-protocol-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "We're building the first natively cross chain prime brokerage.",
+  "description": "Prime protocol is a one-stop-shop that can meet all of your liquidity needs. As a DeFi investor, you can deposit all of your digital assets into a single protocol, Prime, across different chains, and receive a single revolving line of credit. No matter where your collateral is or where you need the loan, we’ve got you covered.\n\nPrime protocol makes your crypto work for you as collateral regardless of what chain it’s on or what kind of token it is. Rather than borrowing against each asset individually, you can take out a loan on any chain and it will be backed by the collateral value of your cross-assets.",
+  "tags": [
+    "Lending",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.primeprotocol.xyz/",
+    "try": "https://www.primeprotocol.xyz/",
+    "twitter": "https://twitter.com/prime_protocol",
+    "medium": "https://medium.com/@primeprotocol",
+    "discord": "https://discord.com/invite/dCPW3HaEBT"
+  }
+}

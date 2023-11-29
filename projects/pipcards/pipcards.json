@@ -1,0 +1,42 @@
+{
+  "id": "pipcards",
+  "slug": "pipcards",
+  "name": "PIP Cards",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "pipcards-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "pipcards-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "pipcards-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Post-generated NFT playing card decks",
+  "description": "PIPS is a first-of-its-kind NFT generative playing card project that will enable NFT holders to generate an entire deck of custom cards to be used cross-chain.",
+  "tags": [
+    "NFT",
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.pipcards.com/",
+    "try": "https://www.pipcards.com/",
+    "twitter": "https://twitter.com/pipcards?s=20",
+    "discord": "https://discord.com/invite/hnSC7QjTHj"
+  }
+}

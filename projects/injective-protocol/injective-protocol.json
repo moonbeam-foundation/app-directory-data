@@ -1,0 +1,44 @@
+{
+  "id": "injective-protocol",
+  "slug": "injective-protocol",
+  "name": "Injective Protocol",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "injective-protocol-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "injective-protocol-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "injective-protocol-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Access limitless DeFi markets with zero barriers",
+  "description": "Injective Protocol is the first layer-2 decentralized exchange protocol that unlocks the full potential of decentralized derivatives and borderless DeFi. Injective Protocol enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market of their choosing.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.injectiveprotocol.com/",
+    "try": "https://www.injectiveprotocol.com/",
+    "twitter": "https://twitter.com/InjectiveLabs",
+    "telegram": "https://t.me/joininjective",
+    "github": "https://github.com/InjectiveLabs",
+    "discord": "https://discord.com/invite/injective"
+  }
+}

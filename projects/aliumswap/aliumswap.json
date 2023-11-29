@@ -1,0 +1,46 @@
+{
+  "id": "aliumswap",
+  "slug": "aliumswap",
+  "name": "AliumSwap",
+  "category": "bridges",
+  "coinGeckoId": "alium-finance",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "aliumswap-logo-small.png",
+      "width": 40,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "aliumswap-logo-large.png",
+      "width": 104,
+      "height": 94,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "aliumswap-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Decentralized AMM Exchange with multi-blockchain option and NFTs ",
+  "description": "Decentralized AMM exchange",
+  "tags": [
+    "Bridges",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://alium.finance/",
+    "try": "https://alium.finance/",
+    "twitter": "https://twitter.com/AliumSwap",
+    "medium": "https://aliumswap.medium.com/",
+    "telegram": "https://t.me/aliumswap_official",
+    "github": "https://github.com/Alium-Finance"
+  }
+}

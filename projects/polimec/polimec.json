@@ -1,0 +1,41 @@
+{
+  "id": "polimec",
+  "slug": "polimec",
+  "name": "Polimec",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "polimec-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "polimec-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "polimec-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A Fundraising Mechanism for the Polkadot Ecosystem",
+  "description": "Polimec (Polkadot Liquidity Mechanism): A Fundraising Mechanism for the Polkadot Ecosystem.\r\n\r\nPolkadot is on its way to become the basis for a new crypto economy as it solves many of the problems older major blockchains like Bitcoin and Ethereum struggle with. However, Polkadot’s success depends on a strong, healthy and lively ecosystem to gain significance. To help foster building out the Polkadot Ecosystem, on the one hand, projects within the Polkaverse will need significant funding due to long runways. On the other hand, DOT holders who already invested into the project need a mechanism to re-invest their now transferable assets into promising projects.\r\n\r\nWhat if we could enable DOT holders to re-invest their DOT tokens into the Polkadot ecosystem to fund projects (prospective parachains, application builders, etc.) and earn return on their investments in a sustainable and secure way?\r\n\r\nWe propose the Polkadot Liquidity Mechanism (Polimec), which is an open-source blockchain system designed to help getting liquidity into Polkadot based projects that are not yet ready to sell transferable currencies on their own technology. It is a concept like the ERC20 Smart Contract mechanism but for issuing pre-Currencies on Polkadot or Kusama as it enables Polkaverse projects to issue transferable pre-coins before go-live of their main net.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.kilt.io/polimec/",
+    "try": "https://www.kilt.io/polimec/",
+    "twitter": "https://twitter.com/Kiltprotocol"
+  }
+}

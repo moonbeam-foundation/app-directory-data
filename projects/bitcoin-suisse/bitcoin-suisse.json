@@ -1,0 +1,41 @@
+{
+  "id": "bitcoin-suisse",
+  "slug": "bitcoin-suisse",
+  "name": "Bitcoin Suisse ",
+  "category": "wallets",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bitcoin-suisse-logo-small.png",
+      "width": 34,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "bitcoin-suisse-logo-large.png",
+      "width": 61,
+      "height": 65,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "bitcoin-suisse-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Switzerland’s leading crypto-financial service provider ",
+  "description": "Bitcoin Suisse enables users to buy, sell and earn crypto assets with a regulated Swiss company.  The project’s bank guarantee (by a state-backed Swiss Cantonal Bank) and Bitcoin Suisse’s audited cold storage solution are some of the reasons why clients trust them with all of their crypto needs. As an enabler of the Swiss crypto-financial ecosystem, Bitcoin Suisse always strives to provide early access to the latest product developments for its clients.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.bitcoinsuisse.com/",
+    "try": "https://www.bitcoinsuisse.com/",
+    "twitter": "https://twitter.com/BitcoinSuisseAG",
+    "telegram": "https://t.me/bitcoinsuisse_announcements"
+  }
+}

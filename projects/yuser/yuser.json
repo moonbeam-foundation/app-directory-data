@@ -1,0 +1,45 @@
+{
+  "id": "yuser",
+  "slug": "yuser",
+  "name": "Yuser",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "yuser-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "yuser-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "yuser-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The first NFT social networking app- by creators, for creators",
+  "description": "Yuser’s mission is to build an ecosystem of interconnected applications that put power back into the hands of users by giving them full control over their content, data, and personal networks. Developers can connect via an API to instantly gain access to millions of users and incentivize them to try their product by paying them with a token.",
+  "tags": [
+    "NFT Marketplaces",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://yuser.network/",
+    "try": "https://yuser.network/",
+    "twitter": "https://twitter.com/yuser",
+    "medium": "https://medium.com/yuser",
+    "telegram": "https://t.me/yusernetwork",
+    "discord": "https://discord.com/invite/uRRxnfAjhY"
+  }
+}

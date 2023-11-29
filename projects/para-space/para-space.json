@@ -1,0 +1,41 @@
+{
+  "id": "para-space",
+  "slug": "para-space",
+  "name": "ParaSpace",
+  "category": "lending",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "para-space-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "para-space-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "para-space-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The first cross-margin NFT lending protocol. Access instant liquidity for your digital assets.",
+  "description": "ParaSpace is a decentralized lending protocol that allows users to borrow and lend against Non-Fungible and Fungible tokens alike. ParaSpace allows users to tap into otherwise-unused capital to fund further investments and earn yields on the same.",
+  "tags": [
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://para.space/",
+    "try": "https://para.space/",
+    "twitter": "https://twitter.com/ParaSpace_NFT",
+    "discord": "https://discord.gg/v69QfmarGu"
+  }
+}

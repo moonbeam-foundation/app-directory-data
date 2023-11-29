@@ -1,0 +1,53 @@
+{
+  "id": "impossible-finance",
+  "slug": "impossible-finance",
+  "name": "Impossible Finance",
+  "category": "defi",
+  "coinGeckoId": "impossible-finance",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Impossible Finance"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "impossible-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "impossible-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "impossible-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Learn and invest in crypto opportunities",
+  "description": "Impossible Finance, Formerly StableX. Building radically better finance for the world. Inclusive financial instruments via DeFi.\r\n\r\nImpossible Finance uses decentralised financial protocols to give everyone the same access to financial products, which were previously only available to institutions and select individuals.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://impossible.finance/",
+    "try": "https://impossible.finance/",
+    "twitter": "https://twitter.com/impossiblefi",
+    "medium": "https://medium.com/impossiblefinance/",
+    "telegram": "https://t.me/ImpossibleFinance",
+    "github": "https://github.com/impossiblefinance"
+  }
+}

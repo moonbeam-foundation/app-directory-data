@@ -1,0 +1,53 @@
+{
+  "id": "beamswap",
+  "slug": "beamswap",
+  "name": "BEAMSWAP",
+  "category": "dex",
+  "coinGeckoId": "beamswap",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Beamswap"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "beamswap-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "beamswap-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "beamswap-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "DeFi Hub on Moonbeam",
+  "description": "Beamswap is a decentralized exchange (DEX) with an automated market maker (AMM), providing liquidity and peer-to-peer transactions. But it aims to be so much more than that. Supporting an array of services and features, it will allow you to swap crypto assets, both fungible and non-fungible, earn passive income from staking and yield farming, and even launch your own crypto projects on Moonbeam.",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://beamswap.io/",
+    "try": "https://beamswap.io/",
+    "twitter": "https://twitter.com/Beamswapio",
+    "telegram": "https://t.me/Beamswap",
+    "github": "https://github.com/BeamSwap",
+    "discord": "https://discord.com/invite/XRpPFHqJ"
+  }
+}

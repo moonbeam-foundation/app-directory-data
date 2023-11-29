@@ -1,0 +1,41 @@
+{
+  "id": "heiko-parallel",
+  "slug": "heiko-parallel",
+  "name": "HEIKO",
+  "category": "other",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "heiko-parallel-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "heiko-parallel-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "heiko-parallel-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The sister network to Parallel Finance",
+  "description": "Heiko Finance is the sister network to Parallel Finance. Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. ",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://app-heiko.parallel.fi/#/overview",
+    "try": "https://app-heiko.parallel.fi/#/overview",
+    "twitter": "https://twitter.com/ParallelFi"
+  }
+}

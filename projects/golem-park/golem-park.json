@@ -1,0 +1,47 @@
+{
+  "id": "golem-park",
+  "slug": "golem-park",
+  "name": "Golem Park",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "golem-park-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "golem-park-logo-large.png",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "golem-park-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Golem Park is holders friendly NFT collection. P2E blockchain game, $GP Token, Staking Pools & more",
+  "description": "First Time In Crypto History Token Burning Campaign!\n30% Of Total Token Supply Will Be Burned In 30 Days.\n\nAfter Minting We Are Going To Release Deflationary $GP Token & 50% Of Total Supply Will Be Distributed To All $GP NFT Holders, 1 NFT = 5 000 000 Tokens. Then 30 Days Each Day We'll Burn 1% Of Total Token Supply To Ensure Token Price Will Go UP!\n\nWorld Of Golems is a decentralized Play-To-Earn blockchain game.\nOnce You Become Golem Park NFT Holder You Will Be Able To Participate in the WoG Game, Own Countries And Display Your Message On Them.\n\nThe Leaderboard Shows Of TOP 5 Wealthiest Countries & Every Month Owners Of These Countries Will Be Rewarded With $GLMR.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [
+    {
+      "contract": "0x74746524f5A31F08e0528FaA704C2c5d8d116506",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://golempark.com",
+    "try": "https://golempark.com",
+    "twitter": "https://twitter.com/golempark",
+    "telegram": "https://t.me/golempark",
+    "discord": "https://discord.gg/rNvtdHN8q7"
+  }
+}

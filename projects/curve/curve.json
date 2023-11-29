@@ -1,0 +1,42 @@
+{
+  "id": "curve",
+  "slug": "curve",
+  "name": "Curve",
+  "category": "defi",
+  "coinGeckoId": "curve-dao-token",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "curve-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "curve-logo-large.jpeg",
+      "width": 286,
+      "height": 286,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "curve-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
+  "description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.\r\n\r\nCurve allows users (and smart contracts like 1inch) to trade between DAI and USDC with a bespoke low slippage, low fee algorithm designed specifically for stablecoins. Behind the scenes, the liquidity pool is supplied to the Compound protocol, where it generates income for liquidity providers.\r\n\r\nCurve is currently in alpha - the codebase will be published on Github in the next 48 hours, and an external audit will begin in the near future. Please don’t supply your life savings, or assets you can’t afford to lose, to Curve, especially as a liquidity provider.\r\n\r\nUsing Curve as an exchange user should be significantly less risky, but this is not advice.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://curve.fi/#/moonbeam/swap",
+    "try": "https://curve.fi/#/moonbeam/swap",
+    "twitter": "https://twitter.com/CurveFinance",
+    "github": "https://github.com/curvefi"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "smartstamp",
+  "slug": "smartstamp",
+  "name": "SmartStamp",
+  "category": "nfts",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "smartstamp-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "smartstamp-logo-large.jpeg",
+      "width": 436,
+      "height": 436,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "smartstamp-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "SmartStamp is the pioneering new standard in identification and authentication for the art world.",
+  "description": "Developed over more than a decade, SmartStamp’s app uses patented AI technology that is designed to read and record artworks’ surface characteristics– offering artists, collectors, institutions, and all arts and culture stakeholders a way to securely and immutably link physical objects to their digital fingerprints on the blockchain. Using the SmartStamp app is as simple as taking a picture, making the groundbreaking security and timestamping power of blockchain technology accessible to anyone who can use a smartphone.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://smartstamp.com/",
+    "try": "https://smartstamp.com/",
+    "discord": "https://discord.gg/kajPqvZY"
+  }
+}

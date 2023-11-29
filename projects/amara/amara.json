@@ -1,0 +1,52 @@
+{
+  "id": "amara",
+  "slug": "amara",
+  "name": "Amara Finance",
+  "category": "defi",
+  "coinGeckoId": "amara-finance",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "amara-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "amara-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "amara-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Explore DeFi Boundaries for New Possibilities",
+  "description": "Amara is a multi-chain asset lending service provider within Polkadot ecosystem, focusing on open, privacy preserved multi-chain lending markets.\r\n\r\nAmara is a top multi-chain asset lending protocol within Polkadot ecosystem, with core products AmaraLend, a multi-chain deployment lending protocol, and AmaraLink, an assets cross-chain protocol. Now, AmaraLendhas deployed on the testnet of Moonbeam（Moonbase Alpha V8), and is expected to deploy on Moonriver.\r\n\r\nAmara is striving to be the most popular lending hub within Polkadot ecosystem in the short term, and introduce possibly more assets into Polkadot.",
+  "tags": [
+    "DeFi",
+    "MOVR Grants"
+  ],
+  "contracts": [
+    {
+      "contract": "0x0d2faa2064129ecbfaccd45be33dea3bcd3f8863",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://www.amara.link/",
+    "try": "https://www.amara.link/",
+    "twitter": "https://twitter.com/amarafinance",
+    "medium": "https://amara-finance.medium.com/",
+    "telegram": "https://t.me/AmaraFinance",
+    "github": "https://github.com/AmaraFinance",
+    "discord": "https://discord.com/invite/rhkyBmmCBf"
+  }
+}

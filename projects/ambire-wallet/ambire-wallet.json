@@ -1,0 +1,45 @@
+{
+  "id": "ambire-wallet",
+  "slug": "ambire-wallet",
+  "name": "Ambire Wallet",
+  "category": "wallets",
+  "coinGeckoId": "ambire-wallet",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ambire-wallet-logo-small.png",
+      "width": 28,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "ambire-wallet-logo-large.png",
+      "width": 225,
+      "height": 285,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "ambire-wallet-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The First Non-Custodial DeFi Wallet with Email Authentication",
+  "description": "Ambire is the first power user wallet that is launched as a web app, which is different from most non-mobile wallets which are browser extensions. ",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ambire.com/",
+    "try": "https://www.ambire.com/",
+    "twitter": "https://twitter.com/AmbireWallet",
+    "telegram": "https://t.me/AmbireOfficial",
+    "github": "https://github.com/ambireTech/wallet",
+    "discord": "https://discord.gg/nMBGJsb"
+  }
+}

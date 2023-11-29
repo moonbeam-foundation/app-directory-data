@@ -1,0 +1,43 @@
+{
+  "id": "mixbytes-io",
+  "slug": "mixbytes-io",
+  "name": "MixBytes",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mixbytes-io-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "mixbytes-io-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "mixbytes-io-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Making DeFi yet more efficient and secure",
+  "description": "MixBytes is a team of experienced blockchain engineers and developers. The team builds and launch blockchain projects based on Ethereum, EOS and Parity Substrate, using the expertise to create and audit smart contracts and dApps, consult and train in-house teams, develop tools for blockchain developers.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://mixbytes.io/",
+    "try": "https://mixbytes.io/",
+    "twitter": "https://twitter.com/MixBytes",
+    "github": "https://github.com/mixbytes/audits_public"
+  }
+}

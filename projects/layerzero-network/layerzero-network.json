@@ -1,0 +1,46 @@
+{
+  "id": "layerzero-network",
+  "slug": "layerzero-network",
+  "name": "LayerZero",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "LayerZero"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "layerzero-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "layerzero-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "layerzero-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Seamlessly Connected Blockchain",
+  "description": "LayerZero is a User Application (UA) configurable on-chain endpoint that runs a ULN. LayerZero relies on two parties to transfer messages between on-chain endpoints: the Oracle and the Relayer",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://layerzero.network/",
+    "try": "https://layerzero.network/",
+    "twitter": "https://twitter.com/LayerZero_Labs",
+    "medium": "https://medium.com/layerzero-official",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "discord": "https://discord-layerzero.netlify.app/discord"
+  }
+}

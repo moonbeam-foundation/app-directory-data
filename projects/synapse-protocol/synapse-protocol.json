@@ -1,0 +1,49 @@
+{
+  "id": "synapse-protocol",
+  "slug": "synapse-protocol",
+  "name": "Synapse Protocol",
+  "category": "bridges",
+  "coinGeckoId": "synapse",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Synapse"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "synapse-protocol-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "synapse-protocol-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "synapse-protocol-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "DeFi's Multi-Chain Bridge",
+  "description": "Synapse Protocol allows you to transfer and swap assets across Ethereum, Moonbeam, Layer 2 chains, BSC, Avalanche and more.",
+  "tags": [
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://synapseprotocol.com/",
+    "try": "https://synapseprotocol.com/",
+    "twitter": "https://twitter.com/SynapseProtocol",
+    "medium": "https://nervefinance.medium.com/",
+    "telegram": "https://t.me/synapseprotocol",
+    "github": "https://github.com/nerve-finance",
+    "discord": "https://discord.gg/synapseprotocol"
+  }
+}

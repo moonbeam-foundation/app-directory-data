@@ -1,0 +1,47 @@
+{
+  "id": "exiled-racers",
+  "slug": "exiled-racers",
+  "name": "Exiled Racers",
+  "category": "gaming",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Exiled Racers"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "exiled-racers-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "exiled-racers-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "exiled-racers-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The World's First NFT Space Racing Manager Built on Moonbeam Network. \n",
+  "description": "Exiled Racers is a 3D NFT project that leverages Moonbeam’s EVM compatibility to deliver hyper-realistic NFTs & rewarding play-to-enjoy experiences",
+  "tags": [
+    "Gaming",
+    "NFT",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.exiledracers.com/",
+    "try": "https://www.exiledracers.com/",
+    "twitter": "https://twitter.com/exiledracers",
+    "discord": "https://discord.com/invite/exiledracers"
+  }
+}

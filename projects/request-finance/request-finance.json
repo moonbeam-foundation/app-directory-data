@@ -1,0 +1,41 @@
+{
+  "id": "request-finance",
+  "slug": "request-finance",
+  "name": "Request Finance",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "request-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "request-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "request-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The all-in-one finance solution for Web3 teams - Crypto invoices, billing, payroll & expenses. Powered by Request Network",
+  "description": "The all-in-one finance solution for Web3 businesses. Metaverse, DeFi, NFT companies and DAOs use Request Finance to manage their crypto finance operations in a compliant and scalable way.",
+  "tags": [
+    "On-ramp"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.request.finance/",
+    "try": "https://www.request.finance/",
+    "twitter": "https://twitter.com/RequestFinance",
+    "github": "https://github.com/RequestNetwork/"
+  }
+}

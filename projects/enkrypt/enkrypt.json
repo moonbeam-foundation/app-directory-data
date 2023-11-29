@@ -1,0 +1,44 @@
+{
+  "id": "enkrypt",
+  "slug": "enkrypt",
+  "name": "Enkrypt",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "enkrypt-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "enkrypt-logo-large.png",
+      "width": 440,
+      "height": 440,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "enkrypt-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "A multichain crypto wallet. Hold, buy, send, receive, and swap tokens. Manage your NFTs. Access web3 apps across multiple blockchains.",
+  "description": "Built by MyEtherWallet, an experienced crypto-native team with the best security practices and most up-to-date tools.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.enkrypt.com/",
+    "try": "https://www.enkrypt.com/",
+    "twitter": "https://twitter.com/myetherwallet/status/1559276268553633796",
+    "medium": "https://medium.com/@myetherwallet",
+    "github": "https://github.com/enkryptcom/enKrypt",
+    "discord": "https://discord.com/invite/Gz8vBneyKe\n"
+  }
+}

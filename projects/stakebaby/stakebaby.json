@@ -1,0 +1,42 @@
+{
+  "id": "stakebaby",
+  "slug": "stakebaby",
+  "name": "StakeBaby",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "stakebaby-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "stakebaby-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "stakebaby-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Peace of-mind crypto Staking",
+  "description": "Formerly DVN. Stake your GLMR and MOVR through us.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.stakebaby.com/",
+    "try": "https://www.stakebaby.com/",
+    "medium": "https://medium.com/stakebaby",
+    "telegram": "https://t.me/stakebaby"
+  }
+}

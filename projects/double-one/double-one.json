@@ -1,0 +1,46 @@
+{
+  "id": "double-one",
+  "slug": "double-one",
+  "name": "Double Protocol",
+  "category": "lending",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Double"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "double-one-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "double-one-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "double-one-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Rental Protocol For Utility NFTs",
+  "description": "Double Protocol is a fully decentralized and open-source NFT rental protocol and marketplace for Metaverse and GameFi assets.",
+  "tags": [
+    "NFT Marketplaces",
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://double.one/",
+    "try": "https://double.one/",
+    "twitter": "https://twitter.com/DoubleProtocol",
+    "medium": "https://medium.com/@doubleprotocol",
+    "discord": "https://discord.gg/pbTPDkRFNJ"
+  }
+}

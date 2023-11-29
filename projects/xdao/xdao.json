@@ -1,0 +1,48 @@
+{
+  "id": "xdao",
+  "slug": "xdao",
+  "name": "XDAO",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "XDAO"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "xdao-logo-small.png",
+      "width": 39,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "xdao-logo-large.png",
+      "width": 419,
+      "height": 385,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "xdao-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Create and manage your Decentralized Autonomous Organization using the fastest growing, safest and most convenient solution on the market",
+  "description": "XDAO – expanding multichain DAO ecosystem is built for a decentralized future. Behind this project stands a highly qualified team with a strong background in crypto. XDAO was successfully launched on Ethereum, BSC, Polygon, HECO and is going to further expand into more blockchains. The main idea of XDAO is to allow people to create a decentralized autonomous organization of any size. XDAO is working on delivering a product that reveals the full potential of a company on a blockchain by providing it with all the tools they need for successful operations. For more savvy users XDAO can also be described as an off‐chain voting mechanism with on‐chain execution. The XDAO team are winners of the BSC Hackathon, HECO Hackathon and have received a grant from Polygon over the summer of 2021.",
+  "tags": [
+    "Developer Tools"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.xdao.app/",
+    "try": "https://www.xdao.app/",
+    "twitter": "https://twitter.com/xdaoapp",
+    "medium": "https://medium.com/xdao",
+    "telegram": "https://t.me/xdao_eng",
+    "github": "https://github.com/xdao-app/xdao-contracts",
+    "discord": "https://discord.gg/axx6uCAb4Y"
+  }
+}

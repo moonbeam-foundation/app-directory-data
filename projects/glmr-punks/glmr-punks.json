@@ -1,0 +1,43 @@
+{
+  "id": "glmr-punks",
+  "slug": "glmr-punks",
+  "name": "Glmr Punks",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Glmr Punks"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "glmr-punks-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "glmr-punks-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "glmr-punks-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Love and Vibe",
+  "description": "Glmr Punks is unique 10000 punks on Moonbeam Network. Love and Vibe.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://glmr-punks.com/",
+    "try": "https://glmr-punks.com/",
+    "twitter": "https://twitter.com/Glmr_Punks"
+  }
+}

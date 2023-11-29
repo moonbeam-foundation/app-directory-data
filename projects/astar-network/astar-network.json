@@ -1,0 +1,44 @@
+{
+  "id": "astar-network",
+  "slug": "astar-network",
+  "name": "Astar Network",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "astar-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "astar-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "astar-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Astar Network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability with cross-consensus messaging XCM",
+  "description": "Astar Network focuses on making the best smart contract platform so that dApps developers on Polkadot do not need to pay much attention to infrastructure and can focus more on their dApp. Ideally, the developers can build whatever applications on Astar Network without having to consider its scalability. Astar Network solves prominent issues: scalability interoperability and lack of developer incentive.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://astar.network/",
+    "try": "https://astar.network/",
+    "twitter": "https://twitter.com/AstarNetwork",
+    "medium": "https://medium.com/astar-network",
+    "telegram": "https://t.me/PlasmOfficial",
+    "github": "https://github.com/AstarNetwork",
+    "discord": "https://discord.gg/Z3nC9U4"
+  }
+}

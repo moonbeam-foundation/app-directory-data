@@ -1,0 +1,46 @@
+{
+  "id": "nftrade",
+  "slug": "nftrade",
+  "name": "NFTrade",
+  "category": "nfts",
+  "coinGeckoId": "nftrade",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nftrade-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "nftrade-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "nftrade-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Create, Buy, Sell, Swap and Farm NFTs",
+  "description": "NFTrade is a multi-chain platform for NFT creation and trading. Seamlessly launch, mint, and swap non-fungible tokens. Earn digital collectibles. NFTrade places you at the heart of the NFT economy. Create, Buy, Sell, Swap and Farm NFTs. All chains, All NFTs, One Platform.",
+  "tags": [
+    "NFT Marketplaces",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://nftrade.com/",
+    "try": "https://nftrade.com/",
+    "twitter": "https://twitter.com/NFTradeOfficial",
+    "medium": "https://medium.com/@NFTrade",
+    "telegram": "https://t.me/NFTrade",
+    "discord": "https://discord.com/invite/SESqfsyw8k"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "staker-space",
+  "slug": "staker-space",
+  "name": "Staker Space",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "staker-space-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "staker-space-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "staker-space-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Looking into staking and validating",
+  "description": "Staker Space, enthousiast that is looking into staking staking and validating. I have participated in many testnets of several protocols. Now I want to offer a service and this website will be the identity for it.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://staker.space/",
+    "try": "https://staker.space/",
+    "twitter": "https://twitter.com/StakerSpace",
+    "github": "https://github.com/StakerSpace"
+  }
+}

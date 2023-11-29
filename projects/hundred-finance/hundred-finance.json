@@ -1,0 +1,43 @@
+{
+  "id": "hundred-finance",
+  "slug": "hundred-finance",
+  "name": "Hundred Finance",
+  "category": "lending",
+  "coinGeckoId": "hundred-finance",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "hundred-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "hundred-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "hundred-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A multi-chain lending protocol using veHND model, it integrates with Chainlink oracles to ensure market health and stability.",
+  "description": "A new evolution in decentralized lending and borrowing, a unique protocol that combines the best aspects of our forebears in order to provide the broadest possible market a secure, liquid and community-driven borrowing and lending service",
+  "tags": [
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://hundred.finance/",
+    "try": "https://hundred.finance/",
+    "twitter": "https://twitter.com/HundredFinance",
+    "medium": "https://blog.hundred.finance/",
+    "discord": "https://discord.gg/phK668J6dQ"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "acala-karura",
+  "slug": "acala-karura",
+  "name": "Acala Karura",
+  "category": "other",
+  "coinGeckoId": "acala",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "acala-karura-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "acala-karura-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "acala-karura-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Acala is a decentralized finance network powering the aUSD ecosystem,",
+  "description": "",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "http://acala.network/",
+    "try": "http://acala.network/",
+    "twitter": "https://twitter.com/AcalaNetwork",
+    "medium": "https://twitter.com/KaruraNetwork"
+  }
+}

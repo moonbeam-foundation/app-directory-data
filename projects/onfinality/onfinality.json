@@ -1,0 +1,46 @@
+{
+  "id": "onfinality",
+  "slug": "onfinality",
+  "name": "OnFinality",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "onfinality-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "onfinality-logo-large.jpeg",
+      "width": 340,
+      "height": 340,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "onfinality-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Blockchain Infrastructure Made Smarter",
+  "description": "OnFinality is a blockchain infrastructure platform that saves web3 builders time and makes their lives easier. OnFinality delivers scalable API endpoints for the biggest blockchain networks and empowers developers to automatically test, deploy, scale and monitor their own blockchain nodes in minutes. To date, OnFinality has served over 250 billion RPC requests across 60 networks including Polkadot, Kusama, Moonbeam, Astar, Avalanche and Cosmos, and is continuously expanding these mission-critical services so developers can build the decentralised future, faster!\n\n",
+  "tags": [
+    "Infrastructure",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://onfinality.io/",
+    "try": "https://onfinality.io/",
+    "twitter": "https://twitter.com/OnFinality",
+    "medium": "https://onfinality.medium.com/",
+    "telegram": "https://t.me/onfinality",
+    "github": "https://github.com/OnFinality-io"
+  }
+}

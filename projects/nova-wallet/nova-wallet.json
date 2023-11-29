@@ -1,0 +1,45 @@
+{
+  "id": "nova-wallet",
+  "slug": "nova-wallet",
+  "name": "Nova Wallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nova-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "nova-wallet-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "nova-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Next gen wallet for Polkadot & Kusama ecosystem",
+  "description": "Nova Wallet is next gen application for Polkadot & Kusama ecosystem, transparent & community-oriented, focused on convenient UX/UI, fast performance & security.\r\n\r\nGet access to the whole brand new experience of the mobile app for Polkadot and Kusama. Manage all ecosystem tokens, enjoy a convenient Staking experience, and contribute to the Crowdloans with no limits.",
+  "tags": [
+    "Wallets",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://novawallet.io/",
+    "try": "https://novawallet.io/",
+    "twitter": "https://twitter.com/NovaWalletApp",
+    "telegram": "https://t.me/novawallet",
+    "github": "https://github.com/nova-wallet/"
+  }
+}

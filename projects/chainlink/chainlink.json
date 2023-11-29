@@ -1,0 +1,45 @@
+{
+  "id": "chainlink",
+  "slug": "chainlink",
+  "name": "Chainlink",
+  "category": "other",
+  "coinGeckoId": "chainlink",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chainlink-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chainlink-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chainlink-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Reliable tamper-proof inputs and outputs for complex smart contracts on any blockchain",
+  "description": "Chainlink is blockchain middleware that allows smart contracts to access key off-chain resources like data feeds, various web APIs, and traditional bank account payments. By providing smart contracts secure access to these key resources, ChainLink allows them to mimic real world agreements that require external proof of performance and need to make payment in widely available payment methods e.g. bank payments.\r\n\r\nThe Chainlink Network is a decentralized network of ChainLink Nodes, which are all selling usage of specific data feeds, APIs and various off-chain payment capabilities directly to a smart contract. Any data, payments, e-signature, or other API provider, as well as individual developers, can easily join the network by connecting an API they're familiar with. Once the API they'd like to offer to smart contracts is connected to a ChainLink, they become a ChainLink Node Operator, responsible for keeping that API connected to the ChainLink Network and being compensated in LINK for their successful fulfillment of on-chain requests.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://chain.link/",
+    "try": "https://chain.link/",
+    "twitter": "https://twitter.com/chainlink",
+    "medium": "https://medium.com/chainlink/",
+    "telegram": "https://t.me/chainlink",
+    "github": "https://github.com/smartcontractkit/chainlink"
+  }
+}

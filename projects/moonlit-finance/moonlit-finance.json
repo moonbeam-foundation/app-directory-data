@@ -1,0 +1,46 @@
+{
+  "id": "moonlit-finance",
+  "slug": "moonlit-finance",
+  "name": "Moonlit Finance",
+  "category": "defi",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonlit-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonlit-finance-logo-large.jpeg",
+      "width": 255,
+      "height": 255,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonlit-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Convergence deployment on top of Moonriver",
+  "description": "Moonlit Finance is the Convergence deployment on top of Moonriver.\n\nConvergence is the first AMM to make real world asset exposure interchangeable in the DeFi space by connecting Wrapped Security Tokens (WSTs) with Utility Tokens on a single interface that is easy to use, adopt and composable with other DeFi protocols. Convergence enables asset owners to access decentralized DeFi liquidity, while DeFi users can access real world asset exposure (such as in private / unicorn companies or exotic real world assets). Convergence Finance combines the advantage of security tokens with the liquidity, automation and transparency features of DeFi to bring real world asset exposure to DeFi. (Powered by Convergence)",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0xe38A3973d96AaA2b2C6713df7E59b5235a5B449B",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://moonlit.finance/",
+    "try": "https://moonlit.finance/",
+    "twitter": "https://twitter.com/ConvergenceFin",
+    "github": "https://github.com/Convergence-Finance"
+  }
+}

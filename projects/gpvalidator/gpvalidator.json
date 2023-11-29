@@ -1,0 +1,43 @@
+{
+  "id": "gpvalidator",
+  "slug": "gpvalidator",
+  "name": "GPvalidator",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "gpvalidator-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "gpvalidator-logo-large.jpeg",
+      "width": 227,
+      "height": 227,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "gpvalidator-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Experts in Blockchain Validation.",
+  "description": "GPvalidator, Experts in Blockchain Validation, dedicated to finding the best projects in blockchain. They do this by examining each of them and participating in all available testnets, and later in the mainnets, which allows them to offer a delegation service to all users. With more than 3 years in the blockchain sector, GP | Validators bet very strong, since they believe in the advancement of technology and like to support what the future will be.\r\n\r\nThey are proud to be a part of the collator community and have tried all the networks that they offer. They believe the Polkadot ecosystem will be very big!",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.gpvalidator.com/",
+    "try": "https://www.gpvalidator.com/",
+    "twitter": "https://twitter.com/cryptoDGP",
+    "medium": "https://medium.com/@GPvalidator",
+    "discord": "https://discord.com/invite/QdFcdU2q"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "metamask",
+  "slug": "metamask",
+  "name": "MetaMask",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "metamask-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "metamask-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "metamask-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Bring Ethereum to your web browser.",
+  "description": "MetaMask is an extension for accessing Ethereum-enabled decentralized applications, or DApps, in your browser. The extension injects the Ethereum Web3 API into every website’s JavaScript context, so that DApps can read from the blockchain.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://metamask.io/",
+    "try": "https://metamask.io/",
+    "twitter": "https://twitter.com/metamask/",
+    "medium": "https://medium.com/metamask",
+    "github": "https://github.com/MetaMask"
+  }
+}

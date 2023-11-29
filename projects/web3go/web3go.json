@@ -1,0 +1,45 @@
+{
+  "id": "web3go",
+  "slug": "web3go",
+  "name": "Web3Go",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "web3go-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "web3go-logo-large.jpeg",
+      "width": 340,
+      "height": 340,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "web3go-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Open data analytics platform, Built for the Polkadot ecosystem.",
+  "description": "Web3Go is an open data analytics platform that allows users to extract, curate and visualize data with powerful yet easy-to-use tools.\r\n\r\nDeeply rooted in the Polkadot ecosystem, Web3Go provides a series of Web 3 data related services: Micro-level analysis and visualization of cross-chain assets transactions, parachain slot auctions, DeFi activities and token transaction histories; Sophisticated address labeling system to create user portraits and accumulate user identity library according to the behavior data on the chain; Utilizing Substrate Smart Contract, a reward system is deployed to incentivize users to post data task and patronize data professions on Web3Go. Being said, Web3Go will provide the essential technical infrastructure for data applications of all kinds in the Polkadot ecosystem.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://web3go.xyz/",
+    "try": "https://web3go.xyz/",
+    "twitter": "https://twitter.com/Web3Go",
+    "medium": "https://web3go.medium.com/",
+    "telegram": "https://t.me/web3go",
+    "github": "https://github.com/web3go-xyz"
+  }
+}

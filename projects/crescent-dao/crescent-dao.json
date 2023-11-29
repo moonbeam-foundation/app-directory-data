@@ -1,0 +1,44 @@
+{
+  "id": "crescent-dao",
+  "slug": "crescent-dao",
+  "name": "Crescent DAO",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "crescent-dao-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "crescent-dao-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "crescent-dao-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Crescent DAO is a DeFi project aimed at developing and popularizing synthetic tokens for multiple L1",
+  "description": "Crescent DAO is a DeFi project aimed at developing and popularizing synthetic tokens for multiple L1 Ecosystems. Imagine having exposure to the price of GLMR token without actually owning it.\nWith Crescent DAO, we introduce a decentralized solution by adopting a partial collateralized design, where synthetic tokens are partially backed by a L1 token and partially by our native token.",
+  "tags": [
+    "DeFi",
+    "DAO"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://crescentdao.finance/",
+    "try": "https://crescentdao.finance/",
+    "twitter": "https://twitter.com/Crescent_DAO",
+    "medium": "https://medium.com/@CrescentDAO",
+    "telegram": "https://t.me/CrescentDAO",
+    "discord": "https://discord.gg/kRpKBMyJh2"
+  }
+}

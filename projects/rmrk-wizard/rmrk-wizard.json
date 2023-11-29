@@ -1,0 +1,46 @@
+{
+  "id": "rmrk-wizard",
+  "slug": "rmrk-wizard",
+  "name": "RMRK Wizard",
+  "category": "nfts",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "rmrk-wizard-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "rmrk-wizard-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "rmrk-wizard-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A no-code-but-code wizard UI for building NFTs 2.0",
+  "description": "A simple UI to put together NFT 2.0 legos created by the RMRK.app team. Use this tool to get started developing advanced NFT collections by picking from a set of functions you need, and the tool will compose code for you which only needs final tweaks before being deployed!",
+  "tags": [
+    "NFT",
+    "Tool",
+    "Developer Tools"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://wizard.rmrk.dev",
+    "try": "https://wizard.rmrk.dev",
+    "twitter": "https://x.com/rmrkapp",
+    "medium": "https://medium.com/rmrkapp",
+    "telegram": "https://t.me/rmrkapp",
+    "github": "https://github.com/rmrk-team"
+  }
+}

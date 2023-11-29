@@ -1,0 +1,43 @@
+{
+  "id": "mowallet-app",
+  "slug": "mowallet-app",
+  "name": "MoWallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mowallet-app-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mowallet-app-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mowallet-app-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "MoWallet is a DeFi Crypto Wallet, easy to access several blockchains in one app",
+  "description": "The only DeFi Wallet you'll ever need. MoWallet is a self-custodial wallet that provides access to several chains. Start by easily swapping tokens and sending payments to friends and relatives.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://mowallet.app/",
+    "try": "https://mowallet.app/",
+    "twitter": "https://twitter.com/mowalletapp",
+    "telegram": "https://t.me/mochain",
+    "github": "https://github.com/mochainapp"
+  }
+}

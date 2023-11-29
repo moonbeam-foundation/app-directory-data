@@ -1,0 +1,42 @@
+{
+  "id": "masternode24",
+  "slug": "masternode24",
+  "name": "Masternode24",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "masternode24-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "masternode24-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "masternode24-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Validator and staking provider from Germany",
+  "description": "Masternode24 is a validator and staking provider from Germany. They place the highest demands on themselves, in order to offer the highest level of transparency and security for their customers.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://masternode24.de",
+    "try": "https://masternode24.de",
+    "twitter": "https://twitter.com/masternode24",
+    "telegram": "https://t.me/joinchat/HfZbpg9W32YWQfCPaeWcWQ"
+  }
+}

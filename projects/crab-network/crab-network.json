@@ -1,0 +1,41 @@
+{
+  "id": "crab-network",
+  "slug": "crab-network",
+  "name": "Crab Network",
+  "category": "other",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "crab-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "crab-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "crab-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Crab is the canary network of Darwinia, and is the first blockchain in the Kusama ecosystem to natively support cross-chain as well as smart contract and NFT. Crab Network intends to participate in the Kusama Parachain Slot Auctions.",
+  "description": "Darwinia Network has gained a high reputation and recognition along the way to building a decentralized cross-chain bridge protocol. In 2020, Darwinia was mentioned in Polkadot light-paper as one of the friends of Polkadot and Substrate, and Darwinia was selected to join the Substrate Builder Program and Web3.0 Bootcamp, and for the outstanding achievements in the Substrate Builder Program, Darwinia Network was officially awarded the Level 2 badge by Parity. The products and tools developed by Darwinia have been awarded three Web3 Foundation grants. Polkadot founder Gavin Wood has also highlighted Darwinia Network as a “Project to watch.”",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://crab.network/",
+    "try": "https://crab.network/",
+    "twitter": "https://twitter.com/DarwiniaNetwork"
+  }
+}

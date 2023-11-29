@@ -1,0 +1,51 @@
+{
+  "id": "wepiggy",
+  "slug": "wepiggy",
+  "name": "WePiggy",
+  "category": "lending",
+  "coinGeckoId": "wepiggy-coin",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "WePiggy"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "wepiggy-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "wepiggy-logo-large.jpeg",
+      "width": 369,
+      "height": 369,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "wepiggy-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A DeFi Asset Lending Market Protocol",
+  "description": "WePiggy is an open source, non-custodial crypto asset lending market protocol. In Wepiggy’s market, users can deposit their crypto assets to earn interest, or borrow others by paying interests.\r\n\r\nCompared with pioneers such as Compound and Aave, WePiggy wishes to create more markets for user’s choices; optimize the execution efficiency of smart contracts, low-down the gas cost; equip users with more financial tools, not only flash loan, but also margin, options, etc. Of course, all the improvements are premised on the basis of users’ fund safety.\r\n\r\nAlso, WePiggy will try the best to bring better user experience to users. Especially in East Asia market, more improvements would be made to lower the learning barrier for users. With the gradual improvement of the protocol, WePiggy may build up a series of dApps for users here.\r\nIn WePiggy’s governance, the core team would like to take a more positive and responsible role. We believe in the importance of goals and fundamental principles, and we fully understand that high quality governance won’t happen in a soulless project.\r\n\r\nTherefore, at the early stage of WePiggy’s governance, the core team will actively participate in the governance to work with the community to form an atmosphere of scientific governance. We will discuss the basic governance framework of WePiggy Protocol with all members of the community in our first proposal after the governance forum goes live.",
+  "tags": [
+    "Bridges",
+    "Tool",
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://wepiggy.com/",
+    "try": "https://wepiggy.com/",
+    "twitter": "https://twitter.com/wepiggydotcom",
+    "medium": "https://medium.com/@wepiggy-com",
+    "telegram": "https://t.me/wepiggyannouncements",
+    "github": "https://github.com/WePiggy",
+    "discord": "https://discord.com/invite/pew9k58"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "omni-x",
+  "slug": "omni-x",
+  "name": "Omni-X",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "omni-x-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "omni-x-logo-large.jpeg",
+      "width": 107,
+      "height": 108,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "omni-x-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The first natively omnichain NFT platform",
+  "description": "Omni X is an omnichain NFT protocol and marketplace that connects communities, creators, and enthusiasts across multiple blockchains. \n\nWe provide tooling for creating ONFT collections, bridging regular NFTs to ONFTs and grant access to unparalleled liquidity that allows users to buy and sell NFTs from any blockchain to any other blockchain.",
+  "tags": [
+    "NFT Marketplaces",
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://omni-x.io",
+    "try": "https://omni-x.io",
+    "twitter": "https://twitter.com/omnix_nft",
+    "telegram": "https://t.me/+LqmDOeGUQdRmYjVh%60%60",
+    "github": "https://github.com/Omni-X-NFT",
+    "discord": "https://discord.gg/omni-x"
+  }
+}

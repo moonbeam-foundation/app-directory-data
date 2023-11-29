@@ -1,0 +1,45 @@
+{
+  "id": "rabby",
+  "slug": "rabby",
+  "name": "Rabby",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "rabby-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "rabby-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "rabby-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A better extension wallet for DeFi users",
+  "description": "Rabby is a better extension wallet for DeFi users, an open source crypto wallet in your browser for Ethereum.\r\n\r\nDesigned for DeFi users with a smooth multi-chain experience. Protect your assets with pre-transaction potential risk scanning. Show you upcoming balance change before you sign a transaction.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://rabby.io/",
+    "try": "https://rabby.io/",
+    "twitter": "https://twitter.com/Rabby_io",
+    "medium": "https://medium.com/@rabby_io/",
+    "telegram": "https://t.me/rabby_io",
+    "github": "https://github.com/RabbyHub/",
+    "discord": "https://discord.com/invite/seFBCWmUre"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "minterest",
+  "slug": "minterest",
+  "name": "Minterest",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "minterest-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "minterest-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "minterest-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Get the highest long term yield in DeFi",
+  "description": "Minterest is a ground-breaking lending protocol built by industry leaders to service billions in TVL and to challenge existing DeFi incumbents. The protocol gives users a decentralised token money market, combined with a uniquely fair incentive structure that will facilitate and promote widespread adoption of DeFi. By utilising its own buy back mechanism, the protocol passes on 100% of revenue generated to its community of active participants.\r\n\r\nIt is a cross-chain decentralized money market lending protocol built on Polkadot. Its unique design attracts and rewards long term liquidity with Minterest distributing value captured by the protocol to MNT token holders who actively participate in its governance.",
+  "tags": [
+    "DeFi",
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.minterest.com/",
+    "try": "https://www.minterest.com/",
+    "twitter": "https://twitter.com/Minterest",
+    "telegram": "https://t.me/MinterestFinanceChat",
+    "github": "https://github.com/minterest-finance"
+  }
+}

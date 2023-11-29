@@ -1,0 +1,42 @@
+{
+  "id": "jrstudio-solutions",
+  "slug": "jrstudio-solutions",
+  "name": "JR Studio",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "jrstudio-solutions-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "jrstudio-solutions-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "jrstudio-solutions-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A Web3 PaaS platform, giving gaming studios the superpowers to build, host, launch, manage, and scale their creations to new heights.",
+  "description": "Uniting Creators and Gamers in a Web3 Gaming Platform. Seamlessly bridging the gap between Web2 and Web3 Gaming. Empowering Game Creators and captivating Players with value-added modules.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://jrstudio.solutions/",
+    "try": "https://jrstudio.solutions/",
+    "twitter": "https://twitter.com/JRStudio_",
+    "telegram": "https://t.me/jrstudiochat"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "speedboat.studio",
+  "slug": "speedboat.studio",
+  "name": "Speedboat",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "speedboat.studio-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "speedboat.studio-logo-large.png",
+      "width": 190,
+      "height": 190,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "speedboat.studio-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Your no-code Web3 toolkit",
+  "description": "Speedboat is a Web3 toolkit for everyone. Built on the idea that NFTs are not just expensive JPEGs, but programmable experiences.",
+  "tags": [
+    "NFT",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://speedboat.studio/",
+    "try": "https://speedboat.studio/",
+    "twitter": "https://twitter.com/Speedboat_STDO",
+    "medium": "https://medium.com/@speedboat_studio",
+    "discord": "https://discord.gg/y7TQbtEWSV"
+  }
+}

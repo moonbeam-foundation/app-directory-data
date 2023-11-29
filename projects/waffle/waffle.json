@@ -1,0 +1,41 @@
+{
+  "id": "waffle",
+  "slug": "waffle",
+  "name": "Waffle",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "waffle-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "waffle-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "waffle-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Sweet tool for smart contracts testing",
+  "description": "Waffle is a framework for testing smart contracts that uses minimal dependencies, has syntax that is easy to learn and extend, and provides fast execution times when compiling and testing smart contracts. It is TypeScript compatible and uses Chai matchers to make tests easy to read and write.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://getwaffle.io/",
+    "try": "https://getwaffle.io/",
+    "github": "https://github.com/EthWorks/Waffle"
+  }
+}

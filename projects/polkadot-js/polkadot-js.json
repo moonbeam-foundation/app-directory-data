@@ -1,0 +1,41 @@
+{
+  "id": "polkadot-js",
+  "slug": "polkadot-js",
+  "name": "Polkadot-JS",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "polkadot-js-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "polkadot-js-logo-large.jpeg",
+      "width": 300,
+      "height": 300,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "polkadot-js-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Polkadot does JavaScript",
+  "description": "A collection of tools, interfaces and libraries around the Polkadot project. Polkadot does JavaScript.\r\n\r\nAn alternative Polkadot Runtime Environment implementation acting as a full-node (excluding block production for validators) for syncing with Substrate-based chains.\r\n\r\nA JavaScript version of a Polkadot/Substrate network client. It allows operation in full and light nodes fullfilling all functions of chain operation, however does not include the ability to author blocks (i.e. run as a validator on the network).",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://polkadot.js.org/",
+    "try": "https://polkadot.js.org/",
+    "twitter": "https://twitter.com/polkadotjs"
+  }
+}

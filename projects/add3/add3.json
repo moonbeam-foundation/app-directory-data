@@ -1,0 +1,41 @@
+{
+  "id": "add3",
+  "slug": "add3",
+  "name": "Add3",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "add3-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "add3-logo-large.jpeg",
+      "width": 256,
+      "height": 256,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "add3-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A powerful no-code Web3 platform for creating and managing token products.",
+  "description": "Add3 understands that creating your own crypto project is more then just token minting.  Manage an entire crypto life-cycle in Add3 from minting and vesting to liquidity pools and staking, all without code. Add3 allows anyone to create & manage the next best crypto project. Using Add3 you can save up to 1 year in development time, and save yourself the need to hire an engineer in the first place.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.add3.io/",
+    "try": "https://www.add3.io/",
+    "twitter": "https://twitter.com/add3official"
+  }
+}

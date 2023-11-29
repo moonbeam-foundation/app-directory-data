@@ -1,0 +1,43 @@
+{
+  "id": "superhedge",
+  "slug": "superhedge",
+  "name": "SuperHedge",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "superhedge-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "superhedge-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "superhedge-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "SuperHedge is building principal protected structured products for DeFi",
+  "description": "Maximize your DeFi returns with our passive, risk-managed structured vault products.\n\n⦿ 100% principal-protected \n⦿ USDC denominated \n⦿ Fixed interest",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "http://superhedge.io/",
+    "try": "http://superhedge.io/",
+    "twitter": "https://twitter.com/superhedgeio",
+    "medium": "https://superhedge.medium.com/",
+    "telegram": "https://t.me/superhedgeio",
+    "discord": "https://discord.gg/9wdXqZqfbw"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "staking4all",
+  "slug": "staking4all",
+  "name": "Staking4All",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "staking4all-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "staking4all-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "staking4all-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Staking Made Possible for Everyone",
+  "description": "Staking4All is a validator for proof of stake blockchains. Nominate them for an easy & transparent staking experience.\r\n\r\nStaking4All is glad to run a collator on Moonbeam because they see great potential in due to the focus on high-quality partnerships. Staking4All sees Moonbeam as a top-tier project within the Polkadot ecosystem.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.staking4all.org/",
+    "try": "https://www.staking4all.org/",
+    "twitter": "https://twitter.com/staking4all",
+    "medium": "https://staking4all.medium.com/"
+  }
+}

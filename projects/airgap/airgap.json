@@ -1,0 +1,43 @@
+{
+  "id": "airgap",
+  "slug": "airgap",
+  "name": "AirGap",
+  "category": "wallets",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "airgap-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "airgap-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "airgap-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The New Crypto Wallet Standard",
+  "description": "AirGap is a secure self-custody solution for multiple assets like Polkadot, Kusama, and soon Moonbeam. With AirGap’s two-device approach, a complete ideology of keeping your crypto completely offline can be followed. Alternatively, both apps AirGap Wallet and AirGap Vault, can be installed on the same device but still profit from added security.\r\n\r\nAirGap has a two-device approach: AirGap Vault and AirGap Wallet. The former can be installed on a dedicated smartphone completely offline with an air-gapped network and will be the one that holds the private key. The latter is a companion application to AirGap Vault installed on users’ everyday phones. AirGap’s offline approach provides a safer way to sign transactions. Additionally, its interface offers a user-friendly experience by providing one-way secure communication with QR codes (no cable needed to make the connection between online and offline devices) and secure key handling with a fast social recovery option.",
+  "tags": [
+    "Wallets",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://airgap.it/",
+    "try": "https://airgap.it/",
+    "twitter": "https://twitter.com/AirGap_it",
+    "medium": "https://medium.com/airgap-it"
+  }
+}

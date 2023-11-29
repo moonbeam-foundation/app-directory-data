@@ -1,0 +1,42 @@
+{
+  "id": "raresama",
+  "slug": "raresama",
+  "name": "Raresama",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "raresama-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "raresama-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "raresama-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Discover amazing Rare digital artwork",
+  "description": "Raresama brings the magic of owning a piece of artwork to your fingertips. Create or browse NFT art collections and enjoy a diverse mix of artists, genres, styles and movements.",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://raresama.com/",
+    "try": "https://raresama.com/",
+    "twitter": "https://twitter.com/RaresamaNFT",
+    "telegram": "https://t.me/raresama",
+    "discord": "https://discord.com/channels/938592318380982303/1010237900685840405"
+  }
+}

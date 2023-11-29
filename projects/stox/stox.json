@@ -1,0 +1,43 @@
+{
+  "id": "stox",
+  "slug": "stox",
+  "name": "Stox",
+  "category": "defi",
+  "coinGeckoId": "stox",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "stox-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "stox-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "stox-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "One dashboard for all investments",
+  "description": "Track your investments in over 25 global equity markets, ETFs, metals, mutual funds, cryptos, NFTs and more",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.stox.app/",
+    "try": "https://www.stox.app/",
+    "twitter": "https://twitter.com/getstox"
+  }
+}

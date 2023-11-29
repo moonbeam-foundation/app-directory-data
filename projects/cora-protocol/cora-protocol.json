@@ -1,0 +1,43 @@
+{
+  "id": "cora-protocol",
+  "slug": "cora-protocol",
+  "name": "Cora Protocol",
+  "category": "lending",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "cora-protocol-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "cora-protocol-logo-large.jpeg",
+      "width": 512,
+      "height": 513,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "cora-protocol-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Lending without liquidations",
+  "description": "Cora is a decentralized lending protocols where borrowers can borrow without the risk of being liquidated.",
+  "tags": [
+    "Lending"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.cora.money/",
+    "try": "https://www.cora.money/",
+    "twitter": "https://twitter.com/coraprotocol",
+    "telegram": "https://t.me/CoraProtocol",
+    "github": "https://github.com/Cora-Protocol"
+  }
+}

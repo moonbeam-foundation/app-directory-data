@@ -1,0 +1,44 @@
+{
+  "id": "ignite-tournaments",
+  "slug": "ignite-tournaments",
+  "name": "Ignite Tournaments",
+  "category": "gaming",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ignite-tournaments-logo-small.png",
+      "width": 28,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "ignite-tournaments-logo-large.png",
+      "width": 512,
+      "height": 668,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "ignite-tournaments-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Esports + mobile + tournaments + streaming + crypto",
+  "description": "Ignite Tournaments, the world’s first play-to-earn mobile esports tournament organization and streaming platform with payouts in crypto and NFTs. It make it possible for any mobile game to be play-to-earn!",
+  "tags": [
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ignitetournaments.com/",
+    "try": "https://www.ignitetournaments.com/",
+    "twitter": "https://twitter.com/igniteyourgames",
+    "medium": "https://medium.com/ignite-tournaments",
+    "telegram": "https://t.me/ignitetournaments",
+    "discord": "https://ignitetournaments.io/3ogSt15"
+  }
+}

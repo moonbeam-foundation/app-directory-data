@@ -1,0 +1,50 @@
+{
+  "id": "rocifi-nfcs-bridge",
+  "slug": "rocifi-nfcs-bridge",
+  "name": "RociFi NFCS Bridge",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "rocifi-nfcs-bridge-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "rocifi-nfcs-bridge-logo-large.jpeg",
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "rocifi-nfcs-bridge-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "RociFi is on-chain scoring and capital-efficient lending protocol",
+  "description": "The RociFi NFCS token functions as a credit, reputation, and trust credential that effectively categorizes a user's on-chain behavior into an easily understandable score ranging from 1 to 10. This dApp enables the bridging of NFCS tokens between Polygon and Moonbeam, and vice versa, facilitating a broad array of use cases.",
+  "tags": [
+    "DeFi",
+    "Lending"
+  ],
+  "contracts": [
+    {
+      "contract": "https://moonscan.io/address/0xb12f7407f823b9c712f4cb7c173ef73a7f2a781e",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://bridge-nfcs.roci.fi/app/",
+    "try": "https://bridge-nfcs.roci.fi/app/",
+    "twitter": "https://twitter.com/rocifi",
+    "medium": "https://blog.roci.fi/",
+    "telegram": "https://t.me/RociFi",
+    "github": "http://github.com/rociFi/",
+    "discord": "https://discord.com/invite/dq7cDETKxd"
+  }
+}

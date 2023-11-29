@@ -1,0 +1,50 @@
+{
+  "id": "ogp-bulk-sender",
+  "slug": "ogp-bulk-sender",
+  "name": "OGP Bulk Sender",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ogp-bulk-sender-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "ogp-bulk-sender-logo-large.png",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "ogp-bulk-sender-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Send your native coins, tokens, and NFTs in batches.",
+  "description": "If you need to send crypto to multiple wallets, do an airdrop for a new token, or simply gift some crypto to your friends and family, this app is perfect for you. Supports multiple EVM chains. Simple 3 step process which includes uploading addresses and amounts you wish to send, review before sending, and finally sending the amounts to each respectful address. Supports native coins, ERC-20, ERC-721, and ERC-1155.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [
+    {
+      "contract": "0x108cE54a9169a9d30a57d4042C2F6d327E19CBF5",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://www.offgridplatform.com/apps/bulk-sender",
+    "try": "https://www.offgridplatform.com/apps/bulk-sender",
+    "twitter": "https://twitter.com/offgridplatform",
+    "medium": "https://medium.com/@offgridplatform",
+    "telegram": "https://t.me/offgridplatform",
+    "github": "https://github.com/offgridplatform",
+    "discord": "https://discord.gg/9YJeHyd4Uv"
+  }
+}

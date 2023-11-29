@@ -1,0 +1,44 @@
+{
+  "id": "polkassembly",
+  "slug": "polkassembly",
+  "name": "Polkassembly",
+  "category": "social",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "polkassembly-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "polkassembly-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "polkassembly-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Discussion platform for polkadot governance",
+  "description": "Polkassembly is the place to discuss and vote on Kusama and Polkadot governance.\r\n\r\nPolkassembly is a platform for anyone to discover and participate in Polkadot and Kusama governance. You can browse proposals made on chain, discuss with the community and vote directly from the website using a browser extension. Proposal authors are the only one able to edit the proposal post and description. You don't have to, but adding an email may help to recover your account, also you can get notifications for discussions of interest or when a new proposal appears on-chain.",
+  "tags": [
+    "Social",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://polkassembly.io/",
+    "try": "https://polkassembly.io/",
+    "twitter": "https://twitter.com/polk_gov",
+    "github": "https://github.com/paritytech/polkassembly"
+  }
+}

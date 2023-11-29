@@ -1,0 +1,46 @@
+{
+  "id": "tfalpha",
+  "slug": "tfalpha",
+  "name": "UTOPIA & TF ALPHA",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Take Flight Alpha"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "tfalpha-logo-small.jpeg",
+      "width": 35,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "tfalpha-logo-large.jpeg",
+      "width": 512,
+      "height": 523,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "tfalpha-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A Moonbeam Node",
+  "description": "We are a community collator funded by Utopia VCs DAO with the goal of bringing liquidity to the moonbeam ecosystem.",
+  "tags": [
+    "Infrastructure",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.tfalpha.xyz/",
+    "try": "https://www.tfalpha.xyz/",
+    "twitter": "https://twitter.com/TFAlphaDao",
+    "telegram": "https://t.me/+6pPPLjRUwiM4NDg0",
+    "discord": "https://discord.com/invite/4w2EcaNucp"
+  }
+}

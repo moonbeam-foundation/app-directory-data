@@ -1,0 +1,43 @@
+{
+  "id": "ethsign",
+  "slug": "ethsign",
+  "name": "EthSign",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ethsign-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ethsign-logo-large.jpeg",
+      "width": 198,
+      "height": 198,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ethsign-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Decentralized, versioned electronic agreement signing Dapp built with Web3 technologies",
+  "description": "EthSign is a decentralized, versioned electronic agreement signing DApp built with Web3 technologies.\r\n\r\nEthSign is built upon the Web3 infrastructure that has just become mature over the past few years: Decentralized Identity, smart contract platforms and decentralized storage network, providing same functions as its Web 2 signing applications: uploading agreements, agreement signing, and the verification of signatures and versioning agreement in the future.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://ethsign.xyz/",
+    "try": "https://ethsign.xyz/",
+    "twitter": "https://twitter.com/ethsign",
+    "medium": "https://medium.com/ethsign/",
+    "discord": "https://discord.com/invite/Wvhp9dWdSg"
+  }
+}

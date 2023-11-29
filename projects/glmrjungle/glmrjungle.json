@@ -1,0 +1,43 @@
+{
+  "id": "glmrjungle",
+  "slug": "glmrjungle",
+  "name": "GLMR JUNGLE",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "glmrjungle-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "glmrjungle-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "glmrjungle-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "#TheGreatEscape P&E Game on Moonbeam $GLMR made by @GLMRapes",
+  "description": "GLMR JUNGLE is a NFT collection made of 3333 vector-style fruit-loving Gorillas, Chimpanzees, Orangutans and Bonobos.",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.glmrjungle.com/",
+    "try": "https://www.glmrjungle.com/",
+    "twitter": "https://twitter.com/GLMRJungle",
+    "telegram": "https://t.me/+qGh0InPSPc1iMTNk",
+    "discord": "https://discord.gg/H9DH3z2bTV"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bitquery-io",
+  "slug": "bitquery-io",
+  "name": "Bitquery",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bitquery-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bitquery-io-logo-large.jpeg",
+      "width": 164,
+      "height": 164,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bitquery-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Bitquery is the Blockchain Data Company.\nAPIs, Dashboard Analytics, Explorers, Widgets. Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains.",
+  "description": "Bitquery is an API-first product company dedicated to power and solve blockchain data problems using the ground truth of on-chain data.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bitquery.io/",
+    "try": "https://bitquery.io/",
+    "twitter": "https://twitter.com/Bitquery_io",
+    "telegram": "https://t.me/Bloxy_info"
+  }
+}

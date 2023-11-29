@@ -1,0 +1,45 @@
+{
+  "id": "blockchain-monster-hunt",
+  "slug": "blockchain-monster-hunt",
+  "name": "Blockchain Monster Hunt",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "blockchain-monster-hunt-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "blockchain-monster-hunt-logo-large.jpeg",
+      "width": 510,
+      "height": 510,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "blockchain-monster-hunt-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The First Multichain NFT Monster Hunt",
+  "description": "Blockchain Monster Hunt (BCMH) is the world’s first multi-chain game that runs entirely on the blockchain itself. Inspired by Pokémon-GO,BCMH allows players  to continuously explore brand new places on the blockchain to hunt and battle monsters. Each block on the blockchain is a unique digital space where a limited number of monsters (of the same DNA gene and rarity) may exist.  Players and collectors can hunt or battle for a chance to capture these unique monsters and to earn coins.",
+  "tags": [
+    "NFT",
+    "Gaming",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bcmhunt.com/",
+    "try": "https://bcmhunt.com/",
+    "twitter": "https://twitter.com/bcmhunt",
+    "medium": "https://medium.com/bcmhunt",
+    "telegram": "https://t.me/BcmHuntGroup",
+    "discord": "https://discord.com/invite/Ee9aJ287J2"
+  }
+}

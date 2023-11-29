@@ -1,0 +1,46 @@
+{
+  "id": "kyve-network",
+  "slug": "kyve-network",
+  "name": "KYVE Network",
+  "category": "other",
+  "coinGeckoId": "kyve-network",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "kyve-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "kyve-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "kyve-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The unified archive for blockchains",
+  "description": "KYVE Network, Archiving the web on Arweave, Decentralised archivers and validators. KYVE is an initiative to store any data stream, with built-in validation. By leveraging the Arweave blockchain, we can permanently and immutably store this data.\r\n\r\nThe network is powered by decentralised archivers and validators. These nodes reside in pools, each pool focusing on archiving a specific data stream. Pools are funded by $KYVE tokens, and anyone can fund these storage initiatives by depositing tokens.\r\n\r\nA designated archiver is appointed by a DAO (Decentralized Autonomous Organisation) for each pool. Nodes are incentivised by a unique staking system, which involves them locking their $KYVE tokens while being active in the pool.\r\n\r\nValidators will \"get together\" and vote on whether the designated archiver is properly doing it's job. If the validators come to a consensus that the archiver is no longer acting honestly or reliably, a new archiver will be decided upon in the DAO. Validators can seemlessly transition into an archiver if need be.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://kyve.network/",
+    "try": "https://kyve.network/",
+    "twitter": "https://twitter.com/kyvenetwork",
+    "medium": "https://medium.com/kyve",
+    "telegram": "https://t.me/kyvenet",
+    "github": "https://github.com/KYVENetwork",
+    "discord": "https://discord.com/invite/E73KZwaa4S"
+  }
+}

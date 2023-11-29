@@ -1,0 +1,41 @@
+{
+  "id": "pathrock-network",
+  "slug": "pathrock-network",
+  "name": "Pathrock Network",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "pathrock-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "pathrock-network-logo-large.jpeg",
+      "width": 397,
+      "height": 397,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "pathrock-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Secure Non-Custodial Staking for interesting PoS Blockchain Projects",
+  "description": "Pathrock Network is an individual validator, collator, node runner, teacher, crypto enthusiast and a big supporter of decentralization, supporting a variety of different protocols with the aim of offering secure non-custodial staking opportunities.\r\n\r\nHe’s also a founding member of the DOT Validator Alliance whose aim is to help to decentralize Polkadot network and push small validators forward and part of the Millenniumclub (MCLB), a community that helps and supports each other in all-things-crypto.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://pathrocknetwork.org/",
+    "try": "https://pathrocknetwork.org/",
+    "twitter": "https://twitter.com/pathrock2"
+  }
+}

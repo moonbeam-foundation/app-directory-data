@@ -1,0 +1,44 @@
+{
+  "id": "oh-finance",
+  "slug": "oh-finance",
+  "name": "Oh Finance",
+  "category": "defi",
+  "coinGeckoId": "oh-finance",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "oh-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "oh-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "oh-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Do More with your DeFi Dollar",
+  "description": "h! Finance is an optimized yield-generation protocol, focused on reducing risk and increasing volume exposure. Start earning industry-leading interest rates on stablecoins in just a few clicks.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://oh.finance/",
+    "try": "https://oh.finance/",
+    "twitter": "https://twitter.com/OhFinanceDefi",
+    "medium": "https://ohfinance.medium.com/",
+    "telegram": "https://twitter.com/OhFinanceDefi"
+  }
+}

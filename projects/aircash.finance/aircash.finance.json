@@ -1,0 +1,44 @@
+{
+  "id": "aircash.finance",
+  "slug": "aircash.finance",
+  "name": "AirCash Finance",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "aircash.finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "aircash.finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "aircash.finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Buy and sell crypto with fiat money in a decentralized way.",
+  "description": "Powered by Air Coin DAO Labs. AirCash is the first and largest decentralized OTC platform in the galaxy. Easy to use and No KYC. Audited by CERTIK",
+  "tags": [
+    "On-ramp",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://aircash.finance/",
+    "try": "https://aircash.finance/",
+    "twitter": "https://twitter.com/AirCoinreal",
+    "telegram": "https://t.me/aircoinrealchannel",
+    "github": "https://github.com/Aircoin-official/AirCash",
+    "discord": "https://discord.gg/k8v9jEGHAz"
+  }
+}

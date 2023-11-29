@@ -1,0 +1,55 @@
+{
+  "id": "beefy-finance",
+  "slug": "beefy-finance",
+  "name": "Beefy Finance",
+  "category": "defi",
+  "coinGeckoId": "beefy-finance",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Beefy"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "beefy-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "beefy-finance-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "beefy-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Yield optimizer for the Binance Smart Chain.",
+  "description": "Beefy Finance is a decentralized, multi-chain yield optimizer platform that allows its users to earn compound interest on their crypto holdings.\r\n\r\nThrough a set of investment strategies secured and enforced by smart contracts, Beefy Finance automatically maximizes the user rewards from various liquidity pools (LPs),‌ ‌automated market making (AMM) projects,‌ ‌and‌ ‌other yield‌ farming ‌opportunities in the DeFi ecosystem.\r\n\r\nThe main product offered by Beefy Finance are the ‘Vaults’ in which you stake your crypto tokens. The investment strategy tied to the specific vault will automatically increase your deposited token amount by compounding arbitrary yield farm reward tokens back into your initially deposited asset. Despite what the name ‘Vault’ suggests, your funds are never locked in any vault on Beefy Finance: you can always withdraw at any moment in time.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [
+    {
+      "contract": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://beefy.finance/",
+    "try": "https://beefy.finance/",
+    "twitter": "https://twitter.com/beefyfinance",
+    "medium": "https://medium.com/beefyfinance",
+    "telegram": "https://t.me/beefyfinance",
+    "github": "https://github.com/beefyfinance",
+    "discord": "https://discord.com/invite/yq8wfHd"
+  }
+}

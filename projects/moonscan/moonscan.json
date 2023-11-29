@@ -1,0 +1,41 @@
+{
+  "id": "moonscan",
+  "slug": "moonscan",
+  "name": "MoonScan",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonscan-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonscan-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonscan-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Moonbeam Chain Explorer",
+  "description": "Moonbeam EVM explorer with tracing and contract verification capabilities, developed by the Etherscan team",
+  "tags": [
+    "Explorers"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://moonscan.io/",
+    "try": "https://moonscan.io/",
+    "twitter": "https://twitter.com/MoonscanHQ"
+  }
+}

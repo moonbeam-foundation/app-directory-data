@@ -1,0 +1,42 @@
+{
+  "id": "getlaika-app",
+  "slug": "getlaika-app",
+  "name": "Laika Blockchain Lab",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "getlaika-app-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "getlaika-app-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "getlaika-app-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Laika is a request builder for Web3. It helps you make a request to smart contracts without a single line of code",
+  "description": "We help you make requests to smart contracts without a single line of code.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://getlaika.app/",
+    "try": "https://getlaika.app/",
+    "twitter": "https://twitter.com/getlaikaapp",
+    "discord": "https://discord.gg/eFvbrpsYf7"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "figment",
+  "slug": "figment",
+  "name": "Figment",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "figment-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "figment-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "figment-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Delegate with Experienced Proof of Stake Operators",
+  "description": "Figment is the open source crypto network operator. We provide access and research to a growing portfolio of new and groundbreaking digital assets. We perform the research and due diligence to ensure the quality and sustainability of the underlying assets, and to continually build the right infrastructure that makes participating in these assets simple.\r\n\r\nOur staking infrastructure is built from the ground up with security and reliability in mind. We take security seriously so you can delegate with ease and peace of mind.\r\n\r\nWe build and share tools for the community to learn about network health and performance so you can make better decisions about where to stake your crypto-assets. For example, we offer tools like Hubble (a node/validation performance reporting tool for Cosmos) as well as validator nodes within the Cosmos Network and Tezos Network.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://figment.io/",
+    "try": "https://figment.io/",
+    "twitter": "https://twitter.com/Figment_io",
+    "medium": "https://medium.com/figment",
+    "github": "https://github.com/figment-networks",
+    "discord": "https://discord.com/invite/fszyM7K"
+  }
+}
