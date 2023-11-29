@@ -1,0 +1,42 @@
+{
+  "id": "singular-app",
+  "slug": "singular-app",
+  "name": "Singular App",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "singular-app-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "singular-app-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "singular-app-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The home of NFTs by @RmrkApp. Create and trade your nestable, equippable, soulbound, and multi-asset NFTs with us - no coding required.",
+  "description": "Singular is an NFT 2.0 marketplace that allows users to buy, sell, and trade both regular and advanced NFTs. Users can create and/or connect a wallet, browse digital items, and securely conduct transactions using blockchain technology.",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://singular.app/",
+    "try": "https://singular.app/",
+    "twitter": "https://twitter.com/RmrkSingular",
+    "telegram": "https://t.me/rmrkapp",
+    "discord": "https://discord.gg/TjB6v5AGZz"
+  }
+}

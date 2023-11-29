@@ -1,0 +1,45 @@
+{
+  "id": "pawnfi",
+  "slug": "pawnfi",
+  "name": "PawnFi",
+  "category": "nfts",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "pawnfi-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "pawnfi-logo-large.jpeg",
+      "width": 454,
+      "height": 454,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "pawnfi-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Decentralized Liquidity Protocol For Non-Standard Assets",
+  "description": "PawnFi is a crowd-appraising and multi-lateral liquidity protocol for Non-Standard-Assets, a brand new lending and leasing market to provide fair appraisal, liquidity and use case for Non-Standard Assets (NSA).\r\n\r\nIt prioritizes support to ETH, BSC, Polygon, Arbitrum and Moonbeam in Pawnfi EVM version, and has integrated multi-chain versions in the same front end, so that assets will not be fragmented and user experience will be improved on Pawnfi's multi-chain versions.\r\n\r\nIt is the first DeFi product which introduces the pawn concept, also a brand-new lending and leasing market to provide fair appraisal, liquidity and use case for Non-Standard Assets (NSA). Besides supporting mainstream assets, Pawnfi covers all types of NSA including Non-Fungible Tokens (NFT), Liquidity Provider Tokens (LP Tokens), tokenized rights, and minor cryptocurrencies with relatively less liquidity. Pawnfi has achieved the divestiture of asset ownership, use rights, and earning rights within the product in an innovative way, so that asset holders and users can maximize capital efficiency. Compared with other lending protocols in the industry, Pawnfi can provide a wider range of asset support, a more flexible loan portfolio, and more diversified asset realization solutions.\r\n\r\nThe typical features of NSA include their scarcity and their attributes as an investment or collection. However, its nature determines that it is not smooth for trading, and many NSAs are embedded with unique utility (like gaming assets or computing power). Therefore, we believe that the best way to unleash the value of NSA is to empower them with broader use case of collateralized loan and leasing, so that NSA holders can obtain cash flow without losing their ownership.\r\n\r\nThus, Pawnfi showed up. With co-existing pawn/ lease/ sale and many other innovative functions, asset holders can easily combine each other to maximize the utility of their assets.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.pawnfi.com/",
+    "try": "https://www.pawnfi.com/",
+    "twitter": "https://www.twitter.com/pawnfiofficial",
+    "medium": "https://medium.com/@pawnfi",
+    "telegram": "https://t.me/pawnfiprotocol",
+    "github": "https://github.com/PawnFi",
+    "discord": "https://discord.com/invite/BtN9rGhcQt"
+  }
+}

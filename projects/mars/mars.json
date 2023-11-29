@@ -1,0 +1,41 @@
+{
+  "id": "mars",
+  "slug": "mars",
+  "name": "Mars",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mars-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mars-logo-large.jpeg",
+      "width": 340,
+      "height": 340,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mars-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Devops tool for Ethereum Smart Contract",
+  "description": "Mars is a deployment manager for Ethereum smart contracts. Mars provides a simple, TypeScript compatible framework for creating advanced deployment scripts and staying in sync with state changes. Mars focuses on infrastructure-as-code, allowing developers to specify how their smart contracts should be deployed and then using those specifications to automatically handle state changes and deployments.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://getmars.io/",
+    "try": "https://getmars.io/",
+    "github": "https://github.com/EthWorks/Mars"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "indigos",
+  "slug": "indigos",
+  "name": "Indigos",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "indigos-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "indigos-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "indigos-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The NFT Social Network For NFT Collectors, Holders, Fans",
+  "description": "This social network is dedicated to NFT collectors, holders, and fans, it creates connections between web3 users and puts them at the heart NFT community. On the social platform, you will gain new friends and business partners who are loved by the technology. Your NFTs can be displayed on Indigos, or feedback can be provided about others' NFTs. Due to the direct interaction with the blockchain community, it can also be used as a marketing tool, so you can earn money from it. Additionally, the search function makes it easy to locate NFTs, people, and publications that are relevant to your preferences",
+  "tags": [
+    "NFT",
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://indigos.app/",
+    "try": "https://indigos.app/",
+    "twitter": "http://twitter.com/indigos_app",
+    "telegram": "https://t.me/indigos_app"
+  }
+}

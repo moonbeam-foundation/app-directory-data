@@ -1,0 +1,42 @@
+{
+  "id": "alfastake",
+  "slug": "alfastake",
+  "name": "AlfaStake",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "alfastake-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "alfastake-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "alfastake-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Independent validator",
+  "description": "AlfaStake is a small and independent group of validators who love to securely join the best networks and cross-chain systems in the crypto space. This passion comes from a strong belief in decentralization, which can be achieved only via true interoperability, and this drives the projects on which they focus.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://alfastake.com/",
+    "try": "https://alfastake.com/",
+    "twitter": "https://twitter.com/AlfaStake",
+    "telegram": "https://t.me/AlfaStake"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kintsugi-interlay",
+  "slug": "kintsugi-interlay",
+  "name": "Kintsugi",
+  "category": "other",
+  "coinGeckoId": "kintsugi",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "kintsugi-interlay-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "kintsugi-interlay-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "kintsugi-interlay-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Kintsugi is interBTC’s canary network.",
+  "description": "Kintsugi’s kBTC brings radically open Bitcoin to Kusama to kickstart liquidity for parachains like Karura, Shiden and Moonriver. kBTC is a 1:1 Bitcoin-backed asset on Kusama, maintained by a decentralized network of collateralized Vaults. Users must only ever trust that Bitcoin and the DeFi platform they use are secure. ",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://kintsugi.interlay.io/",
+    "try": "https://kintsugi.interlay.io/",
+    "twitter": "https://twitter.com/kintsugi_btc"
+  }
+}

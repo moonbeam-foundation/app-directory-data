@@ -1,0 +1,44 @@
+{
+  "id": "purestake",
+  "slug": "purestake",
+  "name": "PureStake",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "purestake-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "purestake-logo-large.jpeg",
+      "width": 397,
+      "height": 397,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "purestake-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "API & Infrastructure Services for Next-Gen Proof of Stake Blockchain Networks",
+  "description": "PureStake, API & Infrastructure Services for Next-Gen Proof of Stake Blockchain Networks. Secure & Reliable Access to the Algorand and Polkadot Network.\r\n\r\nThe PureStake founding team has been building infrastructure and networks for 20 years. Our core values include putting the security and reliability of our services first (which means that features, sometimes have to come second). We are a team of serial entrepreneurs that have led multiple successful technology startups in the SaaS and cloud markets. We believe that crypto networks will have a similar disruptive effect in finance to what the internet had on media and retail. There is a huge opportunity to provide blockchain Infrastructure-as-a-Service to help support this coming disruption.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.purestake.com/",
+    "try": "https://www.purestake.com/",
+    "twitter": "https://twitter.com/purestakeco",
+    "medium": "https://medium.com/purestake",
+    "github": "https://github.com/PureStake"
+  }
+}

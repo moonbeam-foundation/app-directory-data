@@ -1,0 +1,43 @@
+{
+  "id": "list-yieldbay-io",
+  "slug": "list-yieldbay-io",
+  "name": "YieldBay Farms",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "list-yieldbay-io-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "list-yieldbay-io-logo-large.png",
+      "width": 100,
+      "height": 100,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "list-yieldbay-io-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Yield farming hub of dotsama. Discover yield farms, deposit liquidity and earn rewards in the paraverse.",
+  "description": "Yield Farming hub for the Polkadot & Kusama Parachains.\n\nDiscover yield farms, deposit liquidity and earn rewards in the interoperable, multi-chain paraverse of Polkadot and Kusama.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://list.yieldbay.io/",
+    "try": "https://list.yieldbay.io/",
+    "twitter": "https://twitter.com/yield_bay",
+    "discord": "https://discord.gg/AKHuvbz7q4"
+  }
+}

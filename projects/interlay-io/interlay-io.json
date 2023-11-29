@@ -1,0 +1,44 @@
+{
+  "id": "interlay-io",
+  "slug": "interlay-io",
+  "name": "interlay",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "interlay-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "interlay-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "interlay-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Use your Bitcoin. Anywhere",
+  "description": "Invest, earn and pay with BTC on any blockchain. Radically open and secured by insurance.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://interlay.io/",
+    "try": "https://interlay.io/",
+    "twitter": "https://twitter.com/interlayHQ",
+    "medium": "https://medium.com/interlay",
+    "telegram": "https://t.me/interlay_community",
+    "github": "https://github.com/interlay",
+    "discord": "https://discord.com/invite/KgCYK3MKSf"
+  }
+}

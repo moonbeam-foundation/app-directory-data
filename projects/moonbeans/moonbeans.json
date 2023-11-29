@@ -1,0 +1,55 @@
+{
+  "id": "moonbeans",
+  "slug": "moonbeans",
+  "name": "Moonbeans",
+  "category": "nfts",
+  "coinGeckoId": "moonbeans",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonbeans-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonbeans-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonbeans-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Galactic Co-Op & Profit sharing NFT platform and soon to be Metaverse",
+  "description": "Moonbeans is a fully functional NFT marketplace launched on October 8th 2021, after releasing 465 Beanies into the Moonriver network to wreak havoc. The platform is still in beta, but has been performing incredibly well. With minimal fees for artists, traders, and project developers, Moonbeans aims to grow and aid the Moonrver network as a whole to develop, learn, and earn. With multiple collections now live (Beanies, Damned Pirates Society), minting (RivrMaids), Moonbeans is the heart of the Moonriver NFT ecosystem.",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [
+    {
+      "contract": "0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412",
+      "chain": "moonbeam"
+    },
+    {
+      "contract": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://moonbeans.io/",
+    "try": "https://moonbeans.io/",
+    "twitter": "https://twitter.com/moonbeansio",
+    "medium": "https://medium.com/@MoonBeans",
+    "telegram": "https://t.me/moonbeansio",
+    "github": "https://github.com/m00nbeans",
+    "discord": "https://discord.com/invite/qqE9aBPzQ9"
+  }
+}

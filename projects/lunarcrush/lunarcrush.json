@@ -1,0 +1,43 @@
+{
+  "id": "lunarcrush",
+  "slug": "lunarcrush",
+  "name": "Lunar Crush",
+  "category": "social",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "lunarcrush-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "lunarcrush-logo-large.jpeg",
+      "width": 201,
+      "height": 201,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "lunarcrush-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Social Intelligence for Crypto, NFTs and Stocks.",
+  "description": "There's more to markets than just trading off of price. Discover the latest cryptocurrency, NFTs and stock insights with LunarCrush social media analytics. Join the community.  Powered by Lunr.",
+  "tags": [
+    "Social"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://lunarcrush.com/",
+    "try": "https://lunarcrush.com/",
+    "twitter": "https://twitter.com/lunarcrush",
+    "telegram": "https://t.me/lunarcrush",
+    "discord": "https://discord.gg/Y5BAhGs"
+  }
+}

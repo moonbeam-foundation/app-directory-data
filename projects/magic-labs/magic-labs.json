@@ -1,0 +1,45 @@
+{
+  "id": "magic-labs",
+  "slug": "magic-labs",
+  "name": "Magic Labs",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "magic-labs-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "magic-labs-logo-large.jpeg",
+      "width": 312,
+      "height": 312,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "magic-labs-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Drop passwords. Use magic links",
+  "description": "Make passwords disappear with a touch of Magic. Enable customizable, future-proof, passwordless login with a few lines of code.\r\n\r\nReliable and fast email delivery with failover. Instead of passwords, user security is backed by elliptic curve cryptography and hardware security modules.\r\n\r\nPlug-n-Play even if you have an existing auth solution. Enable users to log in via desktop, mobile, or FIDO devices.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://magic.link/",
+    "try": "https://magic.link/",
+    "twitter": "https://twitter.com/magic_labs",
+    "medium": "https://medium.com/magiclabs",
+    "telegram": "https://t.me/fortmatic",
+    "github": "https://github.com/MagicLabs",
+    "discord": "https://discordapp.com/invite/JqrDbRB"
+  }
+}

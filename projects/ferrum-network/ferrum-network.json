@@ -1,0 +1,44 @@
+{
+  "id": "ferrum-network",
+  "slug": "ferrum-network",
+  "name": "Ferrum Network",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ferrum-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ferrum-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ferrum-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Powered by the Quantum Portal, Ferrum Network’s Mainnet brings value, data, and functional interoperability 2.0 to every chain in the industry.",
+  "description": "Ferrum Network is a deflationary cross-chain Blockchain as a Service DeFi company that specializes in adding token utility and advisory services to projects across the crypto space. Ferrum builds white-label blockchain solutions that power Startups and established organizations, enabling them to get their product to market faster.",
+  "tags": [
+    "Infrastructure",
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://ferrum.network/",
+    "try": "https://ferrum.network/",
+    "twitter": "https://twitter.com/FerrumNetwork",
+    "medium": "https://medium.com/ferrumnetwork",
+    "telegram": "https://t.me/ferrum_network",
+    "discord": "https://discord.gg/HEfKq57asd"
+  }
+}

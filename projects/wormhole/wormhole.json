@@ -1,0 +1,47 @@
+{
+  "id": "wormhole",
+  "slug": "wormhole",
+  "name": "Wormhole",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Wormhole"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "wormhole-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "wormhole-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "wormhole-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Harnessing the power of generic messaging and a single SDK, the Wormhole interoperability protocol makes cross-chain movement more feature-rich than ever. Explore more about how to grow your userbase by going cross-chain.",
+  "description": "Interoperability protocol powering the seamless transfer of value and information across 14 high value chains with just one integration",
+  "tags": [
+    "Infrastructure",
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.portalbridge.com/#/transfer",
+    "try": "https://www.portalbridge.com/#/transfer",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "medium": "https://wormholecrypto.medium.com/",
+    "telegram": "https://t.me/wormholecrypto",
+    "github": "https://github.com/wormhole-foundation/wormhole"
+  }
+}

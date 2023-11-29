@@ -1,0 +1,45 @@
+{
+  "id": "crust-network",
+  "slug": "crust-network",
+  "name": "Crust Network",
+  "category": "other",
+  "coinGeckoId": "crust-network",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "crust-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "crust-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "crust-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Build a decentralized cloud ecosystem",
+  "description": "Crust Network, Our aim is to build a decentralized cloud ecosystem.\r\n\r\nCRUST implements the incentive layer protocol for decentralized storage. It is adaptable to multiple storage layer protocols such as IPFS, and provides support for the application layer. Crust's architecture also has the capability of supporting a decentralized computing layer and building a decentralized cloud ecosystem.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://crust.network/",
+    "try": "https://crust.network/",
+    "twitter": "https://twitter.com/crustnetwork",
+    "medium": "https://medium.com/@crustnetwork",
+    "telegram": "https://t.me/CrustNetwork",
+    "github": "https://github.com/crustio"
+  }
+}

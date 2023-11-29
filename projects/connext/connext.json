@@ -1,0 +1,45 @@
+{
+  "id": "connext",
+  "slug": "connext",
+  "name": "Connext",
+  "category": "bridges",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "connext-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "connext-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "connext-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Built with Connext Protocol",
+  "description": "Xpollinate is cross-chain Swap, Built with Connext Protocol.",
+  "tags": [
+    "Bridges",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.connext.network/",
+    "try": "https://www.connext.network/",
+    "twitter": "https://twitter.com/ConnextNetwork",
+    "medium": "https://medium.com/connext",
+    "github": "https://github.com/connext",
+    "discord": "https://discord.gg/connext"
+  }
+}

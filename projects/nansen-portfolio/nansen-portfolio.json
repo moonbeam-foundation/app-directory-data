@@ -1,0 +1,44 @@
+{
+  "id": "nansen-portfolio",
+  "slug": "nansen-portfolio",
+  "name": "Nansen Portfolio",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nansen-portfolio-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "nansen-portfolio-logo-large.jpeg",
+      "width": 136,
+      "height": 136,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "nansen-portfolio-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Smart portfolio tracker with coverage of 470+ protocols over 40+ chains (Ethereum, Moonbea and more)",
+  "description": "Nansen Portfolio enables crypto investors to rapidly create an unlimited number of portfolio dashboards by connecting any number of cross-chain wallets — instantly unlocking critical data and aggregated insights for their on-chain holdings and activity.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://portfolio.nansen.ai/",
+    "try": "https://portfolio.nansen.ai/",
+    "twitter": "https://twitter.com/nansenportfolio",
+    "telegram": "https://t.me/nansenportfolio",
+    "discord": "http://nansen.ai/discord"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fidi",
+  "slug": "fidi",
+  "name": "FiDi",
+  "category": "wallets",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "fidi-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "fidi-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "fidi-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A multi-chain portfolio tracker built for a multi-chain ecosystem.",
+  "description": "We aim to build the most comprehensive portfolio tracker available for cryptocurrency. FiDi offers high-precision support for Moonriver and Moonbeam. It features a secure non-custodial interface to monitor portfolio performance across multiple wallets and blockchain networks. It surfaces data from 50+ chains and 1300+ protocols. Investors now have a complete overview of their digital assets with the level of depth and breadth needed to make confident investment decisions.\n\nFiDi is a global team located in NYC, SF, Miami, Turkey, and Germany. Our team members have built systems at the largest scale in the world’s top tech companies. We’ve honed data excellence at Twitter, Meta, Google, Netflix, Riot Games, and Yandex, to name a few — and now we’ve come together to build FiDi.",
+  "tags": [
+    "Wallets",
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://fidi.tech/",
+    "try": "https://fidi.tech/",
+    "twitter": "https://twitter.com/cryptofidi",
+    "medium": "https://blog.fidi.tech/",
+    "telegram": "https://t.me/+vxA51osvNrw5NGUx",
+    "discord": "https://discord.gg/fhaRzWZa2r"
+  }
+}

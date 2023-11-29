@@ -1,0 +1,43 @@
+{
+  "id": "protofire-io",
+  "slug": "protofire-io",
+  "name": "ProtoFire",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "protofire-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "protofire-io-logo-large.jpeg",
+      "width": 300,
+      "height": 300,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "protofire-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Get Blockchain Platforms and DApps Developed Right",
+  "description": "Protofire is a team of engineers, which helps decentralized protocols and developer platforms to accelerate growth of their ecosystems. By delivering hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://protofire.io/",
+    "try": "https://protofire.io/",
+    "twitter": "https://twitter.com/protofire",
+    "medium": "https://medium.com/protofire-blog",
+    "github": "https://github.com/protofire"
+  }
+}

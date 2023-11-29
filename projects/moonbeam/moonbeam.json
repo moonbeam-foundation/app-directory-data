@@ -1,0 +1,46 @@
+{
+  "id": "moonbeam",
+  "slug": "moonbeam",
+  "name": "Moonbeam",
+  "category": "other",
+  "coinGeckoId": "moonbeam",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonbeam-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonbeam-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonbeam-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Build dApps that connect across chains",
+  "description": "Moonbeam Network, Build dApps that connect across chains.\r\n\r\nDecentralized and permissionless, Moonbeam provides an Ethereum-compatible smart contract platform that makes it easy to build natively interoperable applications. Powered by the Polkadot network. In development by PureStake.\r\n\r\nMoonbeam makes it easy to build decentralized applications on Polkadot — which means your DApps can integrate with other blockchains, including Bitcoin and Ethereum. With Moonbeam smart contracts and compatibility with the Ethereum developer toolset, you can quickly build applications that work with users and assets on remote chains, either through native Polkadot compatibility or bridge-based integrations.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://moonbeam.network/",
+    "try": "https://moonbeam.network/",
+    "twitter": "https://twitter.com/moonbeamnetwork",
+    "medium": "https://medium.com/moonbeam-network",
+    "telegram": "https://t.me/Moonbeam_Official",
+    "github": "https://github.com/PureStake/moonbeam",
+    "discord": "https://discord.com/invite/PfpUATX"
+  }
+}

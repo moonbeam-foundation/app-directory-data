@@ -1,0 +1,43 @@
+{
+  "id": "ledger",
+  "slug": "ledger",
+  "name": "Ledger",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ledger-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ledger-logo-large.jpeg",
+      "width": 369,
+      "height": 369,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ledger-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your safe gateway to crypto.",
+  "description": "Ledger is Your safe gateway to crypto. Unlock a world of crypto possibilities. Protect your crypto assets with the most popular hardware wallet in the market.\r\n\r\nWe are a unique digital security ecosystem that provides protection and is built on verifiable trust across our people, hardware and software. And in today’s world, we know that trust deserves proof. This is why we provide transparency into how our technology works.\r\n\r\nWe relentlessly stress-test our own technology solutions. Our Ledger Donjon team is made up of world-class experts with extensive backgrounds in the security and smartcard industries. They continuously look for vulnerabilities on Ledger products as well as our providers’ products in an effort to analyze and improve the security. We know security means never standing still.\r\n\r\nWhat first started as an idea of building a secure element chip to safeguard digital assets for crypto enthusiasts has quickly evolved into the creation of a cutting edge security technology company serving individuals, institutional investors and enterprises. This goes beyond just crypto and bitcoin. From connected pacemakers to water supply systems to electric grids, there will be countless critical digital assets in the future that need security. If they’re not safe, they can be stolen or compromised, eventually hurting your wallet or even your life.\r\n\r\nAnd through resilience, we give our clients and customers the ability to recover from setbacks, quickly adapt to change and keep going in the face of adversity. Resilience empowers our clients to explore and embrace pioneering opportunities like never before. \r\n\r\nLedger enables resilience through verifiable trust. Knowing trust is the greatest way to make our world truly move forward and progress.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ledger.com/",
+    "try": "https://www.ledger.com/",
+    "twitter": "https://twitter.com/Ledger",
+    "medium": "https://medium.com/ledger-on-security-and-blockchain",
+    "github": "https://github.com/LedgerHQ"
+  }
+}

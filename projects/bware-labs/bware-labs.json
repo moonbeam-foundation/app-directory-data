@@ -1,0 +1,44 @@
+{
+  "id": "bware-labs",
+  "slug": "bware-labs",
+  "name": "Bware Labs",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bware-labs-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bware-labs-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bware-labs-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Decentralized Infrastructure for Everyone",
+  "description": "Bware Labs provides an interface between Blockchain APIs consumers and node providers with integrated payment options and verified reliability, all embedded within their platform and protocol service.\r\n\r\nWith extensive previous blockchain experience and having worked on deploying and maintaining a large set of Blockchain Validators, the Bware team will support some of the hottest projects of the moment in an effort to sustain their network growth and bring our contribution to a decentralized world.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bwarelabs.com/",
+    "try": "https://bwarelabs.com/",
+    "twitter": "https://twitter.com/BwareLabs",
+    "medium": "https://medium.com/bware-labs",
+    "telegram": "https://t.me/bwareLabs",
+    "github": "https://github.com/bwarelabs"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "evelon-app",
+  "slug": "evelon-app",
+  "name": "Evelon.App",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "evelon-app-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "evelon-app-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "evelon-app-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Transform the way you create and bring to life your own unique DNFTs, with the revolutionary platform that combines cutting-edge AI technology.",
+  "description": "Evelon is a no code platform that allows you to create and deploy dynamic NFTs with ease. This project is a game changer in the world of NFTs and image generation. Evelon uses AI to generate high-quality images, making it possible to create NFTs with unique visuals that are both dynamic and engaging.",
+  "tags": [
+    "NFT",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.evelon.app/",
+    "try": "https://www.evelon.app/",
+    "twitter": "https://twitter.com/EvelonApp",
+    "telegram": "https://t.me/evelonapp"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-graph",
+  "slug": "the-graph",
+  "name": "The Graph",
+  "category": "other",
+  "coinGeckoId": "the-graph",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "the-graph-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "the-graph-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "the-graph-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Scalable Queries for a Decentralized Future.",
+  "description": "The Graph is a protocol for building decentralized applications quickly on Ethereum and IPFS using GraphQL.\r\n\r\nWe're building The Graph because we've seen the challenges in getting data off blockchains. We envision The Graph as a truly decentralized ecosystem where the community can collaborate on curating quality data sources available to all. Together we can build a new generation of the web free from data silos and monopolies.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://thegraph.com/",
+    "try": "https://thegraph.com/",
+    "twitter": "https://twitter.com/graphprotocol",
+    "medium": "https://medium.com/graphprotocol",
+    "telegram": "https://t.me/graphprotocol",
+    "github": "https://github.com/graphprotocol",
+    "discord": "https://discord.com/invite/vtvv7FP"
+  }
+}

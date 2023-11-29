@@ -1,0 +1,42 @@
+{
+  "id": "crifferent",
+  "slug": "crifferent",
+  "name": "Crifferent",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "crifferent-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "crifferent-logo-large.jpeg",
+      "width": 340,
+      "height": 340,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "crifferent-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web3 Enthusiasts and Staking as a Service",
+  "description": "Crifferent offers reliable and secure staking services made in Germany. Combining professionals from IT, marketing, and finance, they evaluate the best projects and offer services to its full extent.\r\n\r\nThey have 10+ years of experience in IT and development combined, with 8 years of expertise in the crypto markets.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://crifferent.de/",
+    "try": "https://crifferent.de/",
+    "twitter": "https://twitter.com/dev0_sik",
+    "github": "https://github.com/SimonKraus"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "relationlabs.ai",
+  "slug": "relationlabs.ai",
+  "name": "Relation Labs",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "relationlabs.ai-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "relationlabs.ai-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "relationlabs.ai-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web3\nSocial Graph",
+  "description": "Relation is building a Web3 social graph infrastructure that will host the next generation of billions of DApps, and empower souls and communities to co-build reputation and a better society on Web3 with SBTs and relationship data.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://relationlabs.ai/home",
+    "try": "https://relationlabs.ai/home",
+    "twitter": "https://twitter.com/relationlabs",
+    "medium": "https://medium.com/@RelationLabs",
+    "telegram": "https://t.me/therelationlabs",
+    "github": "https://github.com/relationlabs",
+    "discord": "https://discord.com/invite/whGB5zEsHY"
+  }
+}

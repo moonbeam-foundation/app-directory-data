@@ -1,0 +1,45 @@
+{
+  "id": "subquery",
+  "slug": "subquery",
+  "name": "SubQuery",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "subquery-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "subquery-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "subquery-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Transform and Query the world’s data for a Web3 future",
+  "description": "SubQuery, Transform and Query the world’s data for a Web3 future. Every blockchain team has a need to process and query data quickly.\r\n\r\nThe thriving Polkadot/Substrate community is going to need a service that allows them to reliably find and consume data faster. For the web3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.\r\n\r\nSubQuery enables better dApps by making decentralised data more accessible. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future.\r\n\r\nSubQuery will be a core piece of infrastructure for the Substrate/Polkadot ecosystem.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://subquery.network/",
+    "try": "https://subquery.network/",
+    "twitter": "https://twitter.com/SubQueryNetwork",
+    "medium": "https://subquery.medium.com/",
+    "telegram": "https://t.me/subquerynetwork",
+    "github": "https://github.com/subquery",
+    "discord": "https://discord.com/invite/78zg8aBSMG"
+  }
+}

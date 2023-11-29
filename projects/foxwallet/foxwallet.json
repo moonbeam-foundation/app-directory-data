@@ -1,0 +1,45 @@
+{
+  "id": "foxwallet",
+  "slug": "foxwallet",
+  "name": "FoxWallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "foxwallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "foxwallet-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "foxwallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "FoxWallet is a safe and easy-to-use decentralized multi-chain wallet",
+  "description": "FoxWallet is a safe and easy-to-use decentralized wallet, dedicated to creating an entrance and connection to the Web3 world. FoxWallet strives to provide a reliable and an industry-leading storage solution with encryption. From a design perspective, FoxWallet follows Bitcoin standards such as BIP-32, SLIP-0044, and BIP-44. By accommodating multiple chains and various sets of mnemonics, and ensuring compatibility with other wallets in terms of mnemonics and addresses, FoxWallet aims to empower users in conveniently managing multiple accounts with a single set of seed phrases while keeping every address independent of each other.\nAs a decentralized wallet, the mnemonics and private keys of users are stored locally with the help of distributed individual nodes, instead of being uploaded to a centralized server. FoxWallet essentially wants to empower users to be in control of their own private keys and seed phrases, further lowering the risk of theft and censorship. \n\nUtilities Offered by FoxWallet\nFoxWallet offers a wide range of Web3 tools and features like cloud mining/staking, purchasing crypto with fiat currency, interacting with dapps across multiple ecosystems. They also provide a simplified DID registration service for a better user experience. Users can store, receive and send their crypto assets, including Ethereum and Bitcoin standard tokens, on FoxWallet. Further, FoxWallet provides users with an excellent opportunity to securely store and showcase their NFTs across various chains and networks, opening up a world of possibilities for NFT enthusiasts.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://foxwallet.com/en",
+    "try": "https://foxwallet.com/en",
+    "twitter": "https://twitter.com/FoxWallet",
+    "medium": "https://medium.com/@FoxWallet",
+    "telegram": "https://t.me/FoxWallet_EN",
+    "github": "http://github.com/foxwallet",
+    "discord": "https://discord.com/invite/JVjVbe3Zth"
+  }
+}

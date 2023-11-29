@@ -1,0 +1,44 @@
+{
+  "id": "human-protocol",
+  "slug": "human-protocol",
+  "name": "HUMAN Protocol",
+  "category": "other",
+  "coinGeckoId": "human-protocol",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "human-protocol-logo-small.jpeg",
+      "width": 98,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "human-protocol-logo-large.jpeg",
+      "width": 550,
+      "height": 203,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "human-protocol-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Tokenized, verified, rewarded",
+  "description": "A permissionless protocol to facilitate the exchange of HUMAN work, knowledge, and contribution.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://humanprotocol.org/",
+    "try": "https://humanprotocol.org/",
+    "twitter": "https://twitter.com/human_protocol",
+    "medium": "https://medium.com/human-protocol",
+    "telegram": "https://t.me/humanprotocol_official",
+    "github": "https://github.com/humanprotocol"
+  }
+}

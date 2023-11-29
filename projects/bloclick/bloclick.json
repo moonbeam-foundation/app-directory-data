@@ -1,0 +1,40 @@
+{
+  "id": "bloclick",
+  "slug": "bloclick",
+  "name": "BloClick",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bloclick-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bloclick-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bloclick-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The non-custodial, 100% CO2 free🍃 OPS staking provider with no complications",
+  "description": "BloClick is a genesis Moonbeam and Moonriver collator, with a group of DevOps engineers with over 25 years of experience each. \nSecuring PoS chains from top-notch dedicated infrastructure with 24/7 monitoring.\nMoonbeam/Moonriver ambassadors and strong believers of the Dotsama ecosystem.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bloclick.com/",
+    "try": "https://bloclick.com/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "stakemovr.com",
+  "slug": "stakemovr.com",
+  "name": "StakeMovr.com",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "stakemovr.com-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "stakemovr.com-logo-large.jpeg",
+      "width": 402,
+      "height": 402,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "stakemovr.com-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "StakeGlmr.com and stakemovr.com have served more than 100K Moonbeam users since launch.",
+  "description": "Staking performance dashboard, chain analytics, and personal account explorer",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://stakemovr.com",
+    "try": "https://stakemovr.com",
+    "medium": "https://medium.com/stakebaby",
+    "telegram": "https://t.me/stakebaby"
+  }
+}

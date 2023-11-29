@@ -1,0 +1,48 @@
+{
+  "id": "snake-soldiers",
+  "slug": "snake-soldiers",
+  "name": "Snake Soldiers",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "snake-soldiers-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "snake-soldiers-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "snake-soldiers-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "NFT game collection divided in 3 categories: Generals, Commanders and Soldiers🐍. Built on Moonbeam",
+  "description": "Snake Soldiers is an NFT collection with a supply of at most 5k units, all unique and distributed among 3 ranks. Each snake will be usable inside a play to own game, where snakes will be the main characters, necessary to interact with the SerpenTerra ecosystem. This metaverse will be based on the RMRK 2.0 standard, making forward compatible and giving super powers to the NFTs.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [
+    {
+      "contract": "0x3ab955216BdD76f51fbe02A3fe237D6612BBD09F",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://snakesoldiers.com",
+    "try": "https://snakesoldiers.com",
+    "twitter": "https://twitter.com/snakesoldiers",
+    "medium": "https://medium.com/@snakesoldiers/emoting-to-influence-the-hatch-df3eab7e45b8",
+    "github": "https://github.com/steven2308/snake-soldiers-contracts",
+    "discord": "http://discord.gg/A6zQSz4YU4"
+  }
+}

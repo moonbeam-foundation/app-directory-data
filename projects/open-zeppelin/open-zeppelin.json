@@ -1,0 +1,44 @@
+{
+  "id": "open-zeppelin",
+  "slug": "open-zeppelin",
+  "name": "Open Zeppelin",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "open-zeppelin-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "open-zeppelin-logo-large.jpeg",
+      "width": 425,
+      "height": 425,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "open-zeppelin-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The standard for secure blockchain applications.",
+  "description": "OpenZeppelin is an open-source framework to build secure smart contracts. OpenZeppelin provides a complete suite of security products and audit services to build, manage, and inspect all aspects of software development and operations for decentralized applications.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://openzeppelin.org/",
+    "try": "https://openzeppelin.org/",
+    "twitter": "https://twitter.com/OpenZeppelin",
+    "medium": "https://medium.com/zeppelin-blog",
+    "telegram": "https://t.me/zeppelinos",
+    "github": "https://github.com/OpenZeppelin"
+  }
+}

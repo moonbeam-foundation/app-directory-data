@@ -1,0 +1,45 @@
+{
+  "id": "mystiko-network",
+  "slug": "mystiko-network",
+  "name": "Mystiko.Network",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mystiko-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mystiko-network-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mystiko-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The Universal Web3 Zero-Knowledge Connectivity and Privacy Base Layer",
+  "description": "Not Privacy Coin, Not Coin Mixer, But the Ultimate Web3 Connectivity and Privacy Infra via PaaS (Privacy as an SDK)",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://mystiko.network/",
+    "try": "https://mystiko.network/",
+    "twitter": "https://twitter.com/MystikoNetwork",
+    "medium": "https://medium.com/@Mystiko.Network",
+    "telegram": "https://t.me/Mystiko_Network",
+    "github": "https://github.com/mystikonetwork",
+    "discord": "https://discord.com/invite/hurmHWUjCW"
+  }
+}

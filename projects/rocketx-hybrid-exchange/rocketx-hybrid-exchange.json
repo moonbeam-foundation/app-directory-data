@@ -1,0 +1,43 @@
+{
+  "id": "rocketx-hybrid-exchange",
+  "slug": "rocketx-hybrid-exchange",
+  "name": "RocketX Hybrid Exchange",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "rocketx-hybrid-exchange-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "rocketx-hybrid-exchange-logo-large.png",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "rocketx-hybrid-exchange-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "RocketX aggregates 250+ CEXs & DEXS to get users the best rates & lowest fees for ANY trade!",
+  "description": "RocketX is the FIRST “Multi-Chain” CEX & DEX aggregator that helps users swap ANY token on ANY chain with the best rates across 250+ exchanges. RocketX enhances interoperability between blockchains & simplifies Multi-Chain trading by enabling CROSS-CHAIN SWAP and BRIDGE of native assets at One-Click across leading networks via a single intuitive UI.",
+  "tags": [
+    "DeFi",
+    "On-ramp"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://rocketx.exchange",
+    "try": "https://rocketx.exchange",
+    "twitter": "https://twitter.com/RocketXexchange",
+    "medium": "https://rocketxexchange.medium.com/",
+    "telegram": "https://t.me/RocketXexchange"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "moonli",
+  "slug": "moonli",
+  "name": "Moonli",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonli-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonli-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonli-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "We are an independent staking service provider for blockchain projects",
+  "description": "Independent means that it is run by blockchain geeks for blockchain and crypto enthusiasts just like you. No VCs or institutional support. We indeed care about keeping the stake decentralized.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://moonli.me/",
+    "try": "https://moonli.me/",
+    "twitter": "https://twitter.com/moonli_me",
+    "telegram": "https://t.me/y3v63n"
+  }
+}

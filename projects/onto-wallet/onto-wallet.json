@@ -1,0 +1,44 @@
+{
+  "id": "onto-wallet",
+  "slug": "onto-wallet",
+  "name": "ONTO Wallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "onto-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "onto-wallet-logo-large.jpeg",
+      "width": 256,
+      "height": 256,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "onto-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "ONTO Wallet is an all-in-one solution for Web3 to manage identity, data, and assets.",
+  "description": "ONTO Wallet is an all-in-one solution for Web3, with 1m+ registered users, 50+ supported blockchains, and an active community of 310k+ followers on Twitter, Telegram, and Discord.\n\nThe best gateway for users to manage their digital identity, data, and assets, ONTO Wallet supports 10,000+ tokens and NFTs and 1000+ dApps across 50+ leading chains. ONTO Wallet enables native cross-chain swapping and bridging, as well as an in-app NFT marketplace aggregator.\n\nAdditional features like Go+ Security reporting minimize security risks, while customized Layer 1 Web3 domain solutions provide ease of use.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://onto.app/",
+    "try": "https://onto.app/",
+    "twitter": "https://twitter.com/ONTOWallet",
+    "medium": "https://medium.com/onto",
+    "telegram": "https://t.me/ONTOWallet",
+    "discord": "https://discord.gg/K4WXxpZ6xV"
+  }
+}

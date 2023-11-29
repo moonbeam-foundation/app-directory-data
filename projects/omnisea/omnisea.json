@@ -1,0 +1,43 @@
+{
+  "id": "omnisea",
+  "slug": "omnisea",
+  "name": "Omnisea",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "omnisea-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "omnisea-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "omnisea-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Cross-chain messaging protocols connector, Omnichain NFT Launchpad and Gateway.",
+  "description": "The omnichain approach makes it possible to treat such an application from the user's perspective as a single, connected instance and not to think about the technical aspects.",
+  "tags": [
+    "Infrastructure",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://omnisea.org/",
+    "try": "https://omnisea.org/",
+    "twitter": "https://twitter.com/omnisea",
+    "medium": "https://medium.com/@omnisea",
+    "discord": "https://discord.gg/omnisea"
+  }
+}

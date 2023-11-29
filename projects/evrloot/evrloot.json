@@ -1,0 +1,46 @@
+{
+  "id": "evrloot",
+  "slug": "evrloot",
+  "name": "EVRLoot",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Evrloot"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "evrloot-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "evrloot-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "evrloot-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Dark-fantasy game https://game.evrloot.com/  pioneering intriguing lore, addictive gameplay, and deep integration of on-chain progression. All while focusing on being truly fun",
+  "description": "Evrloot is an immersive experience, packaged into a low-touch game with composable RMRK NFTs at its core. Rooted in dark fantasy, inspired by classic RPGs like Diablo II or Dark Souls, Evrloot brings a world full of potential treasure, and immersive lore but also real consequences to the players. Spiced up with D&D-vibe storytelling, the lore advances with the player progressing, but also through global events altering the world for everyone at the same time.",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://evrloot.io/",
+    "try": "https://evrloot.io/",
+    "twitter": "https://twitter.com/EVRL00T",
+    "medium": "https://app.subsocial.network/6400",
+    "discord": "https://discord.gg/uPMSUrvDd2"
+  }
+}

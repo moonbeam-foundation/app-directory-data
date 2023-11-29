@@ -1,0 +1,41 @@
+{
+  "id": "stakefish",
+  "slug": "stakefish",
+  "name": "stakefish",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "stakefish-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "stakefish-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "stakefish-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Stake. Learn. Earn.",
+  "description": "stakefish is the leading validator for Proof of Stake blockchains. Delegate to us, stake with us. We know staking.\r\n\r\nPool your digital assets with stake.fish and watch them grow. Our top-notch security and white-glove support protects you from risk while granting peace of mind.\r\n\r\nRunning a validator requires significant amounts of expertise, time, and capital. While potentially lucrative, staking tokens exposes validators to security risks and technical difficulties.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "http://stake.fish/",
+    "try": "http://stake.fish/",
+    "twitter": "https://twitter.com/stakefish",
+    "telegram": "https://t.me/stakefish"
+  }
+}

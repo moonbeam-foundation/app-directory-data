@@ -1,0 +1,41 @@
+{
+  "id": "polkadotters",
+  "slug": "polkadotters",
+  "name": "Polkadotters",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "polkadotters-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "polkadotters-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "polkadotters-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Polkadot community from Czechia",
+  "description": "Polkadotters, Polkadot community network and Kusama & Polkadot official validators from Czechia.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "twitter": "https://twitter.com/polkadotters1",
+    "medium": "https://polkadotters.medium.com/",
+    "github": "https://github.com/polkadotters"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "seor",
+  "slug": "seor",
+  "name": "SEOR Network",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "seor-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "seor-logo-large.png",
+      "width": 160,
+      "height": 160,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "seor-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "SEOR is the next generation of decentralized Web3.0 application technology development infrastructure",
+  "description": "SEOR is the next generation of decentralized Web3.0 application technology development infrastructure, which aims to provide users and developers of Web3.0 with an easy-to-use blockchain technology development platform.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://seor.io/#/home",
+    "try": "https://seor.io/#/home",
+    "twitter": "https://twitter.com/SEOR001",
+    "medium": "https://medium.com/@SEOR",
+    "telegram": "https://t.me/SeorGroup",
+    "discord": "https://discord.gg/czPzydhSZf"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "etherspot",
+  "slug": "etherspot",
+  "name": "Etherspot",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "etherspot-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "etherspot-logo-large.jpeg",
+      "width": 192,
+      "height": 192,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "etherspot-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The only SDK you need to Go Multichain. Drive liquidity from any EVM chain to your dapp.",
+  "description": "Etherspot is a smart-contract SDK that gives projects access to multi-chain, non-custodial, Smart Wallet framework. It allows projects to access the best features (batched transactions, NFTs, ENS, Payment Channels) of the Ethereum blockchain and EVM compatible chains e.g  Polygon, Moonbeam, BNB Chain, Gnosis Chain, Fantom, Avalanche, Optimism, Arbitrum and more.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://etherspot.io/",
+    "try": "https://etherspot.io/",
+    "twitter": "https://twitter.com/etherspot",
+    "medium": "https://medium.com/etherspot/",
+    "telegram": "https://t.me/etherspot",
+    "github": "https://github.com/etherspot/etherspot-sdk",
+    "discord": "https://chat.pillar.fi/"
+  }
+}

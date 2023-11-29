@@ -1,0 +1,42 @@
+{
+  "id": "collectify-app",
+  "slug": "collectify-app",
+  "name": "Collectify",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "collectify-app-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "collectify-app-logo-large.png",
+      "width": 288,
+      "height": 288,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "collectify-app-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The Ultimate Giveaway and Minting Tools for NFT Creators.",
+  "description": "The Essential Toolkit For NFT Creators.\nBuilt for speed and reliability.\nWhether you're an OG creator or just starting out, Collectify is developing features you'll need to create and grow.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://collectify.app",
+    "try": "https://collectify.app",
+    "twitter": "https://twitter.com/Collectify_app",
+    "github": "https://github.com/CollectifyApp",
+    "discord": "https://discord.gg/DWAJn2UW82"
+  }
+}

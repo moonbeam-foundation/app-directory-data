@@ -1,0 +1,55 @@
+{
+  "id": "kogecoin.io",
+  "slug": "kogecoin.io",
+  "name": "Kogecoin.io",
+  "category": "defi",
+  "coinGeckoId": "kogecoin",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "kogecoin.io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "kogecoin.io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "kogecoin.io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A Multi-Chain Defi Community Token.",
+  "description": "KogeCoin is a deflationary community token that launched via airdrop to all early QuickSwap users on Polygon who had around 4 weeks to claim.\n\nThe KogeCoin project has since been governed by a DAO, with possible projects/initiatives proposed and developed by community members. One such project is KogeFarm.io, an auto-compounding utility built for DeFi users.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [
+    {
+      "contract": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
+      "chain": "moonbeam"
+    },
+    {
+      "contract": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://kogecoin.io",
+    "try": "https://kogecoin.io",
+    "twitter": "https://twitter.com/kogecoin",
+    "medium": "https://medium.com/@kogecoin",
+    "telegram": "https://t.me/kogecoin",
+    "github": "https://github.com/kogecoin",
+    "discord": "https://discord.gg/xDsnS3TSVA"
+  }
+}

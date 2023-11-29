@@ -1,0 +1,44 @@
+{
+  "id": "app-minimax-finance",
+  "slug": "app-minimax-finance",
+  "name": "Minimax",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "app-minimax-finance-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "app-minimax-finance-logo-large.png",
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "app-minimax-finance-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Multi-chain yield aggregators hub with blazing-fast UI. Vaults from major blockchains, DEXs, and aggregators with advanced trading features.",
+  "description": "",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://app.minimax.finance/vaults",
+    "try": "https://app.minimax.finance/vaults",
+    "twitter": "https://twitter.com/MinimaxFinance",
+    "telegram": "https://t.me/MinimaxFinanceChat",
+    "github": "https://github.com/minimaxdefi/contracts",
+    "discord": "https://discord.gg/A6GJ6Qktwm"
+  }
+}

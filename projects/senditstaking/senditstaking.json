@@ -1,0 +1,43 @@
+{
+  "id": "senditstaking",
+  "slug": "senditstaking",
+  "name": "Sendit Staking",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "senditstaking-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "senditstaking-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "senditstaking-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Validator services for the Polkadot ecosystem.",
+  "description": "We are a community backed collator on the Moonbeam network.  We build and maintain our validators to provide secure and reliable services in support of our own investments.  When you stake to us, you stake with us.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://senditstaking.com/",
+    "try": "https://senditstaking.com/",
+    "twitter": "https://twitter.com/SenditStaking/",
+    "medium": "https://senditstaking.medium.com/",
+    "telegram": "https://t.me/senditstaking",
+    "discord": "https://discord.gg/PfpUATX"
+  }
+}

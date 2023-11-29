@@ -1,0 +1,41 @@
+{
+  "id": "dominodes",
+  "slug": "dominodes",
+  "name": "DomiNodes",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dominodes-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dominodes-logo-large.jpeg",
+      "width": 340,
+      "height": 340,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dominodes-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Proof-of-Stake node operator and provide staking as a service",
+  "description": "DomiNodes is professional Proof-of-Stake node operator and provide staking as a service. Our mission is to make the decentralized financial system available for each person. Our goal is to make everyone gain rewards and other benefits from staking without third parties. We contribute to the development of web3 because we believe in the future of blockchain technology.\r\n\r\nWe use high performance servers on geographically distributed infrastructure of top tier data centers around the world. Our team use a highly reliable monitoring and backup system, which allows us to ensure a highest uptime of our nodes.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://dominodes.io/",
+    "try": "https://dominodes.io/",
+    "twitter": "https://twitter.com/dominodes"
+  }
+}

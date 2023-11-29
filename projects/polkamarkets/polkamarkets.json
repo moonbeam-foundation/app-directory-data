@@ -1,0 +1,47 @@
+{
+  "id": "polkamarkets",
+  "slug": "polkamarkets",
+  "name": "Polkamarkets",
+  "category": "gaming",
+  "coinGeckoId": "polkamarkets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Polkamarkets"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "polkamarkets-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "polkamarkets-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "polkamarkets-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Autonomous Prediction Market Protocol",
+  "description": "Polkamarkets, Gamified Prediction Markets, DeFi and Polkadot Powered Prediction Market.\r\n\r\nIt is a DeFi-Powered Prediction Market built for cross-chain information exchange and trading, where users take positions on outcomes of real world events–in a decentralized and interoperable platform on Polkadot.",
+  "tags": [
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.polkamarkets.com/",
+    "try": "https://www.polkamarkets.com/",
+    "twitter": "https://twitter.com/polkamarkets",
+    "medium": "https://polkamarkets.medium.com/",
+    "telegram": "https://t.me/polkamarkets"
+  }
+}

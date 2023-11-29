@@ -1,0 +1,46 @@
+{
+  "id": "relaychain",
+  "slug": "relaychain",
+  "name": "Relay Chain",
+  "category": "bridges",
+  "coinGeckoId": "relay-token",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "relaychain-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "relaychain-logo-large.jpeg",
+      "width": 517,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "relaychain-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Easily transfer tokens between your favorite blockchains",
+  "description": "Access cross-chain opportunities on ‍the World’s Leading Blockchains\nusing Relay’s simple, fast, and secure bridge.",
+  "tags": [
+    "Bridges",
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.relaychain.com/",
+    "try": "https://www.relaychain.com/",
+    "twitter": "https://twitter.com/relay_chain",
+    "telegram": "https://t.me/relaychaincommunity",
+    "github": "https://github.com/RelayChain",
+    "discord": "https://discord.gg/relaychain-botb"
+  }
+}

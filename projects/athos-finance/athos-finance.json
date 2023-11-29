@@ -1,0 +1,49 @@
+{
+  "id": "athos-finance",
+  "slug": "athos-finance",
+  "name": "Athos Finance",
+  "category": "defi",
+  "coinGeckoId": "athos-finance",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "athos-finance-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "athos-finance-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "athos-finance-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The First Decentralized Delta-One Asset Protocol on Moonbeam",
+  "description": "Athos Finance is the first decentralized delta-one asset protocol on Moonbeam. It provides users with on-chain price exposure through synthetic assets with infinite liquidity and no slippage.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0xcbabee0658725b5b21e1512244734a5d5c6b51d6",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://athos.finance/",
+    "try": "https://athos.finance/",
+    "twitter": "https://twitter.com/Athos_Finance",
+    "medium": "https://medium.com/@athos.finance",
+    "telegram": "https://t.me/athos_finance",
+    "discord": "https://discord.gg/tHAhkgg4ad"
+  }
+}

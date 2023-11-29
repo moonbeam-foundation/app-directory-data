@@ -1,0 +1,42 @@
+{
+  "id": "the-quest-of-evolution",
+  "slug": "the-quest-of-evolution",
+  "name": "The Quest of Evolution",
+  "category": "social",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "the-quest-of-evolution-logo-small.jpeg",
+      "width": 38,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "the-quest-of-evolution-logo-large.jpeg",
+      "width": 534,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "the-quest-of-evolution-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Decentralised collaborative infrastructure that allows creatives to augment the value of artwork.",
+  "description": "The Quest of Evolution offers a decentralized framework for creatives around the globe to collaborate and accrue value on multimedia art. They have designed the infrastructure to collect Intellectual Property Rights (IPRs) in exchange for their Native $QEV token, creating a DAO and a community of like-minded creatives, collectors, investors and fans to be part of an innovative reinvention of the creative process, where the profitability of the movement will reward all stakeholders fairly (post ICO).",
+  "tags": [
+    "Social",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.thequestofevolution.com/",
+    "try": "https://www.thequestofevolution.com/",
+    "twitter": "https://twitter.com/TheQuestOfEvo",
+    "discord": "https://discord.gg/NmSHRRsUGz"
+  }
+}

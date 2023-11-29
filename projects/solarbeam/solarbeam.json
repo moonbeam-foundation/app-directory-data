@@ -1,0 +1,51 @@
+{
+  "id": "solarbeam",
+  "slug": "solarbeam",
+  "name": "Solarbeam",
+  "category": "dex",
+  "coinGeckoId": "solarbeam",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "solarbeam-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "solarbeam-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "solarbeam-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Shine a light on DeFi, powered by Moonriver",
+  "description": "Solarbeam is a decentralized exchange, providing liquidity and enabling peer-to-peer transactions on the Moonriver Network. We are currently the leading DEX on the network. Shine a light on DeFi, powered by Moonriver. Swap, earn, farm, and launch your projects, powered by DeFi.\r\n\r\nThe goal is to provide a comprehensive and convenient, one-stop platform for the cryptocurrency community.",
+  "tags": [
+    "DEX",
+    "Bridges"
+  ],
+  "contracts": [
+    {
+      "contract": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://solarbeam.io/",
+    "try": "https://solarbeam.io/",
+    "twitter": "https://twitter.com/solarbeamio",
+    "medium": "https://solarbeam.medium.com/",
+    "telegram": "https://t.me/solarbeamio",
+    "github": "https://github.com/solarbeamio",
+    "discord": "https://discord.com/invite/solarbeam"
+  }
+}

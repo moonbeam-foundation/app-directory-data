@@ -1,0 +1,44 @@
+{
+  "id": "emotes.app",
+  "slug": "emotes.app",
+  "name": "Emotes.app",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "emotes.app-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "emotes.app-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "emotes.app-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "React on anyone's NFT - throw 💩 at those apes, give a 🤗 to those Pudgies!",
+  "description": "Emotes.app is a RMRK mini-app which allows you to send emotes / reactions to anyone's NFT. It utilizes RMRK's ERC7009 and is trivial to integrate into any project wanting to take advantage of the community's reactions to their NFTs.\n\nUse it to direct storylines, affect NFT egg hatching, or just do relative price comparison when influencers like one NFTs and dislike another!",
+  "tags": [
+    "NFT",
+    "Social"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://emotes.app",
+    "try": "https://emotes.app",
+    "twitter": "https://x.com/rmrkapp",
+    "medium": "https://medium.com/rmrkapp",
+    "telegram": "https://t.me/rmrkapp",
+    "github": "https://github.com/rmrk-team"
+  }
+}

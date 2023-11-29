@@ -1,0 +1,50 @@
+{
+  "id": "cougarswap",
+  "slug": "cougarswap",
+  "name": "Cougarswap",
+  "category": "defi",
+  "coinGeckoId": "cougar-token",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "CougarSwap"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "cougarswap-logo-small.png",
+      "width": 31,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "cougarswap-logo-large.png",
+      "width": 213,
+      "height": 247,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "cougarswap-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "CougarSwap - Advanced Yield Farming On Binance Smart Chain",
+  "description": "CougarSwap - Advanced Yield Farming On Binance Smart Chain",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "cougar-token",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://app.cougarswap.io/",
+    "try": "https://app.cougarswap.io/",
+    "twitter": "https://twitter.com/cougarswap",
+    "github": "https://github.com/cougarswap"
+  }
+}

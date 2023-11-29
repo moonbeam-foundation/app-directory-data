@@ -1,0 +1,43 @@
+{
+  "id": "chainsafe",
+  "slug": "chainsafe",
+  "name": "ChainSafe",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chainsafe-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chainsafe-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chainsafe-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Intuitive user-centric, blockchain solutions",
+  "description": "At ChainSafe Systems we offer intuitive user-centric systems design. Utilizing emerging technologies wherever possible; our aim is to future proof your digital transformation.\r\n\r\nWe are a team of Developers and nerds focused on solving our clients problems using blockchain wherever possible. We are a grassroots team of developers from Toronto, ON - who met at local Ethereum Developer Meetups. Currently we are working on several community initiatives. Including: Toronto Rust Developers Meetup, benToronto and The Toronto Creative Commons Film Festival.\r\n\r\nOur current and past clients include: Shyft, Bunz, Aion, Polymath, Arkilio, and CoinLaunch.\r\n\r\nInternal projects include: eth-drive the first disk utility tool made specifically for generating offline ethereum wallets, and the Certified Ethereum Developer Program offered through The Blockchain Hub at York University.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://chainsafe.io/",
+    "try": "https://chainsafe.io/",
+    "twitter": "https://twitter.com/ChainSafeth",
+    "medium": "https://medium.com/chainsafe-systems/",
+    "github": "https://github.com/ChainSafe"
+  }
+}

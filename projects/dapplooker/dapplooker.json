@@ -1,0 +1,42 @@
+{
+  "id": "dapplooker",
+  "slug": "dapplooker",
+  "name": "DappLooker",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dapplooker-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dapplooker-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dapplooker-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Multi-chain community driven blockchain analytics",
+  "description": "DappLooker is Multichain analytics and visualization platform for blockchain Dapps using easy to use Visual SQL editor. Support Ethereum, Polygon, Moonbeam, Subgraph, xDai. Connect and query your smart contracts, build dashboards to visualize data and share with your community.\r\n\r\nWe have decoded Blockchain smart contract data so you can do powerful analysis with simple SQL queries through our Visual SQL interface. Instantly visualise your query results into beautiful charts and graphs. Share dashboards with everyone for collaboration.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://dapplooker.com/",
+    "try": "https://dapplooker.com/",
+    "twitter": "https://twitter.com/dapplooker",
+    "medium": "https://dapplooker.medium.com/",
+    "discord": "https://discord.com/invite/FWyNJtEyxa"
+  }
+}

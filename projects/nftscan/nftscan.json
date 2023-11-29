@@ -1,0 +1,43 @@
+{
+  "id": "nftscan",
+  "slug": "nftscan",
+  "name": "NFTScan",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nftscan-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "nftscan-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "nftscan-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "NFT-specific explorer to track all things related to NFT",
+  "description": "Provides live access to the Metaverse for humans",
+  "tags": [
+    "Explorers",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.nftscan.com/",
+    "try": "https://www.nftscan.com/",
+    "twitter": "https://twitter.com/nftscan_com",
+    "medium": "https://nftscan.medium.com/",
+    "discord": "https://discord.com/invite/8c87fS2HHF"
+  }
+}

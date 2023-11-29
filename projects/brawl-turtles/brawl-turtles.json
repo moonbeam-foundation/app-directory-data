@@ -1,0 +1,44 @@
+{
+  "id": "brawl-turtles",
+  "slug": "brawl-turtles",
+  "name": "Brawl Turtles",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Brawl Turtles"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "brawl-turtles-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "brawl-turtles-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "brawl-turtles-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The First 3D NFT Collection in Moonbeam and Polkadot",
+  "description": "Brawl Turtles is the First 3D NFT Collection in Moonbeam and Polkadot. Buy an turtle and be part of our early adopter club of 299 turtles  in Moonbeam Network.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.brawlturtles.com/",
+    "try": "https://www.brawlturtles.com/",
+    "twitter": "https://twitter.com/BrawlTurtles/",
+    "discord": "https://discord.com/invite/acvTfeCU2p"
+  }
+}

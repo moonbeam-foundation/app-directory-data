@@ -1,0 +1,43 @@
+{
+  "id": "frontier-xyz",
+  "slug": "frontier-xyz",
+  "name": "Frontier",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "frontier-xyz-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "frontier-xyz-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "frontier-xyz-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your Front Seat to Crypto & DeFi. Store, earn, swap, and invest in crypto assets from one place. Your keys = Your coins.",
+  "description": "Low Gas. More DeFi. The simplest and safest way to access Decentralised Finance(DeFi) on Ethereum, Binance Smart Chain, Polygon, Arbitrum and more...\n",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://frontier.xyz/",
+    "try": "https://frontier.xyz/",
+    "twitter": "https://twitter.com/FrontierDotXYZ",
+    "telegram": "https://t.me/FrontierDotXYZ",
+    "discord": "https://discord.gg/FYkhaKkxuX"
+  }
+}

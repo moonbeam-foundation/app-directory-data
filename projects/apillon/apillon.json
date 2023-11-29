@@ -1,0 +1,45 @@
+{
+  "id": "apillon",
+  "slug": "apillon",
+  "name": "Apillon",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "apillon-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "apillon-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "apillon-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Apillon is a Web3 development platform empowering developers to build in the Polkadot ecosystem.",
+  "description": "Apillon is a Web3 development platform for developers and businesses building on Web3. By gathering unified API endpoints, it delivers the functionalities of Polkadot parachains adapted to the standard development process and user-preferred technology stack.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://apillon.io/",
+    "try": "https://apillon.io/",
+    "twitter": "https://twitter.com/Apillon",
+    "medium": "https://medium.com/apillon",
+    "telegram": "https://t.me/Apillon",
+    "github": "https://github.com/Apillon-web3",
+    "discord": "https://discord.gg/yX3gTw36C4"
+  }
+}

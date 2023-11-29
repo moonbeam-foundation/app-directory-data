@@ -1,0 +1,49 @@
+{
+  "id": "moonscape",
+  "slug": "moonscape",
+  "name": "Moonscape",
+  "category": "gaming",
+  "coinGeckoId": "moonscape",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonscape-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonscape-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonscape-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Survival. Domination. Profit",
+  "description": "Moonscape is the inaugural lighthouse project. In Moonscape, players explore a futuristic moon, enhancing their towns with DeFi features and receiving rewards for their time spent in-game.\r\n\r\nThis project is the first step in a cosmic wave of DeFi gaming spreading across the Cryptosphere. On the Lighthouse, users can find up and coming projects in DeFi Gaming to support financially and be rewarded for their effort. This first project is a resource management strategy game that takes place on the ruins of the future Moon.\r\n\r\nBuild and grow your city to enhance your power. Choose two types of features for each building, one to help you improve your city and rovers, and a DeFi feature offering attractive staking options. Build rovers and extractors to roam the land in search of limited resources. Upgrade your buildings and machines, while increasing your earning potential. All the cities can be turned into NFTs for minting, trading and selling, profiting industrious players.",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [
+    {
+      "contract": "0x5c22ba65f65adffadfc0947382f2e7c286a0fe45",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://www.moonscapegame.com/",
+    "try": "https://www.moonscapegame.com/",
+    "twitter": "https://twitter.com/MoonscapeGame",
+    "medium": "https://medium.com/seascape-network",
+    "telegram": "https://t.me/moonscape_game"
+  }
+}

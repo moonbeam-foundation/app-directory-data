@@ -1,0 +1,46 @@
+{
+  "id": "glmr-apes",
+  "slug": "glmr-apes",
+  "name": "GLMR APES",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "GLMR Apes"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "glmr-apes-logo-small.png",
+      "width": 47,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "glmr-apes-logo-large.png",
+      "width": 528,
+      "height": 408,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "glmr-apes-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The first NFT collection on GLMR by & for the community",
+  "description": "GLIMMER APES is the first NFT collection on GLMR by & for the community. The longer you’re bonding with GLMR Apes and the friendlier their behavior. Join the troops as soon as possible to become an EARLY APE, take part in our giveaways and games and land in the GLMR APE VIP CLUB.",
+  "tags": [
+    "NFT",
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.glmrapes.com/",
+    "try": "https://www.glmrapes.com/",
+    "twitter": "https://twitter.com/GLMRApes",
+    "telegram": "https://t.me/+qGh0InPSPc1iMTNk",
+    "discord": "https://discord.com/invite/glmrapes"
+  }
+}

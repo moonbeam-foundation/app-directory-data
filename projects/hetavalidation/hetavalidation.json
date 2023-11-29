@@ -1,0 +1,41 @@
+{
+  "id": "hetavalidation",
+  "slug": "hetavalidation",
+  "name": "Hetavalidation",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "hetavalidation-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "hetavalidation-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "hetavalidation-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web 3.0 & Validation Services",
+  "description": "Hetavalidation, Web 3.0 & Validation Services. Participate in the next evolution of the internet. Earn rewards by helping secure the digital infrastructure of Web 3.0 through staking.\r\n\r\nStaking will secure the world’s most precious digital public infrastructures. Hetavalidation provides a professional staking service, offering validation to select projects in the space that will have an impact on the world. Earn rewards by helping secure the digital infrastructure of Web 3.0 through staking.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.hetavalidation.com/",
+    "try": "https://www.hetavalidation.com/",
+    "twitter": "https://twitter.com/Hetairoi4"
+  }
+}

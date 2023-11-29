@@ -1,0 +1,42 @@
+{
+  "id": "getblock-io",
+  "slug": "getblock-io",
+  "name": "Getblock",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "getblock-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "getblock-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "getblock-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Superior Node Infrastructure for Building dApps",
+  "description": "GetBlock developer tools and valuable insights guarantee a simple and reliable API access to multiple blockchains: Bitcoin, Ethereum, BNB Smart Chain (Binance Smart Chain), etc. ",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://getblock.io/",
+    "try": "https://getblock.io/",
+    "twitter": "https://twitter.com/getblockio",
+    "telegram": "https://t.me/getblockio_eng",
+    "discord": "https://discord.com/invite/T2hbgqfEnv"
+  }
+}

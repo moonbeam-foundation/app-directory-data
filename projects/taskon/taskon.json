@@ -1,0 +1,45 @@
+{
+  "id": "taskon",
+  "slug": "taskon",
+  "name": "TaskOn",
+  "category": "social",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "taskon-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "taskon-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "taskon-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Boosts the completion for various Web3 tasks in a decentralized way.",
+  "description": "TaskOn is a Web3 task collaboration platform ideal for marketing and operations. It enables you to easily run campaigns to promote your brand, acquire new real users, grow your community, drive up volume, mint NFTs or manage a whitelist.",
+  "tags": [
+    "Social",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://taskon.xyz/",
+    "try": "https://taskon.xyz/",
+    "twitter": "https://twitter.com/taskonxyz",
+    "medium": "https://medium.com/@taskonxyz",
+    "telegram": "https://t.me/TaskOnOfficial",
+    "discord": "https://discord.com/invite/eaWzVFm9vZ"
+  }
+}

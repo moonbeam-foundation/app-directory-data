@@ -1,0 +1,42 @@
+{
+  "id": "guild-xyz",
+  "slug": "guild-xyz",
+  "name": "Guild",
+  "category": "gaming",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "guild-xyz-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "guild-xyz-logo-large.jpeg",
+      "width": 299,
+      "height": 299,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "guild-xyz-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Token-enabled membership management for Discord and beyond.",
+  "description": "Build your tokenized Guild. Automated membership management for the platforms your community already uses.",
+  "tags": [
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://guild.xyz/",
+    "try": "https://guild.xyz/",
+    "twitter": "https://twitter.com/guildxyz",
+    "github": "https://github.com/agoraxyz/guild.xyz",
+    "discord": "https://discord.gg/guildxyz"
+  }
+}

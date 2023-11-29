@@ -1,0 +1,44 @@
+{
+  "id": "lunardex",
+  "slug": "lunardex",
+  "name": "LunarDEX",
+  "category": "dex",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "lunardex-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "lunardex-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "lunardex-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The Dex that Touch the Moon",
+  "description": "LunarDEX's design is based on the Uniswap constant-product automated market maker (AMM). In an AMM, liquidity providers simply deposit a pair of tokens and an algorithm automatically makes markets for the token pair. Traders can easily swap between tokens in the AMM and get guaranteed rates for the swaps. Each swap on LunarDex incurs a fee, which gets distributed to liquidity providers as their payment for work.",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://lunardex.space/",
+    "try": "https://lunardex.space/",
+    "twitter": "https://twitter.com/LunarDExchange",
+    "medium": "https://lunardex.medium.com/",
+    "telegram": "https://t.me/Lunar_DEX",
+    "github": "https://github.com/lunardex"
+  }
+}

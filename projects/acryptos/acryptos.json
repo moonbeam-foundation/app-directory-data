@@ -1,0 +1,45 @@
+{
+  "id": "acryptos",
+  "slug": "acryptos",
+  "name": "ACryptoS",
+  "category": "defi",
+  "coinGeckoId": "acryptos",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "acryptos-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "acryptos-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "acryptos-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "High yields with a focus on safety ",
+  "description": "Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe. ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.acryptos.com/",
+    "try": "https://www.acryptos.com/",
+    "twitter": "https://twitter.com/acryptosdao",
+    "medium": "https://medium.com/acryptos",
+    "telegram": "https://t.me/acryptos9"
+  }
+}

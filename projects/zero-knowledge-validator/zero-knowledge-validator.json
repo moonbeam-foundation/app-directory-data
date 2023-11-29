@@ -1,0 +1,41 @@
+{
+  "id": "zero-knowledge-validator",
+  "slug": "zero-knowledge-validator",
+  "name": "Zero Knowledge Validator",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "zero-knowledge-validator-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "zero-knowledge-validator-logo-large.jpeg",
+      "width": 482,
+      "height": 482,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "zero-knowledge-validator-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Earn staking rewards, support privacy",
+  "description": "Zero Knowledge Validator, powered by the Bison Trails platform: the easiest way to run infrastructure on multiple blockchain networks.\r\n\r\nCurrent live PoS systems don’t offer privacy solutions for validators or delegators - at times forcing them to disclose sensitive financial information to the public.\r\n\r\nPrivacy remains an afterthought or a bullet point low down on a to-do list. We aim to change this.\r\n\r\nWe aim to work with the PoS Networks that have the characteristics and features that allow for new ZK paradigms to emerge.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://zkvalidator.com/",
+    "try": "https://zkvalidator.com/",
+    "twitter": "https://twitter.com/ZKValidator",
+    "medium": "https://medium.com/zero-knowledge-validator"
+  }
+}

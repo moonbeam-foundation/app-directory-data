@@ -1,0 +1,49 @@
+{
+  "id": "bepro",
+  "slug": "bepro",
+  "name": "BePro",
+  "category": "other",
+  "coinGeckoId": "bepro-network",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Bepro Network"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bepro-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bepro-logo-large.jpeg",
+      "width": 261,
+      "height": 261,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bepro-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Autonomous Protocol for Decentralized Development",
+  "description": "BePro, formerly BetProtocol, enables entrepreneurs and developers to create gaming platforms in minutes by providing several tools and technology. No coding required. Thanks to BePro’s blockchain technology, these platforms are secure, scalable and regulatory compliant. BePro’s vision is to create the new standard in online gaming tech based on fairness, transparency, and safety.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.bepro.network/",
+    "try": "https://www.bepro.network/",
+    "twitter": "https://twitter.com/bepronet",
+    "medium": "https://bepronetwork.medium.com/",
+    "telegram": "https://t.me/betprotocol",
+    "github": "https://github.com/bepronetwork",
+    "discord": "https://discord.com/invite/twqhwnStGz"
+  }
+}

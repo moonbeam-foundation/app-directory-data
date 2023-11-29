@@ -1,0 +1,44 @@
+{
+  "id": "hydradx",
+  "slug": "hydradx",
+  "name": "HydraDX",
+  "category": "dex",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "hydradx-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "hydradx-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "hydradx-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "An ocean of liquidity",
+  "description": "By putting an end to liquidity fragmentation, the HydraDX Omnipool makes trading efficient like no other AMM. Thanks to lower slippage and less hops, traders can enjoy capital efficiency gains (which scale further with TVL) as compared to a typical situation where liquidity is fragmented across different trading pools",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://hydradx.io/",
+    "try": "https://hydradx.io/",
+    "twitter": "https://twitter.com/hydra_dx",
+    "telegram": "https://t.me/hydradx",
+    "github": "https://github.com/galacticcouncil",
+    "discord": "https://discord.gg/kkmY35UxAG"
+  }
+}

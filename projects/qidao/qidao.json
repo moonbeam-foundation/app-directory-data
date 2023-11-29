@@ -1,0 +1,50 @@
+{
+  "id": "qidao",
+  "slug": "qidao",
+  "name": "QiDao",
+  "category": "lending",
+  "coinGeckoId": "qi-dao",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "qidao-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "qidao-logo-large.jpeg",
+      "width": 262,
+      "height": 262,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "qidao-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Borrow miMatic at 0% interest, without selling your Matic",
+  "description": "QiDao is a decentralized stablecoin protocol. It functions on an over-collateralized debt position model. The protocol launched MAI, which is soft-pegged to the dollar. It has around $150M in TVL, with minting available on Fantom, Polygon, Avalanche, Moonriver, and Harmony. MAI is one of the best assets to bridge with since it’s available on 12 chains through AnySwap (Fantom, Polygon, Avalanche, Moonriver, Harmony, Cronos, xDAI, IoTeX, Solana, Arbitrum, Metis, and BSC).",
+  "tags": [
+    "Lending"
+  ],
+  "contracts": [
+    {
+      "contract": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://www.mai.finance/",
+    "try": "https://www.mai.finance/",
+    "twitter": "https://twitter.com/QiDaoProtocol",
+    "medium": "https://0xlaozi.medium.com/\n",
+    "telegram": "https://t.me/QiDaoProtocol",
+    "discord": "https://discord.com/invite/mQq55j65xJ"
+  }
+}

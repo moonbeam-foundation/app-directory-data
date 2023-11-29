@@ -1,0 +1,49 @@
+{
+  "id": "nfts2me",
+  "slug": "nfts2me",
+  "name": "NFTs2Me",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nfts2me-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "nfts2me-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "nfts2me-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "NFTs2Me is a toolkit for creating and managing NFT projects.",
+  "description": "NFTs2Me is a tool for creating and managing NFT projects. It includes features such as an art generator, delayed reveal, minting widget, token gating, and support for multiple blockchain platforms. It also offers customization options, an affiliate system, automatic logo and banner generation, and support for redeemable NFTs. It is user-friendly and suitable for those new to the world of NFTs.\n\nIn addition to these features, NFTs2Me also offers a minting widget and free IPFS hosting to make it simple to mint and store your NFTs securely and efficiently. The minting widget allows you to easily create and mint new NFTs, while the free IPFS hosting provides a secure and decentralized way to store your NFTs.",
+  "tags": [
+    "NFT",
+    "Tool"
+  ],
+  "contracts": [
+    {
+      "contract": "0x2269bCeB3f4e0AA53D2FC43B1B7C5C5D13B119a5",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://nfts2me.com/",
+    "try": "https://nfts2me.com/",
+    "twitter": "https://twitter.com/nfts2me",
+    "medium": "https://nfts2me.medium.com/",
+    "telegram": "https://t.me/nfts2me",
+    "discord": "https://nfts2me.com/discord/"
+  }
+}

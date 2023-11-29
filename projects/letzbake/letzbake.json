@@ -1,0 +1,42 @@
+{
+  "id": "letzbake",
+  "slug": "letzbake",
+  "name": "LetzBake!",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "letzbake-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "letzbake-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "letzbake-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your reliable and secure Staking Service",
+  "description": "LetzBake! is an established staking service that is active in the crypto staking scene since 2018. LetzBake! stands for reliability, security, and transparency, which are not just words, but our living culture. We believe that staking protocols are the future of cryptocurrencies, given their low energy footprint and better scalability than proof-of-work currencies. We want these networks to thrive and thus contribute to securing them by providing a professional, reliant, and secure staking service for everyone.\r\n\r\nAll our validators and backup validators run in Tier IV, DIN ISO/IEC 27001 certified data centers in Europe with redundant UPS, climate control, fire protection, 24/7 monitoring and DDoS protection. Generally, all connections between our servers are encrypted and only established via our private overlay network across data centers. In order to prevent downtime, we also implement rigorous metrics and log monitoring and alerting so that we are made aware of problems in the system before they become serious.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://letzbake.com/",
+    "try": "https://letzbake.com/",
+    "twitter": "https://twitter.com/letzbake1",
+    "telegram": "https://t.me/letzbake"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "livetree",
+  "slug": "livetree",
+  "name": "Livetree",
+  "category": "social",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "livetree-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "livetree-logo-large.jpeg",
+      "width": 350,
+      "height": 350,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "livetree-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Social Videos for a Better Planet",
+  "description": "Livetree is a media technology company headquartered in London, UK. Founded in 2015, Livetree champions sustainability as one of their core values, and in turn, has helped them forge a community of brands, thought-leaders and experts, who all have the same shared values but most importantly a shared goal: to help save the planet.\r\n\r\nThrough positive stories, Livetree brings together the highest ethical, social, and governance standards to create and connect communities through stories that matter. Livetree have already invested significantly into the technology of over-the-top (OTT) video streaming, crowdfunding and video machine learning while having developed a sizable network of leading content providers (BBC, Channel 4 + 30+ others). Livetree is the next generation of open and transparent social network that is set to reimagine how you watch, interact and share content.",
+  "tags": [
+    "Social",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.livetree.com/",
+    "try": "https://www.livetree.com/",
+    "twitter": "https://twitter.com/livetreenetwork",
+    "telegram": "https://t.me/LiveTreeOfficial"
+  }
+}

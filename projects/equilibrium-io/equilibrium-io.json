@@ -1,0 +1,43 @@
+{
+  "id": "equilibrium-io",
+  "slug": "equilibrium-io",
+  "name": "Equilibrium",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "equilibrium-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "equilibrium-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "equilibrium-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "All-in-one Interoperable DeFi hub.",
+  "description": "Equilibrium is an all-in-one Interoperable DeFi hub. The first cross-chain money market that combines pooled lending with synthetic asset generation and trading. Make use of your EOS & BTC holdings, stake and earn, raise liquidity in EOSDT.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://equilibrium.io/",
+    "try": "https://equilibrium.io/",
+    "twitter": "https://twitter.com/EquilibriumDeFi",
+    "medium": "https://medium.com/equilibrium-eosdt",
+    "telegram": "https://t.me/equilibrium_eosdt_official",
+    "github": "https://github.com/equilibrium-eosdt"
+  }
+}

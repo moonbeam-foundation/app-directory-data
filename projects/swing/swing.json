@@ -1,0 +1,43 @@
+{
+  "id": "swing",
+  "slug": "swing",
+  "name": "Swing",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "swing-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "swing-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "swing-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Cross-chain Infrastructure for the Internet",
+  "description": "Swing, previously known as Polkaswitch, is a decentralized cross-chain liquidity protocol built for the financial future. We empower users all over the world to exchange crypto assets using blockchain smart contracts, relayers and cross-chain bridges. DeFi traders, investors & developers use Swing to move crypto efficiently across layer 1 & 2 blockchains.",
+  "tags": [
+    "Developer Tools"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://swing.xyz/",
+    "try": "https://swing.xyz/",
+    "twitter": "https://twitter.com/swing_xyz",
+    "medium": "https://swingxyz.medium.com/",
+    "telegram": "https://t.me/swingxyz",
+    "discord": "https://discord.com/invite/gpkeeEetkC"
+  }
+}

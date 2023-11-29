@@ -1,0 +1,45 @@
+{
+  "id": "upgradooor",
+  "slug": "upgradooor",
+  "name": "Upgradooor",
+  "category": "nfts",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "upgradooor-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "upgradooor-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "upgradooor-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Upgrade your NFT 1.0 collections to NFT 2.0 by wrapping them into advanced functionality",
+  "description": "As a collection issuer, use Upgradooor to initialize the process of upgrading your collection to NFT 2.0 if you are currently using ERC721.\n\nAs a holder, once the collection owner initiates the process, you can wrap any NFT you hold in that collection and instantly turn it into an equippable, multi-asset, composable NFT with no added risk.\n\nYou can always unwrap at will, and all the changes will still wait for you when you decide to re-claim the 2.0 wrapper again.\n\nUpgrading allows you to:\n\n- add more assets (outputs) to a legacy NFT, preventing needless airdrop spam\n- airdrop NFTs into the NFT itself, preventing detachment of context, and saving tremendous amounts of gas by letting people transfer just the parent NFT\n- define equippable settings and even achieve compatibility with other collections, for cross collection equippables and thus cross collection royalties and commissions\n- see your NFTs on Singular, and use GBM auctions as a unique and novel listing mechanic",
+  "tags": [
+    "NFT",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://upgradooor.app",
+    "try": "https://upgradooor.app",
+    "twitter": "https://x.com/rmrkapp",
+    "medium": "https://medium.com/rmrkapp",
+    "telegram": "https://t.me/rmrkapp",
+    "github": "https://github.com/rmrk-team"
+  }
+}

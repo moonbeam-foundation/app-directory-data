@@ -1,0 +1,46 @@
+{
+  "id": "autofarm-network",
+  "slug": "autofarm-network",
+  "name": "Autofarm Network",
+  "category": "defi",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "autofarm-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "autofarm-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "autofarm-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "One-stop DeFi platform | Multi-chain DEX & yield aggregator",
+  "description": "Autofarm was initiated on BNB Chain (formerly Binance Smart Chain) with no pre-farm, no pre-sales and with the goal of optimising DeFi users' yield farming at the lowest possible cost (All APY & APRs shown have already included fees).",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://autofarm.network/",
+    "try": "https://autofarm.network/",
+    "twitter": "https://twitter.com/autofarmnetwork",
+    "medium": "https://autofarm-network.medium.com/",
+    "telegram": "https://t.me/autofarm_network",
+    "github": "https://github.com/autofarmnetwork",
+    "discord": "https://discord.com/invite/bJ9ZsypQzv"
+  }
+}

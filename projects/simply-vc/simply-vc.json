@@ -1,0 +1,42 @@
+{
+  "id": "simply-vc",
+  "slug": "simply-vc",
+  "name": "Simply VC",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "simply-vc-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "simply-vc-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "simply-vc-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Welcome to the state of the art in transaction technology!",
+  "description": "Simply VC consists of a team of security, cryptocurrency & business experts passionate about supporting the blockchain ecosystem.\r\n\r\nMost of us feel more and more uncomfortable with the standard banking system, global surveillance and the global economy. That's why we spent countless efforts in implementing a brand new solution that can fully replace banking institutions and standard market place. Anonymous secured, untraceable, fast and reliable. This is how your money should be and that's how we can make it.\r\n\r\nSimply Staking runs highly reliable and secure infrastructure in their own datacentre in Malta, built with the aim of supporting the growth of the blockchain ecosystem.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.simply-vc.com.mt/",
+    "try": "https://www.simply-vc.com.mt/",
+    "twitter": "https://twitter.com/SimplyStaking",
+    "medium": "https://medium.com/simply-vc",
+    "telegram": "https://t.me/SimplyVC"
+  }
+}

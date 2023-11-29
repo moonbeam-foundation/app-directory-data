@@ -1,0 +1,43 @@
+{
+  "id": "allianceblock",
+  "slug": "allianceblock",
+  "name": "AllianceBlock",
+  "category": "bridges",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "allianceblock-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "allianceblock-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "allianceblock-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "AllianceBlock seamlessly brings DeFi and TradFi together",
+  "description": "The future of finance is an integrated system in which the best of both worlds can work together to increase capital flows and technological innovation — we’re making that a reality.",
+  "tags": [
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://alliancebridge.io/",
+    "try": "https://alliancebridge.io/",
+    "twitter": "https://twitter.com/allianceblock",
+    "medium": "https://medium.com/@allianceblock",
+    "telegram": "https://t.me/allianceblock",
+    "discord": "https://discord.gg/fB4tkF52H5"
+  }
+}

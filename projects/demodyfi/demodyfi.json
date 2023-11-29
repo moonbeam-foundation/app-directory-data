@@ -1,0 +1,48 @@
+{
+  "id": "demodyfi",
+  "slug": "demodyfi",
+  "name": "Demodyfi",
+  "category": "dex",
+  "coinGeckoId": "demodyfi",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Demodyfi"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "demodyfi-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "demodyfi-logo-large.png",
+      "width": 177,
+      "height": 177,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "demodyfi-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Demodyfi, the Cross chain-compatible DEX",
+  "description": "Demodyfi is connecting the crypto ecosystem using interoperable technologies and Polkadot’s advanced substrate technology.",
+  "tags": [
+    "DeFi",
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.demodyfi.com/",
+    "try": "https://www.demodyfi.com/",
+    "twitter": "https://twitter.com/Demodyfi",
+    "medium": "https://demodyfi.medium.com/",
+    "telegram": "https://t.me/demodyficommunity",
+    "discord": "https://discord.gg/25ATMHHX"
+  }
+}

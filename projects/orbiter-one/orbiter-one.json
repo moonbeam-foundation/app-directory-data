@@ -1,0 +1,51 @@
+{
+  "id": "orbiter-one",
+  "slug": "orbiter-one",
+  "name": "Orbiter One",
+  "category": "lending",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "orbiter-one-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "orbiter-one-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "orbiter-one-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Community-centric lending protocol offering inventive rewards, DAO rights and soon, Loan Teleporting",
+  "description": "Embarking on an exciting journey in decentralized lending, Orbiter One pairs innovative lending capabilities with engaging community incentives. \n\nCurrently live on Moonbeam network. This summer we will be elevating DeFi experience with Loan Teleporting.\n\nOur deflationary ORB Token and Intergalactic Whiskers Brigade NFTs forge the core of our vibrant community, encouraging active participation and governance. \n\nTopping it all, the thrill of our FunORB Lottery offers a refreshing dash of entertainment, ensuring an engaging and dynamic ecosystem.\n\nDisclaimer: ORB token's only utility is lottery participation and NFT minting. ORB token does not hold any protocol rights, as those are reserved for the Whiskers NFTs and ORBIT tokens, which do not have a set release date.",
+  "tags": [
+    "DeFi",
+    "Lending",
+    "Bridges"
+  ],
+  "contracts": [
+    {
+      "contract": "https://moonscan.io/token/0x4eeaa1fd27c50c64e77272bcdde68c28f0a3c3d7",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://orbiter.one",
+    "try": "https://orbiter.one",
+    "twitter": "https://twitter.com/OrbiterOne",
+    "medium": "https://medium.com/@orbiter_one",
+    "telegram": "https://t.me/Orbiter_One",
+    "github": "https://github.com/orbiterone",
+    "discord": "https://discord.com/invite/DZeF8UTxgS"
+  }
+}

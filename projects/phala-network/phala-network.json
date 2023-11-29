@@ -1,0 +1,42 @@
+{
+  "id": "phala-network",
+  "slug": "phala-network",
+  "name": "Phala Network",
+  "category": "other",
+  "coinGeckoId": "phala-network",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "phala-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "phala-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "phala-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Phala Network tackles the issue of trust in the computation cloud.",
+  "description": "The Decentralized Computation Cloud with Fast, Powerful, Trustless, Secure, and Composable Technologies.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.phala.network/en/",
+    "try": "https://www.phala.network/en/",
+    "twitter": "https://twitter.com/PhalaNetwork"
+  }
+}

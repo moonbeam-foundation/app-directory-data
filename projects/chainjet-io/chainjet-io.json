@@ -1,0 +1,43 @@
+{
+  "id": "chainjet-io",
+  "slug": "chainjet-io",
+  "name": "ChainJet",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chainjet-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chainjet-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chainjet-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Unleash the full potential of Web3 with ChainJet: Build Web3 task automations with no-code.",
+  "description": "ChainJet enables you to create task automations through workflows. These workflows consist of a trigger and a series of actions. When the trigger conditions are met, all the actions are automatically executed. Each trigger and action accepts inputs and provides outputs, allowing you to pass information seamlessly between operations.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://chainjet.io/",
+    "try": "https://chainjet.io/",
+    "twitter": "https://twitter.com/chainjetio",
+    "github": "https://github.com/chainjet/platform",
+    "discord": "https://discord.gg/QFnSwqj9YH"
+  }
+}

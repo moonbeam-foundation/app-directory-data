@@ -1,0 +1,45 @@
+{
+  "id": "subsquid",
+  "slug": "subsquid",
+  "name": "Subsquid",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "subsquid-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "subsquid-logo-large.png",
+      "width": 196,
+      "height": 196,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "subsquid-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Powerful APIs for Web3 builders",
+  "description": "Subsquid is a blockchain indexing solution that gives developers and analysts the data they need to build Web3",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://subsquid.io/",
+    "try": "https://subsquid.io/",
+    "twitter": "https://twitter.com/subsquid",
+    "medium": "https://subsquid.medium.com/",
+    "telegram": "https://t.me/subsquid",
+    "github": "https://github.com/subsquid",
+    "discord": "https://discord.com/invite/5cQBWHWJvW"
+  }
+}

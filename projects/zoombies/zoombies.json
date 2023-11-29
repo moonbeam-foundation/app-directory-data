@@ -1,0 +1,48 @@
+{
+  "id": "zoombies",
+  "slug": "zoombies",
+  "name": "Zoombies",
+  "category": "gaming",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "Zoombies NFT World"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "zoombies-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "zoombies-logo-large.jpeg",
+      "width": 350,
+      "height": 350,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "zoombies-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Infinite Universe of NFT collectible trading cards built on Rarity, Scarcity and Community",
+  "description": "Zoombies is an infinite world of NFT collectible trading cards built on Rarity, Scarcity and Community.\n\nThe Zoombies World brings all the value and excitement of blockchain NFTs into a tidy free-to-play mix of predictable rules that result in unpredictable outcomes. Zoombies has something for everyone, and when luck strikes, it can take you out of this world! Zoombies is a full cycle token economy which allows players to mint, trade and burn NFTs alongside the ZOOM ERC-20 standard token for highly liquid value transfer.",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://zoombies.world/",
+    "try": "https://zoombies.world/",
+    "twitter": "https://twitter.com/cryptoznft",
+    "medium": "https://cryptoz-cards.medium.com/",
+    "telegram": "https://t.me/zoombiesworld",
+    "discord": "https://twitter.com/cryptoznft"
+  }
+}

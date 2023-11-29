@@ -1,0 +1,43 @@
+{
+  "id": "metacourt",
+  "slug": "metacourt",
+  "name": "Metacourt",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "metacourt-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "metacourt-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "metacourt-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Metacourt created NFTdeals for anyone who wants to become an influencer and trade their social media",
+  "description": "Influencer accelerator for anyone who wants to become an influencer in the space. We allow selling your social media through NFTs and joining influencer marketing campaigns.",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://nftdeals.io/",
+    "try": "https://nftdeals.io/",
+    "twitter": "https://twitter.com/metacourtgg",
+    "medium": "https://metacourtgg.medium.com/",
+    "telegram": "https:/t.me/metacourtgg",
+    "discord": "https://discord.gg/9AnnfKCb39"
+  }
+}

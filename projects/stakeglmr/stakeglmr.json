@@ -1,0 +1,40 @@
+{
+  "id": "stakeglmr",
+  "slug": "stakeglmr",
+  "name": "Stake GLMR",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "stakeglmr-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "stakeglmr-logo-large.jpeg",
+      "width": 404,
+      "height": 404,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "stakeglmr-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Stake your GLMR",
+  "description": "Stake GLMR offers a personal account dashboard and a staking dashboard to Moonbeam users. The website also provides a blockchain analytics section for market analysis. GLMR holders can use the website to compare collators, review account activity, set up alerts, and research the market's behavioral outlook. The website is run by StakeBaby.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://stakeglmr.com/",
+    "try": "https://stakeglmr.com/",
+    "telegram": "https://t.me/stakebaby"
+  }
+}

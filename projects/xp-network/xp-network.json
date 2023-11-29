@@ -1,0 +1,43 @@
+{
+  "id": "xp-network",
+  "slug": "xp-network",
+  "name": "XP Network",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "xp-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "xp-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "xp-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "A powerful NFT bridge trusted by all major blockchains ",
+  "description": "We build software tools that enable experienced developers and non-coding blockchain community members to move their assets seamlessly and intuitively between versatile distributed ledgers. By doing so, we encourage unlimited growth of exchange and trade between otherwise isolated ecosystems. We enable them to enrich each other technologically with insights and discoveries. To gain access to new, previously inaccessible markets with users hungry for fresh ideas and technologies to invest in.",
+  "tags": [
+    "NFT",
+    "Bridges"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://xp.network/",
+    "try": "https://xp.network/",
+    "twitter": "https://twitter.com/xpnetwork_",
+    "telegram": "https://t.me/xp_network",
+    "discord": "https://discord.com/invite/g3vkcsmd38"
+  }
+}

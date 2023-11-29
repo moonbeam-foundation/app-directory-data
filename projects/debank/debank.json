@@ -1,0 +1,44 @@
+{
+  "id": "debank",
+  "slug": "debank",
+  "name": "DeBank",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "debank-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "debank-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "debank-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your overall DeFi portfolio tracking wallet.",
+  "description": "DeBank is a dashboard for tracking your DeFi portfolio, with data and analytics for decentralized lending protocols, stablecoins, margin trading platforms and DEXes.\r\n\r\nDifferent from the previous wallets in blockchain ecology, this “wallet” was designed only in favor of helping users to track and manage their DeFi assets. In the future, DeBank will be found in both centralized and decentralized wallets.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://debank.com/",
+    "try": "https://debank.com/",
+    "twitter": "https://twitter.com/DebankDeFi",
+    "medium": "https://medium.com/debank",
+    "telegram": "https://t.me/DeBankEN",
+    "github": "https://github.com/DeBankDeFi"
+  }
+}

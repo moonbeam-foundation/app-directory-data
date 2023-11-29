@@ -1,0 +1,50 @@
+{
+  "id": "dot-finance",
+  "slug": "dot-finance",
+  "name": "Dot.Finance",
+  "category": "defi",
+  "coinGeckoId": "dot-finance",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dot-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dot-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dot-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "DeFi Aggregator for the Polkadot Ecosystem",
+  "description": "Dot.Finance is the house of DeFi, based on Polkadot. DeFi Aggregator for the Polkadot Ecosystem. Maximize your returns with innovative yield optimization strategies.\r\n\r\nDot.Finance offered auto-compounding strategy that would generate higher yields for the following farms including SOLAR/MOVR, SOLAR/USDC, MOVR/USDC, USDT/USDC, ETH/USDC, and WBTC-USDC.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [
+    {
+      "contract": "0x30A54FbFF50f86C3a289fa70e677051a86677be4",
+      "chain": "moonriver"
+    }
+  ],
+  "urls": {
+    "website": "https://dot.finance/",
+    "try": "https://dot.finance/",
+    "twitter": "https://twitter.com/dot_finance",
+    "medium": "https://dot-finance.medium.com/",
+    "telegram": "https://t.me/Dot_Finance",
+    "github": "https://github.com/Dot-Finance"
+  }
+}

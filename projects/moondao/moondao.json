@@ -1,0 +1,46 @@
+{
+  "id": "moondao",
+  "slug": "moondao",
+  "name": "MoonDAO",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "MoonDAO"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moondao-logo-small.png",
+      "width": 25,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "moondao-logo-large.png",
+      "width": 330,
+      "height": 475,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "moondao-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The first & only community art dao on moonbeam",
+  "description": "MoonDao is the first community Art Collection DAO on the Moonbeam network!\n\nWe aim to utilize input from our community to select high-end NFT’s. These NFT’s will be acquired with the MoonDao treasury and stored in the MoonDao Vault.\n\nMoon ownership grants access to DAO voting rights, future events, and additional holder perks outlined below. Welcome to the moon, we hope you stay.\n\n",
+  "tags": [
+    "NFT",
+    "DAO"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.moonbeamdao.com/",
+    "try": "https://www.moonbeamdao.com/",
+    "twitter": "https://twitter.com/moonbeam_dao",
+    "medium": "https://medium.com/@moonbeamdao",
+    "discord": "https://discord.gg/AevrFzwZjk"
+  }
+}

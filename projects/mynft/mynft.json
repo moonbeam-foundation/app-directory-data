@@ -1,0 +1,42 @@
+{
+  "id": "mynft",
+  "slug": "mynft",
+  "name": "myNFT",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mynft-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mynft-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mynft-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The marketplace that puts the power back in your hands",
+  "description": "myNFT is the marketplace that puts the power back in your hands. It is a creative workshop, a trading platform and a discovery engine, helping you tell your story and share your passions, on your own terms. myNFT is built on decentralized technologies empowering you to create, trade, and discover. myNFT is built by Perpetual Altruism, a leader in the NFT space and the creator of charitable NFT publisher Cryptograph and the GBM auction system. Perpetual Altruism is backed by prominent investors and creators and is also the recipient of grants from the Web3 Foundation and the Moonbeam network for their work on the decentralized internet, which powers myNFT.",
+  "tags": [
+    "NFT Marketplaces",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.mynft.com/",
+    "try": "https://www.mynft.com/",
+    "twitter": "https://twitter.com/mynft"
+  }
+}

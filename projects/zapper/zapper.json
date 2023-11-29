@@ -1,0 +1,42 @@
+{
+  "id": "zapper",
+  "slug": "zapper",
+  "name": "Zapper",
+  "category": "defi",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "zapper-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "zapper-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "zapper-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your home to web3",
+  "description": "Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://zapper.fi/",
+    "try": "https://zapper.fi/",
+    "twitter": "https://twitter.com/zapper_fi",
+    "discord": "https://zapper.fi/discord"
+  }
+}

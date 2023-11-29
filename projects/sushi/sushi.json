@@ -1,0 +1,49 @@
+{
+  "id": "sushi",
+  "slug": "sushi",
+  "name": "Sushi",
+  "category": "dex",
+  "coinGeckoId": "sushi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "web3goIDs": [
+    "SushiSwap"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "sushi-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "sushi-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "sushi-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Be a DeFi Chef with Sushi",
+  "description": "SushiSwap, An evolution of Uniswap with SUSHI tokenomics. Operate by Chef Nomi, Master of Omakase.\r\n\r\nSushiSwap is a fork of Uniswap with a native governance token ($SUSHI) and a change in the reward distribution mechanism. With Uniswap, LPs earn 0.3% of trading fees whereas on Sushiswap, LPs will earn 0.25% fees, with the remaining 0.05% being distributed to SUSHI holders.\r\n\r\nThe objective is to incentivize early liquidity providers with added incentive for bootstrapping the pools. In Uniswap, LPs earn fees so long as liquidity is provided. Sushiswap aims to add a more passive form of income with early LPs benefitting from the future traction of the protocol through SUSHI and the 0.05% fee.\r\n\r\nIn typical DeFi degen style, SushiSwap founder Chef Nomi made a call to arms for auditors to conduct a smart contract audit after the protocol reached $150M in TVL within the first 5 hours of launch. Quantstamp has since taken responsibility to audit the contracts alongside a 48 hour time lock on the governance contract to prevent any malicious activity from the founder. A rewards distribution of 10% has been set aside for the team for audits & operational expenses, an allocation which can reportedly be adjusted through governance.",
+  "tags": [
+    "DEX",
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://sushi.com",
+    "try": "https://sushi.com",
+    "twitter": "https://twitter.com/sushiswap",
+    "medium": "https://sushiswapchef.medium.com/",
+    "github": "https://github.com/sushiswap",
+    "discord": "https://discord.com/invite/NVPXN4e"
+  }
+}

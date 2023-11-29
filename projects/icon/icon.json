@@ -1,0 +1,46 @@
+{
+  "id": "icon",
+  "slug": "icon",
+  "name": "ICON",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "icon-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "icon-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "icon-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Building a global decentralized network",
+  "description": "The ICON Project aims to build a decentralized network that allows independent blockchains with different governances to transact with one another without intermediaries. Anyone can create a new blockchain project and join the network. A new blockchain project is free to connect with existing projects and create new unique worlds, or blockchain multiverse. ICON itself can be viewed as both a living organism and an ecosystem.\r\n\r\nBTP (Blockchain Transmission Protocol) is a standard that renders heterogeneous blockchains interoperable, including blockchains that entail completely different consensus models and algorithms. Here, we define interoperability as the ability to facilitate value transfer, service invocation, and data exchange. These siloed operating blockchains can securely anchor transactions through a universal standard as a trustless settlement layer.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.icon.foundation/",
+    "try": "https://www.icon.foundation/",
+    "twitter": "https://twitter.com/@helloiconworld",
+    "medium": "https://medium.com/helloiconworld",
+    "telegram": "https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA",
+    "github": "https://github.com/icon-project",
+    "discord": "https://discord.com/invite/7a75Hf3cFm"
+  }
+}

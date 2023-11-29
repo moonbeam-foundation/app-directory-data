@@ -1,0 +1,43 @@
+{
+  "id": "btse",
+  "slug": "btse",
+  "name": "BTSE",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "btse-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "btse-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "btse-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Multi-currency spot & futures trading platform designed for simplicity and security",
+  "description": "Our aim is to integrate digital assets with the existing financial world infrastructure, leveraging cryptocurrencies’ decentralization to increase convenience and accessibility. The technology is here—it’s past time to connect it to the world.",
+  "tags": [
+    "On-ramp"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.btse.com/en/home",
+    "try": "https://www.btse.com/en/home",
+    "twitter": "https://twitter.com/BTSEcom",
+    "medium": "https://btse-official.medium.com/",
+    "telegram": "https://t.me/btsecom"
+  }
+}

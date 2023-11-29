@@ -1,0 +1,45 @@
+{
+  "id": "axelar",
+  "slug": "axelar",
+  "name": "AXELAR",
+  "category": "bridges",
+  "coinGeckoId": "axelar-network",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "axelar-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "axelar-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "axelar-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Connecting dapps with  Blockchain Ecosystem",
+  "description": "AXELAR, Making cross-chain communication as simple as using http/https. It is a decentralized interoperability fabric that connects blockchain ecosystems, applications and users.\r\n\r\nIt developed by the founding team members of Algorand, and their team, is powered by a decentralized network and designed explicitly to frictionlessly connect all blockchain ecosystems that speak different languages. Axelar fabric connects stand alone blockchains, such as the Bitcoin Network and Ethereum, and cross-chain hubs, such as Cosmos or Polkadot, to enable developers to operate using a universal protocol and API. This will save dApp developers from rewriting their applications as new bridges are developed. Axelar is powered by a decentralized open network of validators that collectively run a byzantine consensus protocol, meaning that the system will continue to run even where some of the nodes may act maliciously or fail.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://axelar.network/",
+    "try": "https://axelar.network/",
+    "twitter": "https://twitter.com/axelarcore",
+    "telegram": "https://t.me/axelarnetwork",
+    "github": "https://github.com/axelarnetwork/axelar-local-gmp-examples",
+    "discord": "https://discord.com/invite/aRZ3Ra6f7D"
+  }
+}

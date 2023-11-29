@@ -1,0 +1,42 @@
+{
+  "id": "truestaking",
+  "slug": "truestaking",
+  "name": "TrueStaking",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "truestaking-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "truestaking-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "truestaking-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Secure Dependable Staking as A Service",
+  "description": "TrueStaking is a group of engineers dedicated to creating fast, secure, and dependable validation nodes that support the future of web 3.0. Their goal is to equip investors with the highest returns in secure positions.\r\n\r\nAll validator nodes we run are available to both private and public investors. Follow the guides below to learn how to stake with us. For those interested in staking large quantities of coins, contact us for specialized returns.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://truestaking.com/",
+    "try": "https://truestaking.com/",
+    "twitter": "https://twitter.com/TrueStaking",
+    "telegram": "https://t.me/truestakingcardano"
+  }
+}

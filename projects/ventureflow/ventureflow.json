@@ -1,0 +1,42 @@
+{
+  "id": "ventureflow",
+  "slug": "ventureflow",
+  "name": "Venture Flow",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ventureflow-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ventureflow-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ventureflow-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "VentureFlow - the ultimate Web3 VC SaaS platform",
+  "description": "VentureFlow is a comprehensive SaaS platform designed for Web3 venture capital firms, with a focus on streamlining various aspects of the investment process. Its features include lead, investment, and deal flow management, which enable different roles within the firm to collaborate effectively. The tool also offers vesting schedule reminders, portfolio analysis, and other functionalities to empower the team and improve the overall efficiency of the firm.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.ventureflow.xyz/",
+    "try": "https://www.ventureflow.xyz/",
+    "twitter": "https://twitter.com/VentureFlow_xyz",
+    "github": "https://github.com/ventureflow"
+  }
+}

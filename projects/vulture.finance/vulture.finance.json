@@ -1,0 +1,44 @@
+{
+  "id": "vulture.finance",
+  "slug": "vulture.finance",
+  "name": "Vulture Finance",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "vulture.finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "vulture.finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "vulture.finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "One stop platform for stableswaps",
+  "description": "Single sided AMM designed to efficiently exchange stable cryptocurrencies. Low Slippage. Single-token provision. Gamification.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "http://vulture.finance/",
+    "try": "http://vulture.finance/",
+    "twitter": "https://twitter.com/Vulturefi",
+    "medium": "https://medium.com/@vulturefi",
+    "telegram": "https://t.me/vulturefi",
+    "discord": "https://discord.gg/G3dDJDcStW"
+  }
+}

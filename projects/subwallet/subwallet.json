@@ -1,0 +1,46 @@
+{
+  "id": "subwallet",
+  "slug": "subwallet",
+  "name": "SubWallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "subwallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "subwallet-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "subwallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web3 Multiverse Gateway for Polkadot & Kusama Ecosystem",
+  "description": "Track, send, receive and monitor multi-chain assets with ease.",
+  "tags": [
+    "Wallets",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://subwallet.app/",
+    "try": "https://subwallet.app/",
+    "twitter": "https://twitter.com/subwalletapp",
+    "telegram": "https://t.me/subwallet",
+    "github": "https://github.com/Koniverse",
+    "discord": "https://discord.gg/vPCN4vdB8v"
+  }
+}

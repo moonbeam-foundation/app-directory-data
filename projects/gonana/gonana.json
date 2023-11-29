@@ -1,0 +1,43 @@
+{
+  "id": "gonana",
+  "slug": "gonana",
+  "name": "Gonana",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "gonana-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "gonana-logo-large.jpeg",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "gonana-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Gonana is a unique and easy-to-use marketplace deployed on Moonbeam for farmers worldwide",
+  "description": "Gonana is a Moonbeam-based project that aims to create a fully transparent, cross-chain, and scalable marketplace that connects farmers and allows them to trade their agricultural products on the global market with a crypto payment option and a DEX for full Defi experience.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.gonana.farm/",
+    "try": "https://www.gonana.farm/",
+    "twitter": "https://twitter.com/Gonanafarm",
+    "medium": "https://medium.com/@gonana_farm",
+    "telegram": "https://t.me/Gonanafarm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cointool",
+  "slug": "cointool",
+  "name": "Coin Tool",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "cointool-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "cointool-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "cointool-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "An online digital currency toolbox",
+  "description": "A convenient blockchain tool for the majority of cryptocurrency enthusiasts to meet various needs.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://cointool.app/dashboard",
+    "try": "https://cointool.app/dashboard",
+    "twitter": "https://twitter.com/cointool",
+    "telegram": "https://t.me/cointool"
+  }
+}

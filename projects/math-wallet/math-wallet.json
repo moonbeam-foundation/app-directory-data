@@ -1,0 +1,46 @@
+{
+  "id": "math-wallet",
+  "slug": "math-wallet",
+  "name": "Math Wallet",
+  "category": "wallets",
+  "coinGeckoId": "math",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "math-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "math-wallet-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "math-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "World's First Insured Crypto Wallet",
+  "description": "Math Wallet is the World's First Insured Crypto Wallet. Your Entry to the Crypto DApps.\r\n\r\nYour gate to the blockchain DApps. Enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS, TRON, ONT/ONG, ENU/Telos/EOSC/BOS, Binance Chain, Cosmos/IRIS tokens.",
+  "tags": [
+    "Wallets",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.mathwallet.org",
+    "try": "https://www.mathwallet.org",
+    "twitter": "https://twitter.com/Mathwallet",
+    "telegram": "https://t.me/mathwallet",
+    "github": "https://github.com/mathwallet/"
+  }
+}

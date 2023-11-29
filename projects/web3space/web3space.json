@@ -1,0 +1,41 @@
+{
+  "id": "web3space",
+  "slug": "web3space",
+  "name": "WEB3Space",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "web3space-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "web3space-logo-large.jpeg",
+      "width": 255,
+      "height": 255,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "web3space-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Provide a variety of services for Web3 ecosystems",
+  "description": "WEB3Space is a team of professional analysts and validators providing services in Web3. WEB3Space uses highly secure industry-grade infrastructure for next-generation blockchain operations. They provide a variety of services for Web3 ecosystems.\n\nWEB 3 industry Evolution of the financial sector developmentEarn the following areas with us: Reliable and highly profitable nominate / stakingInstalling Node in the ecosystems of Ethereum, Polkadot, Kusama, Cosmos and othersAutomated selection of digital assets for purchase / sale based on 20 criteriaInvesting in startup projects with maximum allocation.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://web3-space.com/",
+    "try": "https://web3-space.com/",
+    "twitter": "https://twitter.com/web3spacecom",
+    "telegram": "https://t.me/web3spacecom"
+  }
+}

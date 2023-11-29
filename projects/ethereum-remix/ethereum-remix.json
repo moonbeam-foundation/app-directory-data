@@ -1,0 +1,43 @@
+{
+  "id": "ethereum-remix",
+  "slug": "ethereum-remix",
+  "name": "Remix IDE",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "ethereum-remix-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "ethereum-remix-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "ethereum-remix-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Ethereum IDE and tools for the web.",
+  "description": "Remix Project is a platform for development tools that use a plugin architecture. It encompasses sub-projects including Remix Plugin Engine, Remix Libs, and Remix-IDE. Remix is used for the entire journey of contract development as well as learning and teaching Ethereum.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://remix.ethereum.org/",
+    "try": "https://remix.ethereum.org/",
+    "twitter": "https://twitter.com/EthereumRemix",
+    "medium": "https://medium.com/remix-ide",
+    "github": "https://github.com/ethereum/remix-ide"
+  }
+}

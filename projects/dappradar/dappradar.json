@@ -1,0 +1,43 @@
+{
+  "id": "dappradar",
+  "slug": "dappradar",
+  "name": "DappRadar",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dappradar-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dappradar-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dappradar-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The World’s Dapp Store",
+  "description": "Discover, Track & Trade Everything DeFi, NFT and Gaming",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://dappradar.com/",
+    "try": "https://dappradar.com/",
+    "twitter": "https://twitter.com/dappradar",
+    "telegram": "https://t.me/joinchat/GdhNjQ8PMhCZ_a0CZutmXg"
+  }
+}

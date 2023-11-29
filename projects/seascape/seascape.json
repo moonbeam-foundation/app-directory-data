@@ -1,0 +1,47 @@
+{
+  "id": "seascape",
+  "slug": "seascape",
+  "name": "Seascape",
+  "category": "gaming",
+  "coinGeckoId": "seascape-crowns",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "seascape-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "seascape-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "seascape-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Ultimate Game Platform Designed Around the DeFi & NFT Economy.",
+  "description": "Seascape, The Ultimate Game Platform Designed Around the DeFi & NFT Economy. It is an incentivized ecosystem consisting of gamers, developers, and influencers. By gamifying decentralized finance and removing complex barriers, the Seascape Network allows users to seamlessly enter the world of blockchain games and decentralized finance – financially incentivizing both playtime and game development. Powered by the Crowns token, Seascape games will reward all key stakeholders through their revolutionary play-to-earn game philosophy.",
+  "tags": [
+    "Gaming",
+    "NFT",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.seascape.network/",
+    "try": "https://www.seascape.network/",
+    "twitter": "https://twitter.com/seascapenetwork",
+    "medium": "https://medium.com/seascape-network",
+    "telegram": "https://t.me/seascapenetwork"
+  }
+}

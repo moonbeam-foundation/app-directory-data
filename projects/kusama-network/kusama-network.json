@@ -1,0 +1,41 @@
+{
+  "id": "kusama-network",
+  "slug": "kusama-network",
+  "name": "Kusama Statemine",
+  "category": "other",
+  "coinGeckoId": "kusama",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "kusama-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "kusama-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "kusama-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Kusama is a scalable multi-chain network for radical innovation and early stage on Polkadot",
+  "description": "",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://kusama.network/",
+    "try": "https://kusama.network/",
+    "twitter": "https://twitter.com/ku"
+  }
+}

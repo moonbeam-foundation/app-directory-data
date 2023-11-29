@@ -1,0 +1,44 @@
+{
+  "id": "bitok",
+  "slug": "bitok",
+  "name": "BitOK",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "bitok-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "bitok-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "bitok-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Portfolio tracker with AML and Tax perks",
+  "description": "BitOK enables users to (a) monitor all wallet activity including DeFi; (b) add private notes, files and tags to any transaction; (c) calculate taxes; (d) generate tax forms and other documents for banks/exchanges; (e) mitigate AML risks. BitOK supports 50+ wallets (custodial and non-custodial), exchanges and blockchains, including Moonbeam and Moonriver.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://bitok.org/",
+    "try": "https://bitok.org/",
+    "twitter": "https://twitter.com/BitOK_org",
+    "telegram": "https://t.me/+G-JiqG-HRVE5YmRi",
+    "discord": "https://discord.com/channels/989151587333177407/989155452149452841"
+  }
+}

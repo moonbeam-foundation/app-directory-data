@@ -1,0 +1,43 @@
+{
+  "id": "my-wish",
+  "slug": "my-wish",
+  "name": "My Wish",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "my-wish-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "my-wish-logo-large.jpeg",
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "my-wish-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Create your smart contract without coding",
+  "description": "MyWish aims to provide the global crypto community with all the advantages of a multichain approach allowing to reach a wider range of assets, users, markets, ecosystems, and many more.\r\n\r\nAlong with the increasing interest in blockchain technologies the number of ventures, projects, and individuals willing to join the fast-growing business and technological trends as well as bringing their ideas to tokenization is speedily growing. The need for automated and simple means of bringing new projects to the blockchain. Nonetheless, the growing demand for blockchain tech and the interest among the community, the number of trusted tooling providers on the market, especially ones with a diverse tooling portfolio has appeared. Here comes MyWish — the leading smart contracts generator with a long market presence and positive experience of cooperation with such big market players as Binance, Polygon, Neo, Bancor, and others.",
+  "tags": [
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://mywish.io/",
+    "try": "https://mywish.io/",
+    "twitter": "https://twitter.com/mywishplatform",
+    "medium": "https://medium.com/@VladimirTikhomirov",
+    "telegram": "https://t.me/MyWish_platform",
+    "github": "https://github.com/mywishplatform"
+  }
+}

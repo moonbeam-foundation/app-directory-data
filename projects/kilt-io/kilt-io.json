@@ -1,0 +1,45 @@
+{
+  "id": "kilt-io",
+  "slug": "kilt-io",
+  "name": "KILT Protocol",
+  "category": "other",
+  "coinGeckoId": "kilt-protocol",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "kilt-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "kilt-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "kilt-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "KILT is a blockchain protocol for issuing self-sovereign, anonymous, revocable, verifiable credentials and decentralised identifiers.",
+  "description": "KILT uses blockchain technology to represent digital identity without intermediaries. It provides a secure way to create, issue, and verify digital credentials.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.kilt.io/",
+    "try": "https://www.kilt.io/",
+    "twitter": "https://twitter.com/Kiltprotocol",
+    "telegram": "https://t.me/KILTProtocolChat",
+    "github": "https://github.com/KILTprotocol",
+    "discord": "https://discord.com/invite/HztRqvzbhG"
+  }
+}

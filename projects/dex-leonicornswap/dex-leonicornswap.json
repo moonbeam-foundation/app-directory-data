@@ -1,0 +1,45 @@
+{
+  "id": "dex-leonicornswap",
+  "slug": "dex-leonicornswap",
+  "name": "Jungle|Leonicorn Swap",
+  "category": "dex",
+  "coinGeckoId": "leonicorn-swap",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dex-leonicornswap-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "dex-leonicornswap-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "dex-leonicornswap-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Multi-chain aggregator\nOne place to swap all dex tokens",
+  "description": "Leonicorn Swap is an advanced Automated Market Maker AMM based, dual token model, dex, with multifunctional features. Our aim is to deliver the next generation of efficient DeFi solutions built on blockchain technology. A user-friendly and security focused DeFi solution built for, and run for, you - with access to unparalleled live support, and vibrant online communities.",
+  "tags": [
+    "DEX",
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://dex.leonicornswap.com/",
+    "try": "https://dex.leonicornswap.com/",
+    "twitter": "https://twitter.com/swapleonicorn",
+    "telegram": "https://t.me/leonicornswap",
+    "discord": "https://discord.gg/bG9RqyGKwE"
+  }
+}

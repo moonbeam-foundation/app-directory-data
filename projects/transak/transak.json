@@ -1,0 +1,44 @@
+{
+  "id": "transak",
+  "slug": "transak",
+  "name": "Transak",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "transak-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "transak-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "transak-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Let mainstream users buy crypto in your app",
+  "description": "Onboard more users to crypto and increase revenue through a simple developer integration.",
+  "tags": [
+    "On-ramp",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://transak.com/",
+    "try": "https://transak.com/",
+    "twitter": "https://twitter.com/transak_",
+    "medium": "https://medium.com/@transak",
+    "telegram": "https://t.me/transakfinance",
+    "discord": "https://discord.gg/KeT6QZV"
+  }
+}
