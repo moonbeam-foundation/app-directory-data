@@ -84,10 +84,19 @@ export type MarketData = {
   marketCapChange24h?: number;
 };
 
+export enum ProjectStatus {
+  ACTIVE = "active",
+  INACTIVE = "inactive",
+  REVIEW = "review",
+  ARCHIVED = "archived",
+  DELETED = "deleted",
+}
+
 export interface AppDirProject {
   [idKey]: string;
   [slugKey]: string; // moonwell
   chains: string[];
+  status: ProjectStatus;
   shortDescription: string;
   defiLLamaTvlExist?: boolean;
   defiLLamaId?: string;
