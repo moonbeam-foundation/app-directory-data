@@ -6,6 +6,10 @@ const fieldsToUpdate = {
   created_at: "projectCreationDate",
 };
 
+const fieldsToConvert = {
+  created_at: "date",
+};
+
 async function main() {
   const scrappedProjects = allScraped.map((d) => d.fields);
 
@@ -23,8 +27,19 @@ async function main() {
     Object.keys(fieldsToUpdate).forEach((key) => {
       const newKey = fieldsToUpdate[key];
       const value = foundScrapped[key];
+      const convert = fieldsToConvert[key];
 
-      if (value) {
+      console.log(`${"*".repeat(20)}`);
+      console.log(`/scripts/updateDataFromScrapped.js:32`);
+      console.log(`${"*".repeat(20)}`);
+      console.log("* convert = ", convert);
+      console.log("*".repeat(60));
+
+      if (value && convert === "date") {
+        toUpdate[newKey] = new Date(value).getTime();
+      }
+
+      if (value && !convert) {
         toUpdate[newKey] = value;
       }
     });
