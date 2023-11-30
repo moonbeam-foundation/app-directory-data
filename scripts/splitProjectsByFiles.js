@@ -6,6 +6,8 @@ async function main() {
     const projectPath = `./projects/${project.slug}`;
     const path = `${projectPath}/${project.slug}.json`;
     await mkdir(projectPath, { recursive: true });
+
+    // ! currently it is overwriting the file, later we will need to change that when data in files will have already new fields !!!!!
     await writeFile(path, JSON.stringify(project, null, 2));
   }
 }
