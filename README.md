@@ -30,6 +30,14 @@ Example:
 }
 ```
 
+Size list:
+
+```
+429 x 200
+858 x 400
+1716 x 800
+```
+
 ## Project Type
 
 ```typescript

@@ -1,0 +1,40 @@
+{
+  "id": "talisman",
+  "slug": "talisman",
+  "name": "Talisman Wallet",
+  "category": "wallets",
+  "chains": ["moonbeam", "moonriver"],
+  "logo": {
+    "small": {
+      "fileName": "talisman-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "talisman-logo-large.png",
+      "width": 328,
+      "height": 328,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "talisman-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Talisman is a web3 wallet that unlocks a universe of applications in Polkadot and Kusama.",
+  "description": " Allows you to create, own and manage your accounts and safely store, send and receive assets.",
+  "tags": ["Wallets"],
+  "contracts": [],
+  "urls": {
+    "website": "https://talisman.xyz",
+    "try": "https://talisman.xyz",
+    "twitter": "https://twitter.com/wearetalisman",
+    "medium": "https://medium.com/we-are-talisman",
+    "github": "https://github.com/TalismanSociety",
+    "discord": "https://discord.com/invite/talisman"
+  },
+  "projectCreationDate": 1653967827000
+}
