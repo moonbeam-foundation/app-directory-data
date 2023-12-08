@@ -30,6 +30,14 @@ Example:
 }
 ```
 
+Size list:
+
+```
+429 x 200
+858 x 400
+1716 x 800
+```
+
 ## Project Type
 
 ```typescript
@@ -84,10 +92,19 @@ export type MarketData = {
   marketCapChange24h?: number;
 };
 
+export enum ProjectStatus {
+  ACTIVE = "active",
+  INACTIVE = "inactive",
+  REVIEW = "review",
+  ARCHIVED = "archived",
+  DELETED = "deleted",
+}
+
 export interface AppDirProject {
   [idKey]: string;
   [slugKey]: string; // moonwell
   chains: string[];
+  status: ProjectStatus;
   shortDescription: string;
   defiLLamaTvlExist?: boolean;
   defiLLamaId?: string;
@@ -111,6 +128,7 @@ export interface AppDirProject {
   urls: Urls;
   marketData?: MarketData;
   web3goIDs?: string[];
+  projectCreationDate?: number;
 }
 
 export interface SmartContracts {

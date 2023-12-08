@@ -40,5 +40,6 @@
     "telegram": "https://t.me/etherspot",
     "github": "https://github.com/etherspot/etherspot-sdk",
     "discord": "https://chat.pillar.fi/"
-  }
+  },
+  "projectCreationDate": 1656592948000
 }
