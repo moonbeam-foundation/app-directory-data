@@ -1,0 +1,44 @@
+{
+  "id": "pickle-finance",
+  "slug": "pickle-finance",
+  "name": "Pickle Finance",
+  "category": "defi",
+  "coinGeckoId": "pickle-finance",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "pickle-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "pickle-finance-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "pickle-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The set and forget yield maximizer",
+  "description": "Pickle Finance auto-compounds rewards to boost yields.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.pickle.finance/",
+    "try": "https://www.pickle.finance/",
+    "twitter": "https://twitter.com/picklefinance",
+    "discord": "https://discord.com/invite/uG6WhYkM8n"
+  },
+  "projectCreationDate": 1651158489000
+}

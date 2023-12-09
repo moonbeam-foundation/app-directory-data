@@ -1,0 +1,43 @@
+{
+  "id": "chainspot",
+  "slug": "chainspot",
+  "name": "Chainspot",
+  "category": "bridges",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "chainspot-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "chainspot-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "chainspot-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Chainspot aggregates cross-chain solutions such as Router, Gas Charger and Analytics (114+ bridges)",
+  "description": "Chainspot is an aggregator of the best cross-chain solutions for users and developers\nExplore data on 100+ Bridges, get the best swap rates in our Router (20+ chains, 12+ bridges and 2 partner routers with $7B+ liquidity integrated), top up your wallets in 11+ chains with Gas Charger. Find the best analytical data (reports, expert articles, detailed on-chain statistics, etc.), rankings and lists with live on-chain metrics.",
+  "tags": [
+    "Bridges",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://chainspot.io/",
+    "try": "https://chainspot.io/",
+    "twitter": "https://twitter.com/ChainspotIO",
+    "telegram": "https://t.me/chainspot_chat"
+  },
+  "projectCreationDate": 1695066432000
+}

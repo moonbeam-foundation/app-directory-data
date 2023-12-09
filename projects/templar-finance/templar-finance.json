@@ -1,0 +1,51 @@
+{
+  "id": "templar-finance",
+  "slug": "templar-finance",
+  "name": "Templar DAO",
+  "category": "defi",
+  "coinGeckoId": "templar-dao",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "templar-finance-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "templar-finance-logo-large.jpeg",
+      "width": 390,
+      "height": 390,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "templar-finance-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "TemplarDAO is a decentralized reserve currency and hedge fund featuring a proprietary treasury-reverse protocol available cross-chain on BSC, Moonriver and Harmony",
+  "description": "TemplarDAO 🛡⚔️ is a decentralised reserve currency and a multi-chain hedge fund ",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [
+    {
+      "contract": "0xd86e3f7b2ff4e803f90c799d702955003bca9875",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://templar.finance/",
+    "try": "https://templar.finance/",
+    "twitter": "https://twitter.com/TemplarDAO",
+    "medium": "https://medium.com/@templardao.finance",
+    "telegram": "https://t.me/TemplarDAO",
+    "github": "https://github.com/TemplarDAO",
+    "discord": "https://discord.gg/8CPyGaXJwv"
+  },
+  "projectCreationDate": 1651157864000
+}

@@ -1,0 +1,45 @@
+{
+  "id": "litentry",
+  "slug": "litentry",
+  "name": "Litentry",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "litentry-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "litentry-logo-large.jpeg",
+      "width": 383,
+      "height": 383,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "litentry-logo-full.jpeg",
+      "width": 383,
+      "height": 383,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Adding privacy to blockchains. We help you to make your pseudonymous identity tangible without being seen. As a decentralized identity aggregator, we provide the structure and tools to empower you and your digital identity. ",
+  "description": "Make Your Digital Identity Tangible. Without Being Seen. The Litentry IdentityHub allows you to aggregate your personal data from blockchains and platforms to manage granular access to dApps.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.litentry.com/",
+    "try": "https://www.litentry.com/",
+    "twitter": "https://twitter.com/litentry",
+    "medium": "https://litentry.medium.com/",
+    "telegram": "https://t.me/litentry",
+    "discord": "https://discord.gg/6KxSqDPgWh"
+  },
+  "projectCreationDate": 1697647009000
+}

@@ -1,0 +1,43 @@
+{
+  "id": "renprotocol",
+  "slug": "renprotocol",
+  "name": "Ren Foundation",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "renprotocol-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "renprotocol-logo-large.jpeg",
+      "width": 398,
+      "height": 398,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "renprotocol-logo-full.jpeg",
+      "width": 398,
+      "height": 398,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Ren is a distributed network that enables the movement of value between blockchains.",
+  "description": "The first version of Ren became the first widely-used interoperability protocol with support for bitcoin. It facilitated over $13 billion in cross-chain volume between 5 UTXO-based and 12 account-based blockchains, including the largest EVM chains, Solana, and Cosmos chains via Kava, allowing bitcoin holders to participate in DeFi for the first time.\n",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://renprotocol.org/",
+    "try": "https://renprotocol.org/",
+    "twitter": "https://twitter.com/renprotocol",
+    "github": "https://github.com/renprotocol",
+    "discord": "https://discord.gg/wbnft7K38t"
+  },
+  "projectCreationDate": 1697646249000
+}

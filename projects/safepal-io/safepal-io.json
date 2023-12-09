@@ -1,0 +1,43 @@
+{
+  "id": "safepal-io",
+  "slug": "safepal-io",
+  "name": "SafePal",
+  "category": "wallets",
+  "coinGeckoId": "safepal",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "safepal-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "safepal-io-logo-large.jpeg",
+      "width": 393,
+      "height": 393,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "safepal-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Always secure and protected, wherever you go",
+  "description": "1st Tokenized Crypto Hardware Wallet Backed by Binance ($SFP)",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://safepal.io/",
+    "try": "https://safepal.io/",
+    "twitter": "https://twitter.com/iSafePal",
+    "discord": "https://discord.gg/BuKynZqRNj"
+  },
+  "projectCreationDate": 1657124721000
+}

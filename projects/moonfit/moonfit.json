@@ -1,0 +1,44 @@
+{
+  "id": "moonfit",
+  "slug": "moonfit",
+  "name": "MoonFit",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonfit-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonfit-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonfit-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web3 & NFT Lifestyle App That Pays You Anytime You Burn Calories",
+  "description": "MoonFit is a Web3 Lifestyle App that promotes active living by rewarding users with tokens and NFTs anytime they burn calories through physical activities.",
+  "tags": [
+    "NFT",
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://linktr.ee/moonfit",
+    "try": "https://linktr.ee/moonfit",
+    "twitter": "https://twitter.com/MoonFitOfficial",
+    "telegram": "https://t.me/moonfit_official_community",
+    "discord": "https://discord.gg/hStdUVtHXp"
+  },
+  "projectCreationDate": 1654692249000
+}

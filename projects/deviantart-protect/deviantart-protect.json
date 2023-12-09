@@ -1,0 +1,42 @@
+{
+  "id": "deviantart-protect",
+  "slug": "deviantart-protect",
+  "name": "DeviantArt Protect",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "deviantart-protect-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "deviantart-protect-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "deviantart-protect-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Protect Your Art\nfrom Theft in Web3!",
+  "description": "Whether you create NFTs, digital art or prints, DeviantArt Protect will safeguard your art with the power of AI. Simply upload your images to a secure account. When potential infringement is caught, an alert is sent with an automated DMCA takedown link.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.deviantartprotect.com/",
+    "try": "https://www.deviantartprotect.com/",
+    "twitter": "https://twitter.com/DeviantArt",
+    "discord": "https://www.deviantartsupport.com/en/"
+  },
+  "projectCreationDate": 1653349616000
+}

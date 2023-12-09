@@ -1,0 +1,42 @@
+{
+  "id": "fireblocks",
+  "slug": "fireblocks",
+  "name": "Fireblocks",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "fireblocks-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "fireblocks-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "fireblocks-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "#1 Crypto and Digital Asset Platform for Institutions",
+  "description": "Thousands of crypto and digital asset businesses use Fireblocks software and APIs to custody, manage treasury operations, access DeFi, mint & burn tokens, and manage their digital asset operations.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.fireblocks.com/",
+    "try": "https://www.fireblocks.com/",
+    "twitter": "https://twitter.com/FireblocksHQ"
+  },
+  "projectCreationDate": 1651528699000
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rare-gems",
+  "slug": "rare-gems",
+  "name": "Rare Gems",
+  "category": "nfts",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "rare-gems-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "rare-gems-logo-large.png",
+      "width": 360,
+      "height": 360,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "rare-gems-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Multichain NFT marketplace.",
+  "description": "Multichain NFT marketplace\nCreated by \n@cryptosoots",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://raregems.io/my#",
+    "try": "https://raregems.io/my#",
+    "twitter": "https://twitter.com/RareGems_io",
+    "telegram": "https://t.me/cryptosoots"
+  },
+  "projectCreationDate": 1652705611000
+}

@@ -1,0 +1,44 @@
+{
+  "id": "readl",
+  "slug": "readl",
+  "name": "Readl",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "readl-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "readl-logo-large.jpeg",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "readl-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Bringing the publishing industry to web3",
+  "description": "Readl is the protocol that provides publishers and storytellers with the infrastructure to publish their content on the blockchain, while providing a user-friendly platform to enjoy any story, in any format.",
+  "tags": [
+    "NFT Marketplaces",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://readl.co/",
+    "try": "https://readl.co/",
+    "twitter": "https://twitter.com/readl_co",
+    "medium": "https://medium.com/@readlnetwork",
+    "discord": "https://discord.gg/XPTENepHqY"
+  },
+  "projectCreationDate": 1655885161000
+}

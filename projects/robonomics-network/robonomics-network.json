@@ -1,0 +1,43 @@
+{
+  "id": "robonomics-network",
+  "slug": "robonomics-network",
+  "name": "Robonomics",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "robonomics-network-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "robonomics-network-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "robonomics-network-logo-full.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Robonomics is a secure, serverless and futuristic IoT platform that connects users and smart devices. It enables the exchange of technical and economic information in the form of atomic transactions between user applications, IoT services, and complex robotics.",
+  "description": "Based on the achievements of cloud platforms, Robonomics aims to offer the IoT market safer and more advanced Internet solutions at every stage of human-machine communication. There are the main tasks for which Robonomics is being developed:",
+  "tags": [
+    "IoT",
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://robonomics.network/",
+    "try": "https://robonomics.network/",
+    "twitter": "https://twitter.com/AIRA_Robonomics",
+    "discord": "https://discord.gg/JpaN2XAmqY"
+  },
+  "projectCreationDate": 1697645342000
+}

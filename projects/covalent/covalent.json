@@ -1,0 +1,46 @@
+{
+  "id": "covalent",
+  "slug": "covalent",
+  "name": "Covalent",
+  "category": "other",
+  "coinGeckoId": "covalent",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "covalent-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "covalent-logo-large.jpeg",
+      "width": 312,
+      "height": 312,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "covalent-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The data powering the DeFi economy",
+  "description": "Covalent provides a unified API to bring full transparency and visibility to assets across all blockchain networks.\r\n\r\nCovalent is a technology company that is solving the huge infrastructure problems inhibiting blockchain adoption. Our solution bridges the entrenched world of centralized databases with the new world of distributed blockchain technologies.\r\n\r\nBlockchains provides a new frontier of development for enterprises, consumers and software developers. Due to its decentralized architecture, immutable ledger and highly secure framework, applications of the technology will impact industries ranging from finance and retail to personal identity and cryptocurrency. Covalent's solution will exponentially increase access to and adoption of distributed blockchain technologies for enterprise and consumer use cases.\r\n\r\nThe first version of Covalent was built in a weekend at a distributed systems hackathon in the fall of 2017. After winning the hackathon, we decided to turn it into a hosted service and start commercialization.\r\n\r\nOur team is comprised of industry veterans in database and distributed systems. Covalent is funded by leading venture investors, with over a decade of expertise building and scaling technology companies.",
+  "tags": [
+    "Infrastructure",
+    "GLMR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.covalenthq.com/",
+    "try": "https://www.covalenthq.com/",
+    "twitter": "https://twitter.com/covalent_hq",
+    "telegram": "https://t.me/CovalentHQ",
+    "github": "https://github.com/covalenthq"
+  },
+  "projectCreationDate": 1644828523000
+}

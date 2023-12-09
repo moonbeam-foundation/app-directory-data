@@ -1,0 +1,45 @@
+{
+  "id": "osmosis-zone",
+  "slug": "osmosis-zone",
+  "name": "Osmosis",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "osmosis-zone-logo-small.png",
+      "width": 35,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "osmosis-zone-logo-large.png",
+      "width": 512,
+      "height": 534,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "osmosis-zone-logo-full.png",
+      "width": 561,
+      "height": 585,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Osmosis makes cross-chain easy",
+  "description": "Osmosis is a Layer-1 Blockchain. Built on Osmosis is the Osmosis DEX, the first interchain decentralized exchange. Using the Osmosis DEX, you can swap IBC-enabled tokens and provide liquidity to farm yield.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://osmosis.zone/",
+    "try": "https://osmosis.zone/",
+    "twitter": "https://twitter.com/osmosiszone",
+    "medium": "https://medium.com/osmosis",
+    "telegram": "https://t.me/osmosis_chat",
+    "github": "https://github.com/osmosis-labs/osmosis",
+    "discord": "https://discord.com/invite/osmosis"
+  },
+  "projectCreationDate": 1697647363000
+}
