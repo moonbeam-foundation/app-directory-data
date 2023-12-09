@@ -1,0 +1,46 @@
+{
+  "id": "nabox-io",
+  "slug": "nabox-io",
+  "name": "Nabox",
+  "category": "wallets",
+  "coinGeckoId": "nabox",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "nabox-io-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "nabox-io-logo-large.png",
+      "width": 287,
+      "height": 287,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "nabox-io-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The Multi-Chain DID Gateway to Web3",
+  "description": "Multi-chain Wallet | DApp Explorer | Cross-Chain Swap",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://nabox.io/",
+    "try": "https://nabox.io/",
+    "twitter": "https://twitter.com/naboxwallet",
+    "medium": "https://medium.com/@naboxwallet",
+    "telegram": "https://t.me/naboxcommunity",
+    "github": "https://github.com/naboxwallet",
+    "discord": "https://discord.gg/mQVXZJXMkn"
+  },
+  "projectCreationDate": 1654789443000
+}

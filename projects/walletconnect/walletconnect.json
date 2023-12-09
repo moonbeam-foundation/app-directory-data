@@ -1,0 +1,44 @@
+{
+  "id": "walletconnect",
+  "slug": "walletconnect",
+  "name": "WalletConnect",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "walletconnect-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "walletconnect-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "walletconnect-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Any Wallet. Any Dapp. Any Chain.",
+  "description": "WalletConnect is the web3 standard to connect blockchain wallets to dapps.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://walletconnect.com/",
+    "try": "https://walletconnect.com/",
+    "twitter": "https://twitter.com/walletconnect",
+    "github": "https://github.com/WalletConnect",
+    "discord": "https://discord.com/invite/cB54BwPGru"
+  },
+  "projectCreationDate": 1654783852000
+}

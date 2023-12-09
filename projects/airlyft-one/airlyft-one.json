@@ -1,0 +1,43 @@
+{
+  "id": "airlyft-one",
+  "slug": "airlyft-one",
+  "name": "AirLyft",
+  "category": "other",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "airlyft-one-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "airlyft-one-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "airlyft-one-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Growth hacking for crypto startups",
+  "description": "Innovative tools for blockchain startups & traditional marketers alike. Run customized campaigns, distribute rewards on-chain & boost your project instantaneously.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.airlyft.one/",
+    "try": "https://www.airlyft.one/",
+    "twitter": "https://twitter.com/airlyftone",
+    "medium": "https://blog.kyte.one/",
+    "telegram": "https://t.me/kyteone"
+  },
+  "projectCreationDate": 1658188021000
+}

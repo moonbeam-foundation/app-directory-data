@@ -1,0 +1,42 @@
+{
+  "id": "publicpressure",
+  "slug": "publicpressure",
+  "name": "Public Pressure",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "publicpressure-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "publicpressure-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "publicpressure-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Support your favorite artists, own their music, get rewarded.",
+  "description": "We are the web3 music platform powered by artists, labels and fans",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.publicpressure.io/",
+    "try": "https://www.publicpressure.io/",
+    "twitter": "https://twitter.com/jointhepressure",
+    "discord": "https://discord.gg/publicpressure"
+  },
+  "projectCreationDate": 1651597275000
+}

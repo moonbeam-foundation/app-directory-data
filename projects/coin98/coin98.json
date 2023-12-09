@@ -1,0 +1,44 @@
+{
+  "id": "coin98",
+  "slug": "coin98",
+  "name": "Coin98 Finance",
+  "category": "wallets",
+  "coinGeckoId": "coin98",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "coin98-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "coin98-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "coin98-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "All In One DeFi Platform",
+  "description": "To swap, stake, borrow, lend, invest and earn with crypto at ease.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://coin98.com/",
+    "try": "https://coin98.com/",
+    "twitter": "https://twitter.com/coin98_wallet",
+    "telegram": "https://t.me/coin98wallet",
+    "discord": "https://c98.link/discord"
+  },
+  "projectCreationDate": 1654693586000
+}

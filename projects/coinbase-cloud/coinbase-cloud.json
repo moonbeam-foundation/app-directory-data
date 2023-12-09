@@ -1,0 +1,43 @@
+{
+  "id": "coinbase-cloud",
+  "slug": "coinbase-cloud",
+  "name": "Coinbase Cloud",
+  "category": "defi",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "coinbase-cloud-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "coinbase-cloud-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "coinbase-cloud-logo-full.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Build crypto products faster and with less effort. Integrate payments, trading, and more into your apps with Coinbase Cloud",
+  "description": "Powering a global community of developers building the future of web3.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.coinbase.com/cloud/products",
+    "try": "https://www.coinbase.com/cloud/products",
+    "twitter": "https://twitter.com/CoinbaseCloud"
+  },
+  "projectCreationDate": 1697650175000
+}

@@ -1,0 +1,45 @@
+{
+  "id": "snapshot",
+  "slug": "snapshot",
+  "name": "Snapshot.org",
+  "category": "dao",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "snapshot-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "snapshot-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "snapshot-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Where decisions get made",
+  "description": "Gasless soft voting client.",
+  "tags": [
+    "DAO"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://snapshot.org/#/",
+    "try": "https://snapshot.org/#/",
+    "twitter": "https://twitter.com/SnapshotLabs",
+    "telegram": "https://t.me/snapshotlabs",
+    "github": "https://github.com/snapshot-labs",
+    "discord": "https://discord.com/invite/snapshot"
+  },
+  "projectCreationDate": 1652704382000
+}

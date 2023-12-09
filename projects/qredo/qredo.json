@@ -1,0 +1,46 @@
+{
+  "id": "qredo",
+  "slug": "qredo",
+  "name": "Qredo",
+  "category": "wallets",
+  "coinGeckoId": "qredo",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "qredo-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "qredo-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "qredo-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Radical New Infrastructure",
+  "description": "We believe in the power of digital assets to revolutionise markets, opening prosperity for all. By applying our expertise in research-led technical innovation, we help the visionairies and pioneers accelerate the transition to a global capital market powered by digital assets.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.qredo.com/",
+    "try": "https://www.qredo.com/",
+    "twitter": "https://twitter.com/QredoNetwork",
+    "medium": "https://medium.com/qredo",
+    "telegram": "https://t.me/qredonetwork",
+    "github": "https://github.com/qredo",
+    "discord": "https://discord.gg/bgVPvf6"
+  },
+  "projectCreationDate": 1654788938000
+}

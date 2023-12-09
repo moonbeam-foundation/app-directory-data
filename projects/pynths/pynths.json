@@ -1,0 +1,44 @@
+{
+  "id": "pynths",
+  "slug": "pynths",
+  "name": "Peri Finance",
+  "category": "defi",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "pynths-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "pynths-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "pynths-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "LET'S PYNTHS",
+  "description": "PERI Finance is a decentralized cross-chain synthetic issuance and derivative exchange protocol that provides unlimited liquidity on Polkadot network.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.pynths.com/",
+    "try": "https://www.pynths.com/",
+    "twitter": "https://twitter.com/PERIfinance",
+    "medium": "https://medium.com/perifinance",
+    "telegram": "https://t.me/peri_global",
+    "discord": "https://discord.link/perifinance"
+  },
+  "projectCreationDate": 1651598134000
+}
