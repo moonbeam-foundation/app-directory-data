@@ -1,0 +1,44 @@
+{
+  "id": "keyfi",
+  "slug": "keyfi",
+  "name": "KeyFi",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "keyfi-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "keyfi-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "keyfi-logo-full.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Intelligent tools for managing your DeFi portfolio",
+  "description": "KeyFi is a next-generation DeFi aggregator that provides intelligent tools for managing your DeFi portfolio, seeking to solve several challenges in DeFi such as juggling multiple wallets/platforms/chains, manually comparing interest rates, and the lack of historical data.",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://keyfi.com/",
+    "try": "https://keyfi.com/",
+    "twitter": "https://twitter.com/KeyFi_app",
+    "medium": "https://keyfi-app.medium.com/",
+    "telegram": "https://t.me/keyfi_ai"
+  },
+  "projectCreationDate": 1697647782000
+}

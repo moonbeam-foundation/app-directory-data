@@ -1,0 +1,46 @@
+{
+  "id": "subspace",
+  "slug": "subspace",
+  "name": "Subspace Network",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "subspace-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "subspace-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "subspace-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Infrastructure for Web3 - delivering robust and highly distributed services at scale to power the future of the internet",
+  "description": "Subspace is a fourth generation blockchain built for the next wave of crypto creators",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://subspace.network/",
+    "try": "https://subspace.network/",
+    "twitter": "https://twitter.com/NetworkSubspace",
+    "medium": "https://medium.com/subspace-network",
+    "telegram": "https://t.me/subspace_network",
+    "github": "https://github.com/subspace",
+    "discord": "https://discord.gg/subspace-network"
+  },
+  "projectCreationDate": 1652994437000
+}

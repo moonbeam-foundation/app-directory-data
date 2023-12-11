@@ -1,0 +1,45 @@
+{
+  "id": "klever",
+  "slug": "klever",
+  "name": "Klever Finance",
+  "category": "wallets",
+  "coinGeckoId": "klever",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "klever-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "klever-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "klever-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Public Blockchain Infrastructure for the Internet",
+  "description": "Klever is the easiest place to buy, sell and store your crypto.",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://klever.finance/",
+    "try": "https://klever.finance/",
+    "twitter": "https://twitter.com/klever_io",
+    "telegram": "https://t.me/Klever_io",
+    "discord": "https://discord.gg/klever-io"
+  },
+  "projectCreationDate": 1654789193000
+}

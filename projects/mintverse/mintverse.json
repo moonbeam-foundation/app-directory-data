@@ -1,0 +1,44 @@
+{
+  "id": "mintverse",
+  "slug": "mintverse",
+  "name": "Mintverse",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mintverse-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mintverse-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mintverse-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Mint, Explore & Trade Liquid NFT Assets Across Multiple Chains",
+  "description": "Comprehensive NFT Aggregation Marketplace with a 0% trading fee",
+  "tags": [
+    "NFT Marketplaces"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.mintverse.com/",
+    "try": "https://www.mintverse.com/",
+    "twitter": "https://twitter.com/mintverse_",
+    "medium": "https://medium.com/mintverse",
+    "telegram": "https://t.me/mintverse",
+    "discord": "https://discord.com/invite/mhhnbvAaq9"
+  },
+  "projectCreationDate": 1651597514000
+}

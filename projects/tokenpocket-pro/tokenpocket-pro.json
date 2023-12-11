@@ -1,0 +1,46 @@
+{
+  "id": "tokenpocket-pro",
+  "slug": "tokenpocket-pro",
+  "name": "TokenPocket",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "tokenpocket-pro-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "tokenpocket-pro-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "tokenpocket-pro-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Make Blockchain Happen Everywhere",
+  "description": "Multi-chain, security and convenience, the portal of DApp",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.tokenpocket.pro/en",
+    "try": "https://www.tokenpocket.pro/en",
+    "twitter": "https://twitter.com/TokenPocket_TP",
+    "medium": "https://tokenpocket-gm.medium.com/",
+    "telegram": "https://t.me/tokenpocket_en",
+    "github": "https://github.com/TP-Lab",
+    "discord": "https://discord.com/invite/JxJEucA9kj"
+  },
+  "projectCreationDate": 1654789710000
+}

@@ -1,0 +1,43 @@
+{
+  "id": "moonriver-bayc",
+  "slug": "moonriver-bayc",
+  "name": "Moonriver BAYC",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonriver-bayc-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonriver-bayc-logo-large.jpeg",
+      "width": 514,
+      "height": 512,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonriver-bayc-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "1st and only derivative BAYC nft project on Moonriver",
+  "description": "A collection of 7777 apes with over 140+ traits inspired solely from the dotSama ecosystem, entirely new rarity system",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.moonriverbayc.io/",
+    "try": "https://www.moonriverbayc.io/",
+    "twitter": "https://twitter.com/moonriverbayc?s=11",
+    "medium": "https://medium.com/@MoonriverBAYC/hello-introduce-yourself-cf0d2db80b66",
+    "discord": "https://discord.gg/J637WNXyqX"
+  },
+  "projectCreationDate": 1655952556000
+}

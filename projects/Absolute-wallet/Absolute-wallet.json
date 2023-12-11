@@ -1,0 +1,41 @@
+{
+  "id": "Absolute-wallet",
+  "slug": "Absolute-wallet",
+  "name": "Absolute Wallet",
+  "category": "wallets",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "Absolute-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "Absolute-wallet-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "Absolute-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Initiated by the community in 2019, Absolute is a fun-focused ecosystem with all the benefits of decentralization without the fuss.",
+  "description": "",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://t.me/AbsoluteWallet",
+    "try": "https://t.me/AbsoluteWallet",
+    "telegram": "https://t.me/AbsoluteWallet"
+  },
+  "projectCreationDate": 1655938198000
+}

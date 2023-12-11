@@ -1,0 +1,45 @@
+{
+  "id": "forbole",
+  "slug": "forbole",
+  "name": "Forbole",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "forbole-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "forbole-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "forbole-logo-full.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "We are a fast-growing crypto and web3 tech company, specializing in providing infrastructure, staking-related services, and software development for various blockchain networks, institutions, and end-users.",
+  "description": "Innovative blockchain technology company in the web3 era. Building decentralized infrastructure. Securing 60+ networks",
+  "tags": [
+    "Validator",
+    "Tool",
+    "Staking"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.forbole.com/",
+    "try": "https://www.forbole.com/",
+    "twitter": "https://twitter.com/forbole",
+    "telegram": "https://t.me/forbole"
+  },
+  "projectCreationDate": 1697650578000
+}

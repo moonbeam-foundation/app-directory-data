@@ -1,0 +1,41 @@
+{
+  "id": "moonbeam-safe",
+  "slug": "moonbeam-safe",
+  "name": "Moonbeam Safe",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonbeam-safe-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "moonbeam-safe-logo-large.png",
+      "width": 512,
+      "height": 512,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "moonbeam-safe-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The most trusted platform to manage digital assets",
+  "description": "Multi-signature wallet based on Gnosis Safe",
+  "tags": [
+    "Wallets"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://multisig.moonbeam.network/",
+    "try": "https://multisig.moonbeam.network/"
+  },
+  "projectCreationDate": 1653971478000
+}

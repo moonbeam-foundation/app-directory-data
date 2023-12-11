@@ -1,0 +1,44 @@
+{
+  "id": "hyperlane",
+  "slug": "hyperlane",
+  "name": "Hyperlane",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "hyperlane-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "hyperlane-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "hyperlane-logo-full.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Hyperlane was built to cater to the modular future of blockchains",
+  "description": "Hyperlane is the first universal and permissionless interoperability layer built for the modular blockchain stack.",
+  "tags": [
+    "Developer Tools"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.hyperlane.xyz/",
+    "try": "https://www.hyperlane.xyz/",
+    "twitter": "https://twitter.com/hyperlane_xyz",
+    "medium": "https://medium.com/hyperlane",
+    "github": "https://github.com/hyperlane-xyz",
+    "discord": "https://discord.gg/VK9ZUy3aTV"
+  },
+  "projectCreationDate": 1697646562000
+}

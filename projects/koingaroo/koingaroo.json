@@ -1,0 +1,43 @@
+{
+  "id": "koingaroo",
+  "slug": "koingaroo",
+  "name": "Koingaroo",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "koingaroo-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "koingaroo-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "koingaroo-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Earn yield on multiple chains in 60 seconds. Multichain investing on one app. Fully self-custodial. Your keys, your crypto.",
+  "description": "Koingaroo = self-custody investing across chains in 60 seconds",
+  "tags": [
+    "DeFi",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.koingaroo.com/",
+    "try": "https://www.koingaroo.com/",
+    "twitter": "https://twitter.com/usekoingaroo",
+    "discord": "https://discord.com/invite/dpPDNreeQ3"
+  },
+  "projectCreationDate": 1690488244000
+}

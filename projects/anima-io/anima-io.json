@@ -1,0 +1,43 @@
+{
+  "id": "anima-io",
+  "slug": "anima-io",
+  "name": "Anima",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "anima-io-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "anima-io-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "anima-io-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Your Decentralized Identity and reusable KYC for a frictionless experience on Web3 Come help us build the future of decentralized ID",
+  "description": "Anima is what we call a self sovereign identity. It allows you to self manage your digital identity in a decentralized way. With Anima, you get back control on your data and digital identity.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://anima.io/",
+    "try": "https://anima.io/",
+    "twitter": "https://twitter.com/anima_protocol",
+    "medium": "https://medium.com/@anima_protocol",
+    "telegram": "https://t.me/animadid"
+  },
+  "projectCreationDate": 1654694304000
+}

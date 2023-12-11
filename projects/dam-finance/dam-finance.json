@@ -1,0 +1,43 @@
+{
+  "id": "dam-finance",
+  "slug": "dam-finance",
+  "name": "DAM Finance",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "dam-finance-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "dam-finance-logo-large.png",
+      "width": 250,
+      "height": 250,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "dam-finance-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "The Global Liquidity Layer",
+  "description": "DAM is an omnichain liquidity infrastructure for facilitating the flow of value to where it’s needed most. d2O is DAM's overcollateralized, omnichain stablecoin designed to provide emerging networks an immediate solution for scaling native stablecoin liquidity.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://dam.finance/",
+    "try": "https://dam.finance/",
+    "twitter": "https://twitter.com/DAM_Finance",
+    "medium": "https://medium.com/dam-dprime",
+    "telegram": "https://t.me/+lQCe9g0oEfM3NWE0"
+  },
+  "projectCreationDate": 1658352675000
+}

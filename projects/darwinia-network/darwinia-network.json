@@ -1,0 +1,46 @@
+{
+  "id": "darwinia-network",
+  "slug": "darwinia-network",
+  "name": "Darwinia",
+  "category": "other",
+  "chains": [
+    "moonriver",
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "darwinia-network-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "darwinia-network-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "darwinia-network-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Darwinia provides user-friendly and reliable cross-chain services and infrastructure for Dapp developers.",
+  "description": "Darwinia Network has gained a high reputation and recognition along the way to building a decentralized cross-chain bridge protocol. In 2020, Darwinia was mentioned in Polkadot light-paper as one of the friends of Polkadot and Substrate, and Darwinia was selected to join the Substrate Builder Program and Web3.0 Bootcamp, and for the outstanding achievements in the Substrate Builder Program, Darwinia Network was officially awarded the Level 2 badge by Parity. The products and tools developed by Darwinia have been awarded three Web3 Foundation grants. Polkadot founder Gavin Wood has also highlighted Darwinia Network as a “Project to watch.”",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://darwinia.network/",
+    "try": "https://darwinia.network/",
+    "twitter": "https://twitter.com/DarwiniaNetwork",
+    "medium": "https://medium.com/darwinianetwork",
+    "telegram": "https://t.me/DarwiniaNetwork",
+    "github": "https://github.com/darwinia-network",
+    "discord": "https://discord.com/invite/aQdK9H4MZS"
+  },
+  "projectCreationDate": 1654783365000
+}

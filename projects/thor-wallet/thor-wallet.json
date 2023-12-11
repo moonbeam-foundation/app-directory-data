@@ -1,0 +1,47 @@
+{
+  "id": "thor-wallet",
+  "slug": "thor-wallet",
+  "name": "THOR Wallet",
+  "category": "wallets",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "thor-wallet-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "thor-wallet-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "thor-wallet-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "The only non-custodial wallet to swap native crypto assets across chains and earn passive income on them",
+  "description": "THORWallet is the super app you’ve been waiting for. A non-custodial wallet that gives you full control over your keys. Swap coins across different native blockchains with no intermediary. Earn yield through providing liquidity or investing in the multi-chain savings-account.",
+  "tags": [
+    "Wallets",
+    "GLMR Grants",
+    "MOVR Grants"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.thorwallet.org/",
+    "try": "https://www.thorwallet.org/",
+    "twitter": "https://twitter.com/THORWalletDEX",
+    "medium": "https://thorwallet.medium.com/",
+    "telegram": "https://t.me/THORWalletOfficial",
+    "discord": "https://t.co/V9WU7WenQW"
+  },
+  "projectCreationDate": 1653350053000
+}

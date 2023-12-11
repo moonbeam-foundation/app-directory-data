@@ -1,0 +1,41 @@
+{
+  "id": "moonarines",
+  "slug": "moonarines",
+  "name": "Moonarines",
+  "category": "nfts",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonarines-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonarines-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonarines-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Be part of the conquest of the digital space",
+  "description": "The Moonarines are unique NFT characters starting soon on the Moonriver Network!\nWith the Moonarines, the NFT owners will be taken to an unforgettable adventure to explore the Cryptoverse!",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.moonarines.com/",
+    "try": "https://www.moonarines.com/",
+    "discord": "https://discord.gg/bXhSyW8htW"
+  },
+  "projectCreationDate": 1654792422000
+}

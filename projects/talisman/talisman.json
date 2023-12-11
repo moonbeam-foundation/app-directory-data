@@ -3,7 +3,10 @@
   "slug": "talisman",
   "name": "Talisman Wallet",
   "category": "wallets",
-  "chains": ["moonbeam", "moonriver"],
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
   "logo": {
     "small": {
       "fileName": "talisman-logo-small.png",
@@ -26,7 +29,9 @@
   },
   "shortDescription": "Talisman is a web3 wallet that unlocks a universe of applications in Polkadot and Kusama.",
   "description": " Allows you to create, own and manage your accounts and safely store, send and receive assets.",
-  "tags": ["Wallets"],
+  "tags": [
+    "Wallets"
+  ],
   "contracts": [],
   "urls": {
     "website": "https://talisman.xyz",

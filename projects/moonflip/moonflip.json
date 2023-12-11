@@ -1,0 +1,40 @@
+{
+  "id": "moonflip",
+  "slug": "moonflip",
+  "name": "Moon Flip",
+  "category": "gaming",
+  "chains": [
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonflip-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonflip-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonflip-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "MoonFlip (MF) is a fun flipping game on the MOVR ecosystem",
+  "description": "Flipping responsibly means regardless of win or lose,\nyou won’t be impacting your ability to pay for life's essentials,\nor your ability to care for the important people in your life.",
+  "tags": [
+    "Gaming"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.moonflip.io/",
+    "try": "https://www.moonflip.io/"
+  },
+  "projectCreationDate": 1651597824000
+}

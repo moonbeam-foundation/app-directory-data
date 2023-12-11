@@ -1,0 +1,43 @@
+{
+  "id": "moonpets",
+  "slug": "moonpets",
+  "name": "MoonPets",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "moonpets-logo-small.jpeg",
+      "width": 155,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "moonpets-logo-large.jpeg",
+      "width": 434,
+      "height": 101,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "moonpets-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Meet the notorious MoonPets. (Part of Utopia & TF Alpha)",
+  "description": "The MoonPets are 5,000 uniquely generated Pets with proof of ownership stored on the Moonbeam blockchain. No two are exactly alike, and each one of them can be officially owned by a single person on the Moonbeam blockchain.",
+  "tags": [
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://moonpets.app/",
+    "try": "https://moonpets.app/",
+    "twitter": "https://twitter.com/TFAlphaDao",
+    "telegram": "https://t.me/+6pPPLjRUwiM4NDg0",
+    "discord": "https://discord.gg/c4udeBsM"
+  },
+  "projectCreationDate": 1651829636000
+}
