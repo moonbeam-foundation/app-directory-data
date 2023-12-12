@@ -3,7 +3,7 @@
   "slug": "moonwell-apollo",
   "name": "Moonwell Apollo",
   "category": "lending",
-  "coinGeckoId": "moonwell",
+  "coinGeckoId": "moonwell-apollo",
   "chains": [
     "moonriver"
   ],
