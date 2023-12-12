@@ -1,14 +1,14 @@
 {
-  "id": "moonwell",
-  "slug": "moonwell",
-  "name": "Moonwell",
+  "id": "moonwell-apollo",
+  "slug": "moonwell-apollo",
+  "name": "Moonwell Apollo",
   "category": "lending",
-  "coinGeckoId": "moonwell-artemis",
+  "coinGeckoId": "moonwell",
   "chains": [
-    "moonbeam"
+    "moonriver"
   ],
   "web3goIDs": [
-    "Moonwell Artemis"
+    "Moonwell"
   ],
   "logo": {
     "small": {
@@ -38,9 +38,9 @@
   ],
   "contracts": [
     {
-      "contract": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "chain": "moonbeam",
-      "name": "WELL Token"
+      "contract": "0xbb8d88bcd9749636bc4d2be22aac4bb3b01a58f1",
+      "chain": "moonriver",
+      "name": "MFAM Token"
     }
   ],
   "urls": {
