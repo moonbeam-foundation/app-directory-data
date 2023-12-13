@@ -3,12 +3,8 @@
   "slug": "zoodao",
   "name": "ZooDao",
   "category": "defi",
-  "chains": [
-    "moonbeam"
-  ],
-  "web3goIDs": [
-    "ZooDAO"
-  ],
+  "chains": ["moonbeam"],
+  "web3goIDs": ["ZooDAO"],
   "logo": {
     "small": {
       "fileName": "zoodao-logo-small.png",
@@ -31,12 +27,7 @@
   },
   "shortDescription": "A cross-community NFT gaming experience powered by DeFi yields.",
   "description": "ZooDAO simplifies the on-ramp for NFT owners to interact with DeFi tools, enabling NFT owners to generate yield from their digital assets in a gamified environment. ZooDAO’s dApp enables universal NFT utility for eligible projects. Engagement in battles promotes cross-community interaction and competition, with communities rallying support to generate additional yield for NFT holders, and the voters who support them in battle.",
-  "tags": [
-    "DeFi",
-    "DAO",
-    "NFT",
-    "Gaming"
-  ],
+  "tags": ["DeFi", "DAO", "NFT", "Gaming"],
   "contracts": [],
   "urls": {
     "website": "https://zoodao.com/",

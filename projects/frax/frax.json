@@ -4,9 +4,8 @@
   "name": "Frax",
   "category": "dex",
   "coinGeckoId": "frax",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
+  "web3goIDs": ["Frax Finance"],
   "logo": {
     "small": {
       "fileName": "frax-logo-small.jpeg",
@@ -29,10 +28,7 @@
   },
   "shortDescription": "The first fractional-reserve, stable cryptocurrency.",
   "description": "Frax is the first stablecoin with an end goal of fully algorithmic mechanism that seeks to achieve this goal by beginning fully collateralized and slowly removing the collateral through on-chain smart contracts as long as the price remains stable at $1.\r\n\r\nThe protocol tests the price stability of the FRAX stablecoin by changing the collateralization to see the market’s confidence. This allows changing the collateral ratio periodically to see how much of FRAX can be algorithmically stabilized and how much of it needs collateral backing. The Frax Protocol is the first ever stablecoin to change collateralization ratios dynamically to achieve an algorithmic stablecoin.",
-  "tags": [
-    "DEX",
-    "DeFi"
-  ],
+  "tags": ["DEX", "DeFi"],
   "contracts": [
     {
       "contract": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
