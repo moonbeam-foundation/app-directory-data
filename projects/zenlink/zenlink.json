@@ -8,6 +8,9 @@
     "moonbeam",
     "moonriver"
   ],
+  "web3goIDs": [
+    "Zenlink"
+  ],
   "logo": {
     "small": {
       "fileName": "zenlink-logo-small.jpeg",
