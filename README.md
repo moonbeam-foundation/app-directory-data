@@ -17,7 +17,7 @@ Screenshots are stored in screenshots property of the project object. The proper
 ]
 ```
 
-It is very **important** to keep small images which are used in Project Info page the same size `429 x 200`
+It is very **important** to keep small images which are used in Project Info page the same size `429 x 200`!!!
 
 Example:
 
