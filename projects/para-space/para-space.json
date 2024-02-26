@@ -26,16 +26,16 @@
       "mimeType": "image/jpeg"
     }
   },
-  "shortDescription": "The first cross-margin NFT lending protocol. Access instant liquidity for your digital assets.",
+  "shortDescription": "The first cross-margin NFT lending protocol, now a product of Parallel Finance. Access instant liquidity for your digital assets.",
   "description": "ParaSpace is a decentralized lending protocol that allows users to borrow and lend against Non-Fungible and Fungible tokens alike. ParaSpace allows users to tap into otherwise-unused capital to fund further investments and earn yields on the same.",
   "tags": [
     "Lending"
   ],
   "contracts": [],
   "urls": {
-    "website": "https://para.space/",
-    "try": "https://para.space/",
-    "twitter": "https://twitter.com/ParaSpace_NFT",
+    "website": "https://parallel.fi/",
+    "try": "https://parallel.fi/",
+    "twitter": "https://twitter.com/ParallelFi",
     "discord": "https://discord.gg/v69QfmarGu"
   },
   "projectCreationDate": 1691386814000
