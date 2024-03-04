@@ -1,43 +1,43 @@
 {
-  "id": "scion-finance",
-  "slug": "scion-finance",
-  "name": "Scion Finance",
+  "id": "sector-finance",
+  "slug": "sector-finance",
+  "name": "Sector Finance",
   "category": "defi",
   "chains": [
     "moonriver"
   ],
   "logo": {
     "small": {
-      "fileName": "scion-finance-logo-small.jpeg",
+      "fileName": "sector-finance-logo-small.jpeg",
       "width": 36,
       "height": 36,
       "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "scion-finance-logo-large.jpeg",
+      "fileName": "sector-finance-logo-large.jpeg",
       "width": 262,
       "height": 262,
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "scion-finance-logo-full.jpeg",
+      "fileName": "sector-finance-logo-full.jpeg",
       "width": 3000,
       "height": 3000,
       "mimeType": "image/jpeg"
     }
   },
   "shortDescription": "Market-neutral investment strategies and financial primitives.",
-  "description": "Scion Finance is an on-chain, permissionless hedge fund/farm that offers high-yield market-neutral investment strategies.",
+  "description": "Sector Finance is an on-chain, permissionless hedge fund/farm that offers high-yield market-neutral investment strategies.",
   "tags": [
     "DeFi",
     "Tool"
   ],
   "contracts": [],
   "urls": {
-    "website": "https://scion.finance/vaults",
-    "try": "https://scion.finance/vaults",
-    "twitter": "https://twitter.com/scion_fi/",
-    "github": "https://github.com/scion-finance/contracts/tree/main/audits",
+    "website": "https://sector.finance/",
+    "try": "https://app.sector.finance/",
+    "twitter": "https://twitter.com/sector_fi",
+    "github": "https://github.com/sector-fi",
     "discord": "https://discord.gg/X8Hh3KYhAu"
   },
   "projectCreationDate": 1668440352000
