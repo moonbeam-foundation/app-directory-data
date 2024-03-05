@@ -34,9 +34,9 @@
   ],
   "contracts": [],
   "urls": {
-    "website": "https://www.kilt.io/polimec/",
-    "try": "https://www.kilt.io/polimec/",
-    "twitter": "https://twitter.com/Kiltprotocol"
+    "website": "https://www.polimec.org/",
+    "try": "https://app.polimec.org/staking",
+    "twitter": "https://twitter.com/PolimecProtocol"
   },
   "projectCreationDate": 1644828523000
 }
