@@ -29,9 +29,8 @@
   "shortDescription": "Banxa is the leading global on/off-ramp powering embedded crypto solutions.",
   "description": "Banxa's purpose is to advance a trustworthy and inclusive global financial system, empowering merchants and individuals alike, through the frictionless flow and exchange of digital assets, by anyone, anywhere, anytime. Through its focus on compliance, interoperability, and ease of use, Banxa fosters a more democratic financial landscape, where innovative solutions can thrive.",
   "tags": [
-    "DeFi",
+    "DeFi"
   ],
-  "contracts": [],
   "urls": {
     "website": "https://banxa.com/",
     "try": "https://banxa.com/",
