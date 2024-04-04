@@ -5,7 +5,7 @@
   "category": "defi",
   "coinGeckoId": "impermax",
   "chains": [
-    "moonriver",
+    "moonriver"
   ],
   "logo": {
     "small": {
@@ -47,5 +47,5 @@
     "github": "https://github.com/Impermax-Finance",
     "discord": "https://discord.com/invite/XN739EgG4X"
   },
-  "projectCreationDate": 1644828523000
+  "projectCreationDate": "1644828523000"
 }
