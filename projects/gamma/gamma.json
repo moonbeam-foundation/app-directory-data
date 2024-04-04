@@ -26,10 +26,10 @@
       "mimeType": "image/png"
     }
   },
-  "shortDescription": "A protocol for active liquidity management and market making strategies ",
+  "shortDescription": "A protocol for active liquidity management and market making strategies",
   "description": "Access active liquidity management on concentrated liquidity AMMs. Gamma has developed a protocol, management infrastructure and strategies used by managers and market makers.",
   "tags": [
-    "DeFi",
+    "DeFi"
   ],
   "contracts": [],
   "urls": {
@@ -39,5 +39,5 @@
     "medium": "https://medium.com/gamma-strategies",
     "discord": "https://discord.com/invite/gammastrategies"
   },
-  "projectCreationDate": 1712189524
+  "projectCreationDate": "1712189524"
 }
