@@ -1,0 +1,43 @@
+{
+  "id": "gamma",
+  "slug": "gamma",
+  "name": "Gamma",
+  "category": "DeFi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "gamma-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "gamma-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "gamma-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "A protocol for active liquidity management and market making strategies ",
+  "description": "Access active liquidity management on concentrated liquidity AMMs. Gamma has developed a protocol, management infrastructure and strategies used by managers and market makers.",
+  "tags": [
+    "DeFi",
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.gamma.xyz/",
+    "try": "https://www.gamma.xyz/",
+    "twitter": "https://twitter.com/GammaStrategies",
+    "medium": "https://medium.com/gamma-strategies",
+    "discord": "https://discord.com/invite/gammastrategies"
+  },
+  "projectCreationDate": 1712189524
+}
