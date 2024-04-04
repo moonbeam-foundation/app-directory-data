@@ -6,7 +6,6 @@
   "coinGeckoId": "unlend-finance",
   "chains": [
     "moonriver",
-    "moonbeam"
   ],
   "logo": {
     "small": {

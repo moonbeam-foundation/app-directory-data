@@ -5,8 +5,7 @@
   "category": "defi",
   "coinGeckoId": "impermax",
   "chains": [
-    "moonbeam",
-    "moonriver"
+    "moonriver",
   ],
   "logo": {
     "small": {

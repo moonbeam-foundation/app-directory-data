@@ -1,0 +1,43 @@
+{
+  "id": "mintlabz",
+  "slug": "mintlabz",
+  "name": "Mintlabz",
+  "category": "nfts",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "mintlabz-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "mintlabz-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "mintlabz-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "MintLabz is a complete crosschain NFT solution at zero cost.",
+  "description": "MintLabz aims to establish a digital NFT minting platform for third party projects to create NFT collections with utilities to reward the NFT holder. Our mission is to become the number one choice for providing complete cross-chain NFT solutions to B2B customers.",
+  "tags": [
+    "nfts",
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://mintlabz.io/",
+    "try": "https://app.mintlabz.io/",
+    "twitter": "https://twitter.com/mintlabz",
+    "medium": "https://blog.mintlabz.io/",
+    "discord": "https://discord.com/invite/BRF2PEetea"
+  },
+  "projectCreationDate": 1712189524
+}
