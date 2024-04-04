@@ -1,0 +1,43 @@
+{
+  "id": "braindex",
+  "slug": "braindex",
+  "name": "Braindex",
+  "category": "DeFi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "braindex-logo-small.jpg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "braindex-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "braindex-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "BrainDex is a decentralized exchange aggregator and trade optimizer.",
+  "description": "BrainDex is a decentralized exchange aggregator and trade optimizer. BrainDex brings together all of the liquidity on integrated networks into a single interface and provides highly optimized swaps using all underlying protocols simultaneously.",
+  "tags": [
+    "DeFi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.braindex.io/",
+    "try": "https://www.braindex.io/swap?network=moonbeam",
+    "twitter": "https://twitter.com/BrainDexRouter",
+    "medium": "https://medium.com/@braindexrouter",
+    "discord": "https://discord.com/invite/qJcQwH7WGe"
+  },
+  "projectCreationDate": "1712189524"
+}
