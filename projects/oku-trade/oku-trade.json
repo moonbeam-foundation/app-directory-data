@@ -1,0 +1,44 @@
+{
+  "id": "oku-trade",
+  "slug": "oku-trade",
+  "name": "Oku Trade",
+  "category": "DeFi",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "oku-trade-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "oku-trade-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "oku-trade-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Oku is a frontend for the Uniswap v3 protocol that aims to transform the traditional trading experience in the DeFi ecosystem.",
+  "description": "Oku is a frontend for the Uniswap v3 protocol that aims to transform the traditional trading experience in the DeFi ecosystem. As a project initially funded by the Uniswap Foundation, Oku provides a professional and feature-rich interface for decentralized trading. With support for all existing and new pools, Oku eliminates the need for token listing requests, unlike traditional exchanges. Available on multiple chains and equipped with advanced trading features like limit orders, order books, price charts, and user order history, Oku offers a substantially improved trading experience for users.",
+  "tags": [
+    "DeFi",
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://oku.trade/",
+    "try": "https://oku.trade/app/",
+    "twitter": "https://twitter.com/okutrade",
+    "medium": "https://mirror.xyz/oku.eth",
+    "discord": "https://discord.com/invite/wak5gvc8dc",
+    "telegram": "https://t.me/OkuTelegram"
+  },
+  "projectCreationDate": 1712189524
+}
