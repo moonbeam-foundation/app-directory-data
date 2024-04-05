@@ -4,9 +4,7 @@
   "name": "UniLend",
   "category": "lending",
   "coinGeckoId": "unlend-finance",
-  "chains": [
-    "moonriver"
-  ],
+  "chains": ["moonriver"],
   "logo": {
     "small": {
       "fileName": "unilend-logo-small.jpeg",
@@ -29,9 +27,7 @@
   },
   "shortDescription": "Unlocking the True Potential of Decentralized Finance",
   "description": "UniLend is a permission-less decentralized protocol that combines spot trading services and money markets with lending and borrowing services through smart contracts.\n\nThe existing DeFi platforms act as a gatekeeper in allowing which projects to be a part of the their pool; thereby barring the majority of assets from participation in the DeFi ecosystem. Multi-asset pools also expose lenders to risk associated with all of the included assets with no control over the collaterals against which their funds can be lent.",
-  "tags": [
-    "Lending"
-  ],
+  "tags": ["Lending"],
   "contracts": [],
   "urls": {
     "website": "https://unilend.finance/",
@@ -40,5 +36,5 @@
     "medium": "https://medium.com/@UniLend",
     "telegram": "https://t.me/UniLendFinance"
   },
-  "projectCreationDate": "1644828523000"
+  "projectCreationDate": 1644828523000
 }

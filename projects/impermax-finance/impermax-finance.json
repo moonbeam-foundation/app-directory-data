@@ -4,9 +4,7 @@
   "name": "Impermax Finance",
   "category": "defi",
   "coinGeckoId": "impermax",
-  "chains": [
-    "moonriver"
-  ],
+  "chains": ["moonriver"],
   "logo": {
     "small": {
       "fileName": "impermax-finance-logo-small.jpeg",
@@ -29,9 +27,7 @@
   },
   "shortDescription": "A Better Way To Earn Yield",
   "description": "Impermax is a leveraged yield farming protocol where users can borrow and lend assets using LP tokens as collateral. It creates an efficient liquidity-providing environment and it opens up several use cases, such as lending a diverse set of tokens and leveraging LP tokens.",
-  "tags": [
-    "DeFi"
-  ],
+  "tags": ["DeFi"],
   "contracts": [
     {
       "contract": "0x900f1ec5819fa087d368877cd03b265bf1802667",
@@ -47,5 +43,5 @@
     "github": "https://github.com/Impermax-Finance",
     "discord": "https://discord.com/invite/XN739EgG4X"
   },
-  "projectCreationDate": "1644828523000"
+  "projectCreationDate": 1644828523000
 }
