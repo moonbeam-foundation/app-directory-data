@@ -2,7 +2,7 @@
   "id": "banxa",
   "slug": "banxa",
   "name": "Banxa",
-  "category": "DeFi",
+  "category": "defi",
   "chains": ["moonbeam"],
   "logo": {
     "small": {

@@ -2,7 +2,7 @@
   "id": "oku-trade",
   "slug": "oku-trade",
   "name": "Oku Trade",
-  "category": "DeFi",
+  "category": "defi",
   "chains": ["moonbeam"],
   "logo": {
     "small": {

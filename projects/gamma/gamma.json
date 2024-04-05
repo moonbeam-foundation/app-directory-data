@@ -2,7 +2,7 @@
   "id": "gamma",
   "slug": "gamma",
   "name": "Gamma",
-  "category": "DeFi",
+  "category": "defi",
   "chains": ["moonbeam"],
   "logo": {
     "small": {
