@@ -2,7 +2,7 @@
   "id": "braindex",
   "slug": "braindex",
   "name": "Braindex",
-  "category": "DeFi",
+  "category": "defi",
   "chains": ["moonbeam"],
   "logo": {
     "small": {
