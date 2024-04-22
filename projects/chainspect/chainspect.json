@@ -1,0 +1,36 @@
+{
+  "id": "chainspect",
+  "slug": "chainspect",
+  "name": "Chainspect",
+  "category": "Other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+        "fileName": "chainspect-logo-small.png",
+        "width": 40,
+        "height": 40,
+        "mimeType": "image/png"
+    },
+    "full": {
+        "fileName": "chainspect-logo-full.png",
+        "width": 3000,
+        "height": 3000,
+        "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Chainspect is an independent blockchain analytics platform focused on technicals",
+  "description": "Chainspect is an independent blockchain analytics platform focused on tracking technical metrics for your favorite networks, including Moonbeam. We track Real-Time TPS, Max Recorded TPS, Max Theoretical TPS, Block Time, TTF, and Governance Model with more metrics to come. The core of our platform is a dashboard with 30+ chains, but besides that, we have Chain Pages for each network we track and Compare Pages for comparing any two networks side by side.",
+  "tags": ["Other"],
+  "urls": {
+    "website": "https://chainspect.app/",
+    "try": "https://chainspect.app/dashboard",
+    "twitter": "https://twitter.com/chainspect_app",
+    "medium": "https://medium.com/@chainspect_app",
+    "telegram": "https://t.me/chainspect_app",
+    "github": "https://github.com/fromaline/chainspect_app",
+    "discord": "https://discord.gg/nnmJf56XYU"
+  },
+  "projectCreationDate": 1693526400000
+}
