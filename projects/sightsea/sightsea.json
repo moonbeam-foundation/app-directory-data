@@ -1,0 +1,45 @@
+{
+  "id": "sightsea",
+  "slug": "sightsea",
+  "name": "sightsea",
+  "category": "Social",
+  "coinGeckoId": "chainlink",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "sightsea-logo-small.jpg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "sightsea-logo-full.jpg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Sightsea is a decentralized social project, designed to connect users with “specialists” who have valuable knowledge and expertise to share.",
+  "description": "Sightsea, a SocialFi project, built on Moonbeam network.\r\nIn Sightsea, users can follow and connect directly with their favorite creators and others who love the same things — or build a loyal following to share their ideas, opinions, and creativity with the world.\r\nMainly, everyone has the power to invest in the success of their friends through the innovative concept of \"key\". A key serves as a means to connect directly with a preferred specialists, KOLs or other users and gain access to private group chats hosted by them.\r\nThe features of Sightsea:\r\n\r\n- PWA technology to solve a lot of issues relating to SocialFi.\r\n- Embbed Wallet: Embedded wallet is the easiest way to unlock your full product experience for users who don't have, or don't want to connect, their own wallet.\r\n- Sightsea's chatroom, a feature lets users connect with like-minded Web3 adventurers. - Bonding Curve model: A quadratic bonding curve model is implemented in Sightsea system to determine the relationship between the price and supply of keys.\r\n- Merit Point System: Each Monday, users will receive gMerit points randomly weighted according to the key values of all users. Users can transfer gMerit to others, converting them into Merit, and these points will expire after 7 days if not transferred. Merit points will be used for ranking purposes.",
+  "tags": [
+    "Social"
+  ],
+  "contracts": [
+    {
+      "contract": "0x1047123988257DC3bF4ca1ccC2a88d8ef81334b6",
+      "chain": "moonbeam",
+      "name": "SightseaAlpha V2"
+    }
+  ],
+  "urls": {
+    "website": "https://sightsea.tech/",
+    "try": "https://play.google.com/store/apps/details?id=com.sightsea.dapp",
+    "twitter": "https://twitter.com/Sightsea_Tech",
+    "medium": "https://medium.com/@sightsea.techh",
+    "telegram": "https://t.me/sightseacommunity",
+    "github": "https://github.com/kretoslabs"
+  },
+  "projectCreationDate": 1698079199292
+}
