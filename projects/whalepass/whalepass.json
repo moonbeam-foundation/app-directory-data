@@ -1,0 +1,92 @@
+{
+  "id": "whalepass",
+  "slug": "whalepass",
+  "name": "Whalepass",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Whalepass"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "whalepass-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "whalepass-logo-medium.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "whalepass-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Whalepass is a plug and play game backend that helps game developers create better experiences for their players.",
+  "description": "Whalepass is a plug and play game backend that helps game developers create better experiences for their players. With out-of-the-box tooling and cutting edge technology to help them unlock long-term value.",
+  "tags": [
+    "Gaming",
+    "Other"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://whalepass.gg/",
+    "try": "https://dashboard.whalepass.gg/",
+    "twitter": "https://twitter.com/whalepass_gg",
+    "telegram": "https://t.me/hshar7",
+    "github": "https://github.com/whalepass",
+    "discord": "https://discord.gg/8pSp26Pu9j"
+  },
+  "screenshots": [
+    {
+      "small": {
+        "fileName": "whalepass-app-screenshot-small.png",
+        "width": 300,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "whalepass-app-screenshot.png",
+        "width": 1300,
+        "height": 1100,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "whalepass-dashboard-screenshot-small.png",
+        "width": 300,
+        "height": 244,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "whalepass-dashboard-screenshot-full.png",
+        "width": 1350,
+        "height": 1100,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "whalepass-homepage-screenshot-small.png",
+        "width": 300,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "whalepass-homepage-screenshot.png",
+        "width": 1300,
+        "height": 1100,
+        "mimeType": "image/png"
+      }
+    }
+  ],
+  "projectCreationDate": 1715291410265
+}
