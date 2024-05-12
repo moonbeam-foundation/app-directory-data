@@ -3,7 +3,6 @@
   "slug": "sightsea",
   "name": "sightsea",
   "category": "Social",
-  "coinGeckoId": "chainlink",
   "chains": [
     "moonbeam"
   ],
