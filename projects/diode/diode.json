@@ -1,0 +1,46 @@
+{
+  "id": "diode",
+  "slug": "diode",
+  "name": "Diode",
+  "category": "social",
+  "chains": ["moonbeam", "diode"],
+  "logo": {
+    "small": {
+      "fileName": "diode_favicon_32x32.png",
+      "width": 32,
+      "height": 32,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "diode_logo_sole_400x400.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "icon_Diode - square borders.png",
+      "width": 750,
+      "height": 750,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Diode is an open zero trust DePin network with messaging + VPN apps",
+  "description": "Diode is the only open and permissionless zero trust network, and the only one that mathematically secures its infrastructure.\r\n\r\nAnyone can build application on the Diode Network.  Diode itself offers off the shelf, highly secure, applications for self custody messaging, file sharing, and VPN (web access) made possible by the underlying network.\r\n\r\nThe Diode Network is uniquely affordable and accessible due to the system of bandwidth rewards where application sponsors pay nodes for bandwidth handled on behalf of their devices.\r\n\r\nDiode's mission is to transform the Internet into everyone's private network.",
+  "tags": ["DePIN", "Messaging", "Files", "VPN", "ZeroTrust"],
+  "contracts": [
+    {
+      "contract": "0x434116a99619f2B465A137199C38c1Aab0353913",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://diode.io/",
+    "try": "https://diode.io/download",
+    "twitter": "https://x.com/diode_chain",
+    "telegram": "https://t.me/diode_chain",
+    "github": "https://github.com/diodechain",
+    "linkedin": "https://www.linkedin.com/company/diode-chain"
+  },
+  "projectCreationDate": 1616193263000
+}
+

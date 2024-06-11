@@ -2,6 +2,7 @@
   "id": "dam-finance",
   "slug": "dam-finance",
   "name": "DAM Finance",
+  "status": "archived",
   "category": "defi",
   "chains": [
     "moonbeam"
