@@ -4,10 +4,7 @@
   "name": "Acala Karura",
   "category": "other",
   "coinGeckoId": "acala",
-  "chains": [
-    "moonbeam",
-    "moonriver"
-  ],
+  "chains": ["moonbeam", "moonriver"],
   "logo": {
     "small": {
       "fileName": "acala-karura-logo-small.jpeg",
@@ -30,9 +27,7 @@
   },
   "shortDescription": "Acala is a decentralized finance network powering the aUSD ecosystem,",
   "description": "",
-  "tags": [
-    "Infrastructure"
-  ],
+  "tags": ["Infrastructure"],
   "contracts": [],
   "urls": {
     "website": "http://acala.network/",
