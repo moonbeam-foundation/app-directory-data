@@ -6,6 +6,7 @@
   "coinGeckoId": "stellaswap",
   "chains": ["moonbeam"],
   "web3goIDs": ["StellaSwap"],
+  "featured": true,
   "logo": {
     "small": {
       "fileName": "stellaswap-logo-small.jpeg",

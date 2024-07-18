@@ -108,13 +108,12 @@ export interface AppDirProject {
   defiLLamaId?: string;
   description: string;
   name: string;
+  featured: boolean;
   [coinGeckoIdKey]?: string;
   currentTVL?: ProjectValuesByChain;
   tvlChange1d?: ProjectValuesByChain;
   tvlChange7d?: ProjectValuesByChain;
   currentTx?: ProjectValuesByChain;
-  txChange1d?: ProjectValuesByChain;
-  txChange7d?: ProjectValuesByChain;
   currentUsers?: ProjectValuesByChain;
   usersChange1d?: ProjectValuesByChain;
   usersChange7d?: ProjectValuesByChain;
@@ -123,6 +122,7 @@ export interface AppDirProject {
   category: ProjectCategory;
   tags: string[];
   contracts: SmartContracts[];
+  web3goContracts: SmartContracts[];
   urls: Urls;
   marketData?: MarketData;
   web3goIDs?: string[];
