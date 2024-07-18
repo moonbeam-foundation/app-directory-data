@@ -3,7 +3,7 @@
   "slug": "diode",
   "name": "Diode",
   "category": "social",
-  "chains": ["moonbeam", "diode"],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "diode_favicon_32x32.png",
@@ -43,4 +43,3 @@
   },
   "projectCreationDate": 1616193263000
 }
-
