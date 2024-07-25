@@ -1,0 +1,42 @@
+{
+  "id": "carbify",
+  "slug": "carbify",
+  "name": "Carbify",
+  "category": "defi", 
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "carbify-small.png",
+      "width": 429,
+      "height": 200,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "carbify-medium.png",
+      "width": 792,
+      "height": 612,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "carbify-large.png",
+      "width": 792,
+      "height": 612,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Carbify ensures undeniable proof of carbon offsets while addressing up to 10 Sustainable Development Goals (SDGs).",
+  "description": "Carbify is a sustainable blockchain-powered ecosystem that promotes sustainability through its unique certified Carbon Debits, supports local communities and transparently offsets carbon emissions through its NFTrees initiative, contributing to a better and greener future. It also integrates the gaming world with Eco Empires, which offers players the opportunity to build and manage a civilization to become carbon-neutral.",
+  "tags": [
+    "nft"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.carbify.io/",
+    "try": "https://www.carbify.io/",
+    "twitter": "https://x.com/carbify_io",
+    "telegram": "https://t.me/carbify",
+  },
+  "projectCreationDate": 1721872843
+}

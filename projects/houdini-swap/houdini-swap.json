@@ -14,13 +14,13 @@
       "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "houdini-medium.png",
+      "fileName": "houdini-medium.jpg",
       "width": 400,
       "height": 400,
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "houdini-large.png",
+      "fileName": "houdini-large.jpg",
       "width": 800,
       "height": 800,
       "mimeType": "image/jpeg"
