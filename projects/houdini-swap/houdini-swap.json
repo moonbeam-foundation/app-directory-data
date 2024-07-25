@@ -1,0 +1,42 @@
+{
+  "id": "houdini-swap",
+  "slug": "houdini-swap",
+  "name": "Houdini Swap",
+  "category": "defi", 
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "houdini-small.jpg",
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "houdini-medium.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "houdini-large.png",
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Send, Swap or Bridge with 4000 tokens across all chains and crypto's best compliant privacy.",
+  "description": "Send, Swap or Bridge with 4000 tokens across all chains and crypto's best compliant privacy.",
+  "tags": [
+    "dex", "bridges", "defi"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://houdiniswap.com/",
+    "try": "https://houdiniswap.com/",
+    "twitter": "http://x.com/houdiniswap",
+    "telegram": "https://t.me/houdiniswap",
+  },
+  "projectCreationDate": 1721872843
+}
