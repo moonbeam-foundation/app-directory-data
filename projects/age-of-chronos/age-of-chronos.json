@@ -3,9 +3,7 @@
   "slug": "ageofchronos",
   "name": "Age of Chronos",
   "category": "gaming",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "chronos-small.jpeg",
@@ -28,10 +26,7 @@
   },
   "shortDescription": "Age Of Chronos is a web-based dungeon crawler that utilizes NFT 2.0 technology to provide an immersive gaming experience.",
   "description": "Age Of Chronos is a web-based dungeon crawler that utilizes NFT 2.0 technology to provide an immersive gaming experience.",
-  "tags": [
-    "Gaming",
-    "NFT"
-  ],
+  "tags": ["Gaming", "NFT"],
   "contracts": [],
   "urls": {
     "website": "https://www.ageofchronos.com/",
@@ -39,5 +34,5 @@
     "twitter": "https://x.com/SFY_Labs",
     "telegram": "https://t.me/SFY_Labs_Gang"
   },
-  "projectCreationDate": 1721872843
+  "projectCreationDate": 1721872843000
 }
