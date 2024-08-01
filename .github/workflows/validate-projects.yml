@@ -1,0 +1,19 @@
+name: validate-projects
+
+on: push
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.1.x
+
+      - name: Validate projects against Zod schemas
+        run: bun scripts/projectValidation/projectValidation.ts
