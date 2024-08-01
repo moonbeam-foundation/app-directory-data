@@ -35,7 +35,4 @@ async function main() {
   }
 }
 
-main()
-  .then(() => console.log("done"))
-  .catch(console.error)
-  .finally(() => process.exit(0));
+main().then(() => console.log("done"));
