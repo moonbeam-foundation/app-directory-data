@@ -113,7 +113,7 @@ const projectSchema = z
   })
   .strict();
 
-export function validateProject(project: any) {
+export function validateProject(project: unknown) {
   const result = projectSchema.safeParse(project);
 
   return result;
