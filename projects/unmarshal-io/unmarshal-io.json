@@ -3,9 +3,7 @@
   "slug": "unmarshal-io",
   "name": "Unmarshal",
   "category": "other",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "unmarshal-io-logo-small.jpeg",
@@ -28,17 +26,14 @@
   },
   "shortDescription": "The Most Advanced Blockchain Data Infrastructure",
   "description": "Unmarshal is a multi-chain Data Infrastructure providing simplified access to data on DeFi, NFT and Metaverse.",
-  "tags": [
-    "Infrastructure"
-  ],
+  "tags": ["Infrastructure"],
   "contracts": [],
   "urls": {
     "website": "https://unmarshal.io/about/",
     "try": "https://unmarshal.io/about/",
     "twitter": "https://twitter.com/unmarshal",
     "medium": "https://blog.unmarshal.io/",
-    "telegram": "http://t.me/Unmarshal_Chat",
-    "github": "https://docs.unmarshal.io/",
+    "telegram": "https://t.me/Unmarshal_Chat",
     "discord": "https://discord.gg/z2Zc88HY2P"
   },
   "projectCreationDate": 1674491605000

@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z, ZodTypeAny } from "zod";
 
 type EnumArrayType = [string, ...string[]];
 
@@ -16,6 +16,16 @@ export const categories = [
   "other",
 ];
 
+const safeImageExtensions = [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"];
+
+const safeImageMimeTypes = [
+  "image/jpeg", // For both .jpg and .jpeg
+  "image/png",
+  "image/gif",
+  "image/bmp",
+  "image/webp",
+];
+
 const idSchema = z
   .string()
   .regex(/^[a-zA-Z0-9-_.]+$/)
@@ -27,10 +37,14 @@ const chainEnumSchema = z.enum(["moonriver", "moonbeam"]);
 const defaultStringSChema = z.string().min(2).max(100);
 
 const imageSchema = z.object({
-  fileName: z.string(),
-  width: z.number(),
-  height: z.number(),
-  mimeType: z.string(),
+  fileName: z.union(
+    safeImageExtensions.map((ext) =>
+      z.string().endsWith(ext)
+    ) as any as readonly [ZodTypeAny, ZodTypeAny, ...ZodTypeAny[]]
+  ),
+  width: z.number().min(1).max(10000),
+  height: z.number().min(1).max(10000),
+  mimeType: z.enum(safeImageMimeTypes as EnumArrayType),
 });
 
 const logoSchema = z.object({
@@ -49,18 +63,24 @@ const urlsSchema = z.object({
   website: z.string().url().optional(),
   try: z.string().url().optional(),
   twitter: z
-    .string()
-    .url()
-    .startsWith("https://twitter.com/")
-    .optional()
-    .or(z.string().url().startsWith("https://x.com/").optional()),
+    .union([
+      z.string().url().startsWith("https://twitter.com/"),
+      z.string().url().startsWith("https://x.com/"),
+    ])
+    .optional(),
   medium: z
     .string()
     .url()
-    .regex(/^https:\/\/.*\.medium\.com\//)
+    // ? for now we are allowing all medium links, has to be decided
+    // .regex(/^https:\/\/.*\.medium\.com\//)
     .optional()
     .or(z.string().url().startsWith("https://medium.com/").optional()),
-  telegram: z.string().url().startsWith("https://t.me/").optional(),
+  telegram: z
+    .union([
+      z.string().url().startsWith("https://t.me/"),
+      z.string().url().startsWith("https://telegram.me/dexscreenerchat"),
+    ])
+    .optional(),
   github: z.string().url().startsWith("https://github.com/").optional(),
   discord: z.string().url().optional(),
 });
@@ -70,6 +90,7 @@ const projectSchema = z
     id: idSchema,
     slug: idSchema,
     name: z.string().min(2).max(100),
+    featured: z.boolean().optional(),
     status: z
       .enum(["active", "inactive", "review", "archived", "deleted"])
       .optional(),

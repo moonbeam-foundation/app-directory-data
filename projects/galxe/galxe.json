@@ -3,9 +3,7 @@
   "slug": "galxe",
   "name": "Galxe",
   "category": "nfts",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "galxe-logo-small.jpeg",
@@ -28,18 +26,14 @@
   },
   "shortDescription": "Create Impactful Experiences With #Web3 Credentials. (Formerly Project Galaxy) ",
   "description": "Galxe is the leading Web3 credential data network in the world. A collaborative credential infrastructure enabling brands and developers to engage communities and build robust products in Web3.",
-  "tags": [
-    "NFT",
-    "Social",
-    "Tool"
-  ],
+  "tags": ["NFT", "Social", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://galxe.com/",
     "try": "https://galxe.com/",
     "twitter": "https://twitter.com/Galxe",
     "medium": "https://blog.galxe.com/",
-    "telegram": "https://gal.xyz/telegram",
+    "telegram": "https://t.me/galxe",
     "discord": "https://gal.xyz/discord"
   },
   "projectCreationDate": 1659868871000

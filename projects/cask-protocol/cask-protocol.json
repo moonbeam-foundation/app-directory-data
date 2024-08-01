@@ -3,9 +3,7 @@
   "slug": "cask-protocol",
   "name": "Cask Protocol",
   "category": "defi",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "cask-protocol-logo-small.jpeg",
@@ -28,17 +26,13 @@
   },
   "shortDescription": "Cask is a decentralized non-custodial protocol for managing automated money flows in web3.",
   "description": "Cask is a decentralized non-custodial protocol for powering money flow automation in web3. Money flows include NFT subscriptions, auto investing (DCA), recurring peer to peer payments, and automatic decentralized protocol interactions. Cask believes that automation is key to web3 adoption and is committed to building additional automations to bring value to web3.",
-  "tags": [
-    "DeFi",
-    "Tool"
-  ],
+  "tags": ["DeFi", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://www.cask.fi",
     "try": "https://www.cask.fi",
     "twitter": "https://twitter.com/caskprotocol",
     "medium": "https://blog.cask.fi/",
-    "telegram": "https://twitter.com/caskprotocol",
     "github": "https://github.com/CaskProtocol/",
     "discord": "https://www.cask.fi/discord"
   },

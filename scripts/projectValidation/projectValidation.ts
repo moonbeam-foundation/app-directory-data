@@ -9,13 +9,19 @@ async function main() {
     ignore: "**/node_modules/**",
   });
 
-  console.log(`Found ${paths.length} projects`);
+  const total = paths.length;
+
+  console.log(`Found ${total} projects`);
+
+  let counter = 0;
 
   for (const path of paths) {
     const { default: project } = await import(path, {
       assert: { type: "json" },
     });
-    console.log(`Validating project ${project.id}...`);
+    console.log(
+      `Validating project ${project.id}. Progress: [${++counter}/${total}]`
+    );
 
     const validationResult = validateProject(project);
 

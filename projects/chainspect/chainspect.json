@@ -2,22 +2,20 @@
   "id": "chainspect",
   "slug": "chainspect",
   "name": "Chainspect",
-  "category": "Other",
-  "chains": [
-    "moonbeam"
-  ],
+  "category": "other",
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
-        "fileName": "chainspect-logo-small.png",
-        "width": 40,
-        "height": 40,
-        "mimeType": "image/png"
+      "fileName": "chainspect-logo-small.png",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/png"
     },
     "full": {
-        "fileName": "chainspect-logo-full.png",
-        "width": 3000,
-        "height": 3000,
-        "mimeType": "image/png"
+      "fileName": "chainspect-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
     }
   },
   "shortDescription": "Chainspect is an independent blockchain analytics platform focused on technicals",

@@ -3,10 +3,7 @@
   "slug": "moonsama",
   "name": "Moonsama",
   "category": "nfts",
-  "chains": [
-    "moonriver",
-    "moonbeam"
-  ],
+  "chains": ["moonriver", "moonbeam"],
   "logo": {
     "small": {
       "fileName": "moonsama-logo-small.jpeg",
@@ -29,17 +26,14 @@
   },
   "shortDescription": "Let's build the multiverse",
   "description": "Moonsama’s protocol for bi-directional bridging of on-chain digital assets and off-chain applications. This is how we connect web2.0 games, metaverses and blockchains. It enables new games, development and community fun from across the Kusamaverse and beyond!",
-  "tags": [
-    "NFT",
-    "Gaming"
-  ],
+  "tags": ["NFT", "Gaming"],
   "contracts": [],
   "urls": {
     "website": "https://moonsama.com/",
     "try": "https://moonsama.com/",
     "twitter": "https://twitter.com/MoonsamaNFT",
-    "telegram": "http://t.me/MoonsamaNFT",
-    "discord": "discord.gg/moonsama"
+    "telegram": "https://t.me/MoonsamaNFT",
+    "discord": "https://discord.gg/moonsama"
   },
   "projectCreationDate": 1651156798000
 }

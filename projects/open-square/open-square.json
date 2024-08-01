@@ -3,9 +3,7 @@
   "slug": "open-square",
   "name": "OpenSquare",
   "category": "social",
-  "chains": [
-    "moonriver"
-  ],
+  "chains": ["moonriver"],
   "logo": {
     "small": {
       "fileName": "open-square-logo-small.jpeg",
@@ -28,17 +26,13 @@
   },
   "shortDescription": "Off Chain Voting",
   "description": "OpenSquare is a collaboration and reputation building platform in Polkadot ecosystem.",
-  "tags": [
-    "Social",
-    "DAO"
-  ],
+  "tags": ["Social", "DAO"],
   "contracts": [],
   "urls": {
     "website": "https://voting.opensquare.io/",
     "try": "https://voting.opensquare.io/",
     "twitter": "https://twitter.com/OpensquareN",
     "medium": "https://app.subsocial.network/@opensquare",
-    "telegram": "https://twitter.com/OpensquareN",
     "github": "https://github.com/opensquare-network"
   },
   "projectCreationDate": 1652702789000

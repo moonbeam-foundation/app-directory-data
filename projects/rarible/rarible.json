@@ -3,9 +3,7 @@
   "slug": "rarible",
   "name": "Rarible",
   "category": "nfts",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "rarible-small.png",
@@ -28,16 +26,14 @@
   },
   "shortDescription": "Rarible - NFT Marketplace for Brands, Communities and Traders",
   "description": "Discover, sell and buy NFTs on Rarible! Our aggregated NFT marketplace for Ethereum NFTs and Polygon NFTs powers brands, collections and creator marketplaces.",
-  "tags": [
-    "NFT"
-  ],
+  "tags": ["NFT"],
   "contracts": [],
   "urls": {
     "website": "https://rarible.com/",
     "try": "https://rarible.com/",
     "twitter": "https://x.com/rarible",
     "telegram": "https://t.me/rarible",
-    "discord":"https://discord.com/invite/rarible"
+    "discord": "https://discord.com/invite/rarible"
   },
-  "projectCreationDate": 1721872843
+  "projectCreationDate": 1721872843000
 }
