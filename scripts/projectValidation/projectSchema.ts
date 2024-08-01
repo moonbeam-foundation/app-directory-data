@@ -78,7 +78,7 @@ const urlsSchema = z.object({
   telegram: z
     .union([
       z.string().url().startsWith("https://t.me/"),
-      z.string().url().startsWith("https://telegram.me/dexscreenerchat"),
+      z.string().url().startsWith("https://telegram.me/"),
     ])
     .optional(),
   github: z.string().url().startsWith("https://github.com/").optional(),
