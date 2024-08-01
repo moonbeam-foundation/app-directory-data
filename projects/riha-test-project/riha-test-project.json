@@ -1,0 +1,42 @@
+{
+  "id": "riha-test",
+  "slug": "riha-test",
+  "name": "riha-test",
+  "category": "other",
+  "coinGeckoId": "riha-test",
+  "chains": ["riha-test", "moonriver"],
+  "logo": {
+    "small": {
+      "fileName": "riha-test-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "riha-test-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "riha-test-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Build dApps that connect across chains",
+  "description": "riha-test Network, Build dApps that connect across chains.\r\n\r\nDecentralized and permissionless, riha-test provides an Ethereum-compatible smart contract platform that makes it easy to build natively interoperable applications. Powered by the Polkadot network. In development by PureStake.\r\n\r\nriha-test makes it easy to build decentralized applications on Polkadot — which means your DApps can integrate with other blockchains, including Bitcoin and Ethereum. With riha-test smart contracts and compatibility with the Ethereum developer toolset, you can quickly build applications that work with users and assets on remote chains, either through native Polkadot compatibility or bridge-based integrations.",
+  "tags": ["Tool"],
+  "contracts": [],
+  "urls": {
+    "website": "https://riha-test.network/",
+    "try": "https://riha-test.network/",
+    "twitter": "https://twitter.com/riha-testnetwork",
+    "medium": "https://medium.com/riha-test-network",
+    "telegram": "https://t.me/riha-test_Official",
+    "github": "https://github.com/PureStake/riha-test",
+    "discord": "https://discord.com/invite/PfpUATX"
+  },
+  "projectCreationDate": 16448285230
+}
