@@ -3,9 +3,7 @@
   "slug": "mosaic-composable",
   "name": "Mosaic",
   "category": "defi",
-  "chains": [
-    "moonriver"
-  ],
+  "chains": ["moonriver"],
   "logo": {
     "small": {
       "fileName": "mosaic-composable-logo-small.jpeg",
@@ -28,18 +26,14 @@
   },
   "shortDescription": "Composable’s cross-layer asset transferral system",
   "description": "Mosaic is Composable’s cross-layer asset transferral system, Composable’s liquidity layer, serves as a bridge to several EVM-compatible scaling solutions. An objective of Mosaic is to ensure adequate liquidity across the increasingly fragmented and siloed DeFi industry. The most prominent aspects of Mosaic are its dynamic fee model, single-sided liquidity provisioning, and active management.\r\n\r\nInitially introduced in September as a proof of concept (PoC), Mosaic has since grown to help facilitate millions of dollars in daily trade volume. Phase 2 of Mosaic will bring about the next generation of this infrastructure. With the launch of Mosaic’s Phase 2, integrated projects can look forward to expanded benefits helping drive more users to their network.",
-  "tags": [
-    "DeFi",
-    "Infrastructure"
-  ],
+  "tags": ["DeFi", "Infrastructure"],
   "contracts": [],
   "urls": {
     "website": "https://www.composable.finance/",
     "try": "https://www.composable.finance/",
     "twitter": "https://twitter.com/ComposableFin",
     "medium": "https://composablefi.medium.com/",
-    "telegram": "https://t.me/composablefinance",
-    "discord": "https://a.y.at/redirect?emoji_id=%F0%9F%8E%A8%F0%9F%9A%A2%E2%9B%93%F0%9F%8E%A8&link=aHR0cHM6Ly9kaXNjb3JkLmdnLzlBREVVUnloRmM="
+    "telegram": "https://t.me/composablefinance"
   },
   "projectCreationDate": 1644828523000
 }

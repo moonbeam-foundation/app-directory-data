@@ -3,9 +3,7 @@
   "slug": "bit-hotel",
   "name": "Bit Hotel",
   "category": "nfts",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "bit-hotel-logo-small.jpeg",
@@ -28,20 +26,8 @@
   },
   "shortDescription": "Bit Hotel is a Social-first Play 2 Earn NFT Gaming Metaverse set in a Pixel-art Hotel.",
   "description": "In Bit Hotel users can compete to earn Bit Hotel tokens and acquire native NFTs. These NFTs have in-game utilities and consist of characters, hotel rooms, furniture and other assets that have their own unique perks. With over 250k Hotel Guests cross-channel, this nostalgic Hotel metaverse is taking people back to their 8bit upbringing.",
-  "tags": [
-    "NFT",
-    "Gaming"
-  ],
-  "contracts": [
-    {
-      "contract": "Not deployed yet",
-      "chain": "moonbeam"
-    },
-    {
-      "contract": "Not deployed yet",
-      "chain": "moonriver"
-    }
-  ],
+  "tags": ["NFT", "Gaming"],
+  "contracts": [],
   "urls": {
     "website": "https://bithotel.io/",
     "try": "https://bithotel.io/",
