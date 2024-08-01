@@ -3,9 +3,7 @@
   "slug": "airlyft.one",
   "name": "AirLyft.One",
   "category": "social",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "airlyft.one-logo-small.jpeg",
@@ -28,16 +26,26 @@
   },
   "shortDescription": "🚀 Growth hacking simplified for crypto startups with rewards for the community.",
   "description": "At Kyte.One, we are developing AirLyft, the most complete decentralized, multichain, growth hacking platform ever created for projects to establish, expand, and engage their community. It is a feature-rich platform to incentivize on-chain/off-chain actions by the community. AirLyft also automates the validation, reward creation as well as distribution, thereby saving hours of marketing & development effort. This platform supports Moonbeam as well as Moonriver and is ready for all projects including DeFi, GameFi, NFT Projects, & Metaverses",
-  "tags": [
-    "Social"
-  ],
+  "tags": ["Social"],
   "contracts": [
     {
-      "contract": "ERC721BaseController: https://moonbeam.moonscan.io/address/0x22e1aa6bafb9965523cc33a5bfd2e4d3326a23e4; ERC1155BaseController: https://moonbeam.moonscan.io/address/0x7664c437c6629c3e41971e5d2d080c3d5eb2d875",
+      "name": "ERC721BaseController",
+      "contract": "0x22e1aa6bafb9965523cc33a5bfd2e4d3326a23e4",
       "chain": "moonbeam"
     },
     {
-      "contract": "ERC721BaseController: https://moonriver.moonscan.io/address/0xF1f924b859cDC9d49768f5455694467cC29A44ec; ERC1155BaseController: https://moonriver.moonscan.io/address/0x45a1c7498189566805064b7c6601902dd3974db0",
+      "name": "ERC1155BaseController",
+      "contract": "0x7664c437c6629c3e41971e5d2d080c3d5eb2d875",
+      "chain": "moonbeam"
+    },
+    {
+      "name": "ERC721BaseController",
+      "contract": "0xF1f924b859cDC9d49768f5455694467cC29A44ec",
+      "chain": "moonriver"
+    },
+    {
+      "name": "ERC1155BaseController",
+      "contract": "0x45a1c7498189566805064b7c6601902dd3974db0",
       "chain": "moonriver"
     }
   ],

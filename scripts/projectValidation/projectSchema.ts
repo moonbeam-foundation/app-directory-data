@@ -36,10 +36,14 @@ const chainEnumSchema = z.enum(["moonriver", "moonbeam"]);
 
 const defaultStringSChema = z.string().min(2).max(100);
 
+export const evmAddressSchema = z.string().regex(/^0x[a-fA-F0-9]{40}$/, {
+  message: "Invalid address. Must be 0x-prefixed 20 bytes hex string.",
+});
+
 const imageSchema = z.object({
   fileName: z.union(
     safeImageExtensions.map((ext) =>
-      z.string().endsWith(ext)
+      z.string().endsWith(ext).min(10).max(100)
     ) as any as readonly [ZodTypeAny, ZodTypeAny, ...ZodTypeAny[]]
   ),
   width: z.number().min(1).max(10000),
@@ -54,7 +58,7 @@ const logoSchema = z.object({
 });
 
 const contractSchema = z.object({
-  contract: z.string(),
+  contract: evmAddressSchema,
   chain: chainEnumSchema,
   name: z.string().optional(),
 });
