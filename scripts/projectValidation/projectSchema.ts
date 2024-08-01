@@ -43,7 +43,7 @@ export const evmAddressSchema = z.string().regex(/^0x[a-fA-F0-9]{40}$/, {
 const imageSchema = z.object({
   fileName: z.union(
     safeImageExtensions.map((ext) =>
-      z.string().endsWith(ext).min(10).max(100)
+      z.string().endsWith(ext).min(13).max(100)
     ) as any as readonly [ZodTypeAny, ZodTypeAny, ...ZodTypeAny[]]
   ),
   width: z.number().min(1).max(10000),
