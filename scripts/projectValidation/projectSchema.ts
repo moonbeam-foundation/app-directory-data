@@ -16,6 +16,34 @@ export const categories = [
   "other",
 ];
 
+// This list can be extended as needed
+const tagsWhitelist = [
+  "Bridges",
+  "DeFi",
+  "Infrastructure",
+  "Tool",
+  "Lending",
+  "DAO",
+  "NFT",
+  "DEX",
+  "On-ramp",
+  "Social",
+  "DePIN",
+  "Messaging",
+  "Files",
+  "VPN",
+  "ZeroTrust",
+  "Developer Tools",
+  "Explorers",
+  "GLMR Grants",
+  "Gaming",
+  "MOVR Grants",
+  "Other",
+  "IoT",
+  "NFT Marketplaces",
+  "Wallets",
+];
+
 const safeImageExtensions = [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"];
 
 const safeImageMimeTypes = [
@@ -105,7 +133,10 @@ const projectSchema = z
     logo: logoSchema,
     shortDescription: z.string().min(2).max(1000),
     description: z.string().min(0),
-    tags: z.string().array().optional(),
+    tags: z
+      .enum(tagsWhitelist as EnumArrayType)
+      .array()
+      .optional(),
     contracts: contractSchema.array().optional(),
     urls: urlsSchema,
     screenshots: logoSchema.array().optional(),
