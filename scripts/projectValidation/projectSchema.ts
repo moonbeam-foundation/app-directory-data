@@ -100,13 +100,7 @@ const urlsSchema = z.object({
       z.string().url().startsWith("https://x.com/"),
     ])
     .optional(),
-  medium: z
-    .string()
-    .url()
-    // ? for now we are allowing all medium links, has to be decided
-    // .regex(/^https:\/\/.*\.medium\.com\//)
-    .optional()
-    .or(z.string().url().startsWith("https://medium.com/").optional()),
+  medium: z.string().url().optional(),
   telegram: z
     .union([
       z.string().url().startsWith("https://t.me/"),
