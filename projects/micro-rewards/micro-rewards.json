@@ -1,0 +1,91 @@
+{
+  "id": "micro-rewards",
+  "slug": "micro-rewards",
+  "name": "Micro Rewards",
+  "category": "other",
+  "chains": ["moonbeam"],
+  "web3goIDs": ["MicroRewards"],
+  "logo": {
+    "small": {
+      "fileName": "mr-logo-small.jpeg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "mr-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "mr-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Micro Rewards offers verifiable digital certs and medals for Endurance Sports.",
+  "description": "Micro Rewards is an online platform to issue Certificates, Medals, Badges, & other documents in digital format for Endurance Sports with the ability to verify for the authenticity. It uses open standards and advanced cryptography to secure these digital assets (Verifiable Credentials/ Presentations). Organizations can use this platform to efficiently manage competitors and issue digital assets. Competitors could receive these digital assets and manage those using the Micro Rewards Web3 Wallet. Further, competitors could share these digital assets with third parties to verify for authenticity and share on social media for self-branding.",
+  "tags": ["NFT", "Wallets"],
+  "contracts": [
+    {
+      "contract": "0xeCCF09329968e51aC509500D95f171E40AAE0F3B",
+      "chain": "moonbeam",
+      "name": "MoonbeamDIDRegistry"
+    },
+    {
+      "contract": "0x290D3F055dc2851e39eA3276793A827740a4Bc02",
+      "chain": "moonbeam",
+      "name": "MicroRewards"
+    }
+  ],
+  "urls": {
+    "website": "https://www.microrewards.zedeid.com/"
+  },
+  "screenshots": [
+    {
+      "small": {
+        "fileName": "Signup-Small.png",
+        "height": 200,
+        "width": 429,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "Signup-Full.png",
+        "height": 300,
+        "width": 514,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "Notice1-Small.png",
+        "height": 200,
+        "width": 429,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "Notice1-Full.png",
+        "height": 300,
+        "width": 514,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "Notice2-Small.png",
+        "height": 200,
+        "width": 429,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "Notice2-Full.png",
+        "height": 300,
+        "width": 514,
+        "mimeType": "image/png"
+      }
+    }
+  ],
+  "projectCreationDate": 1713139200
+}
