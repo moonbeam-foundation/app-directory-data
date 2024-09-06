@@ -7,22 +7,22 @@
   "web3goIDs": ["MicroRewards"],
   "logo": {
     "small": {
-      "fileName": "mr-logo-small.jpeg",
+      "fileName": "mr-logo-small.png",
       "width": 40,
       "height": 40,
-      "mimeType": "image/jpeg"
+      "mimeType": "image/png"
     },
     "large": {
-      "fileName": "mr-logo-large.jpeg",
+      "fileName": "mr-logo-large.png",
       "width": 400,
       "height": 400,
-      "mimeType": "image/jpeg"
+      "mimeType": "image/png"
     },
     "full": {
-      "fileName": "mr-logo-full.jpeg",
+      "fileName": "mr-logo-full.png",
       "width": 3000,
       "height": 3000,
-      "mimeType": "image/jpeg"
+      "mimeType": "image/png"
     }
   },
   "shortDescription": "Micro Rewards offers verifiable digital certs and medals for Endurance Sports.",
