@@ -26,7 +26,7 @@
   },
   "shortDescription": "MintLabz is a complete crosschain NFT solution at zero cost.",
   "description": "MintLabz aims to establish a digital NFT minting platform for third party projects to create NFT collections with utilities to reward the NFT holder. Our mission is to become the number one choice for providing complete cross-chain NFT solutions to B2B customers.",
-  "tags": ["nfts"],
+  "tags": ["NFT"],
   "contracts": [],
   "urls": {
     "website": "https://mintlabz.io/",
@@ -35,5 +35,5 @@
     "medium": "https://blog.mintlabz.io/",
     "discord": "https://discord.com/invite/BRF2PEetea"
   },
-  "projectCreationDate": 1712189524
+  "projectCreationDate": 1712189524000
 }

@@ -3,10 +3,7 @@
   "slug": "defiyield-app",
   "name": "DEFIYIELD",
   "category": "defi",
-  "chains": [
-    "moonriver",
-    "moonbeam"
-  ],
+  "chains": ["moonriver", "moonbeam"],
   "logo": {
     "small": {
       "fileName": "defiyield-app-logo-small.jpeg",
@@ -29,10 +26,7 @@
   },
   "shortDescription": "Manage Your DeFi Life",
   "description": "Control your digital assets with a full suite of innovative tools. Invest confidently, supported by our auditing experts.",
-  "tags": [
-    "DeFi",
-    "Tool"
-  ],
+  "tags": ["DeFi", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://de.fi/",

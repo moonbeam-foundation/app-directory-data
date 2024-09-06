@@ -4,9 +4,7 @@
   "name": "PolkaPets",
   "category": "nfts",
   "coinGeckoId": "polkapet-world",
-  "chains": [
-    "moonriver"
-  ],
+  "chains": ["moonriver"],
   "logo": {
     "small": {
       "fileName": "polkapet-world-logo-small.jpeg",
@@ -29,16 +27,12 @@
   },
   "shortDescription": "Welcome to PolkaPet World",
   "description": "An immersive NFT collection created in partnership with the biggest and best PolkaDot projects ",
-  "tags": [
-    "NFT"
-  ],
+  "tags": ["NFT"],
   "contracts": [],
   "urls": {
     "website": "https://www.polkapet.world/",
     "try": "https://www.polkapet.world/",
-    "twitter": "https://twitter.com/PolkaPets",
-    "medium": "https://polkapetworld.medium.com/",
-    "telegram": "https://twitter.com/PolkaPets"
+    "twitter": "https://twitter.com/PolkaPets"
   },
   "projectCreationDate": 1651157216000
 }

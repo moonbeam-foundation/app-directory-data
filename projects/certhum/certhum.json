@@ -3,10 +3,7 @@
   "slug": "certhum",
   "name": "CertHum",
   "category": "other",
-  "chains": [
-    "moonbeam",
-    "moonriver"
-  ],
+  "chains": ["moonbeam", "moonriver"],
   "logo": {
     "small": {
       "fileName": "certhum-logo-small.jpeg",
@@ -29,17 +26,14 @@
   },
   "shortDescription": "Unlock blockchain value",
   "description": "CertHum builds new and innovative distributed ledger technology solutions for both the enterprise and the consumer.\r\n\r\nCertHum is a start-up blockchain infrastructure company with a primary focus on providing Substrate-based chain validating, collating, and staking services. Its formation was driven by a belief that distributed ledger technology is both a foundational and transformational technology that will improve society for everybody.\r\n\r\nCertHum’s mission is to provide solutions that will increase and accelerate the adoption of distributed ledger technology. As distributed ledger technology is more widely adopted, it is expected that CertHum’s contributions will have played a small but important part in bettering peoples’ lives.",
-  "tags": [
-    "Infrastructure",
-    "Tool"
-  ],
+  "tags": ["Infrastructure", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://certhum.com/",
     "try": "https://certhum.com/",
     "twitter": "https://twitter.com/certhum",
     "medium": "https://medium.com/certhum",
-    "telegram": "http://t.me/certhum"
+    "telegram": "https://t.me/certhum"
   },
   "projectCreationDate": 1644828523000
 }

@@ -3,9 +3,7 @@
   "slug": "subdao-network",
   "name": "SubDAO",
   "category": "dao",
-  "chains": [
-    "moonbeam"
-  ],
+  "chains": ["moonbeam"],
   "logo": {
     "small": {
       "fileName": "subdao-network-logo-small.jpeg",
@@ -28,14 +26,12 @@
   },
   "shortDescription": "A DAO infrastructure protocol that helps manage digital assets through middleware, multi-sig and other decentralized features.",
   "description": "SubDAO is a multi-chain DAO protocol that helps manage digital assets through multiple signatures, voting, and decentralized features. It is dedicated to providing universal and widely applicable DAO tools in venture capital and other fields.",
-  "tags": [
-    "DAO"
-  ],
+  "tags": ["DAO"],
   "contracts": [],
   "urls": {
     "website": "https://www.subdao.network/",
     "try": "https://www.subdao.network/",
-    "twitter": "https://medium.com/@subdao",
+    "medium": "https://medium.com/@subdao",
     "github": "https://github.com/SubDAO-Network"
   },
   "projectCreationDate": 1673336433000

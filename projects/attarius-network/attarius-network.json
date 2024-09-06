@@ -3,10 +3,7 @@
   "slug": "attarius-network",
   "name": "Attarius Network",
   "category": "other",
-  "chains": [
-    "moonbeam",
-    "moonriver"
-  ],
+  "chains": ["moonbeam", "moonriver"],
   "logo": {
     "small": {
       "fileName": "attarius-network-logo-small.png",
@@ -29,16 +26,13 @@
   },
   "shortDescription": "Time-saving platform for web2 developers, players and NFT creators to easily transition to web3",
   "description": "Attarius Network is an innovative platform that enables game developers, gamers, and all participants in the creative industry to quickly and easily transition to the innovative world of web3 gaming. Our platform offers a range of features to help make the transition as smooth and efficient as possible.",
-  "tags": [
-    "Infrastructure"
-  ],
+  "tags": ["Infrastructure"],
   "contracts": [],
   "urls": {
     "website": "https://attarius.com/",
     "try": "https://attarius.com/",
     "twitter": "https://twitter.com/AttariusN",
     "medium": "https://medium.com/@attarius",
-    "telegram": "https://medium.com/@attarius",
     "discord": "https://discord.com/invite/attarius"
   },
   "projectCreationDate": 1674642740000

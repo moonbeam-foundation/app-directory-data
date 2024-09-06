@@ -1,4 +1,4 @@
-name: lint
+name: validate-projects
 
 on:
   push:
@@ -18,13 +18,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  lint:
+  validate-projects:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
 
-      - name: Lint JSON and YAML files
-        id: json-yaml-validate
-        uses: GrantBirki/json-yaml-validate@v2.4.0
-        with:
-          comment: "true" # enable comment mode
+      - name: Install dependencies
+        run: bun install
+
+      - name: Validate projects against Zod schemas
+        run: bun scripts/projectValidation/projectValidation.ts
