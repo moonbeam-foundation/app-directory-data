@@ -42,6 +42,8 @@ const tagsWhitelist = [
   "IoT",
   "NFT Marketplaces",
   "Wallets",
+  "IDO",
+  "Launchpad",
 ];
 
 const safeImageExtensions = [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"];
