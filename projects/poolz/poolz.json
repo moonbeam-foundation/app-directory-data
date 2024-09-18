@@ -7,7 +7,7 @@
     "shortDescription": "A decentralized cross-chain IDO platform for token pools and auctions.",
     "description": "Poolz is a decentralized swapping protocol offering blockchain startups the ideal package of services, including tech, investors, and influencers, to manage their listing process successfully on the Poolz D’app.",
     "category": "defi",
-    "tags": ["DeFi", "IDO", "Launchpad", "NFT"],
+    "tags": ["DeFi", "NFT"],
     "contracts": [
       {
         "contract": "0x2Bb9cFF524C76eb2eA27bC6cDbB93447115D8dcC",
