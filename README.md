@@ -1,5 +1,9 @@
 # Readme
 
+## Project submission how to
+
+To submit your project or changes successfully, please check [the complete submission guide](https://docs.moonbeam.network/learn/dapps-list/dapp-directory/)
+
 ## Images
 
 ### screenshots

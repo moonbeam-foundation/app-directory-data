@@ -1,0 +1,128 @@
+{
+    "id": "poolz-finance",
+    "name": "Poolz Finance",
+    "slug": "poolz-finance",
+    "chains": ["moonbeam"],
+    "status": "active",
+    "shortDescription": "A decentralized cross-chain IDO platform for token pools and auctions.",
+    "description": "Poolz is a decentralized swapping protocol offering blockchain startups the ideal package of services, including tech, investors, and influencers, to manage their listing process successfully on the Poolz D’app.",
+    "category": "defi",
+    "tags": ["DeFi", "NFT"],
+    "contracts": [
+      {
+        "contract": "0x2Bb9cFF524C76eb2eA27bC6cDbB93447115D8dcC",
+        "chain": "moonbeam",
+        "name": "VaultManager"
+      },
+      {
+        "contract": "0x6d77B5147CDE6Fa287c1266A33e09a09651D36d0",
+        "chain": "moonbeam",
+        "name": "LockDealNFT"
+      },
+      {
+        "contract": "0x3c845DbB07BdFdD73FbC5Df4bA47EdeA20BCa489",
+        "chain": "moonbeam",
+        "name": "DealProvider"
+      },
+      {
+        "contract": "0x7521fF2baca97397C8936E35dAc225f6bc1070Cf",
+        "chain": "moonbeam",
+        "name": "LockDealProvider"
+      },
+      {
+        "contract": "0x9c8F78E0aeAB8190c9d1DF7BEd0B26c1EDcB8DE6",
+        "chain": "moonbeam",
+        "name": "TimedDealProvider"
+      },
+      {
+        "contract": "0xA2A0bEEfda596Fdb321240dD283D8cBf65b252f1",
+        "chain": "moonbeam",
+        "name": "SimpleBuilder"
+      }
+    ],
+    "logo": {
+        "small": {
+          "fileName": "poolz-logo-small.png",
+          "width": 36,
+          "height": 36,
+          "mimeType": "image/png"
+        },
+        "large": {
+          "fileName": "poolz-logo-large.png",
+          "width": 400,
+          "height": 400,
+          "mimeType": "image/png"
+        },
+        "full": {
+          "fileName": "poolz-logo-full.png",
+          "width": 3000,
+          "height": 3000,
+          "mimeType": "image/png"
+        }
+      },
+    "urls": {
+      "website": "https://poolz.finance",
+      "x": "https://x.com/Poolz__",
+      "telegram": "https://t.me/PoolzOfficialCommunity",
+      "github": "https://github.com/The-Poolz"
+    },
+    "screenshots": [
+    {
+      "small": {
+        "fileName": "poolz-lockpage-screenshot-small.png",
+        "width": 300,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-lockpage-screenshot-full.png",
+        "width": 1132,
+        "height": 573,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-dashboard-screenshot-small.png",
+        "width": 300,
+        "height": 244,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-dashboard-screenshot-full.png",
+        "width": 1078,
+        "height": 800,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-homepage-screenshot-small.png",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-homepage-screenshot-full.png",
+        "width": 1300,
+        "height": 728,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-projectpage-screenshot-small.png",
+        "width": 117,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-projectpage-screenshot-full.png",
+        "width": 377,
+        "height": 816,
+        "mimeType": "image/png"
+      }
+    }
+  ],
+    "projectCreationDate": 1726662986380
+  }
