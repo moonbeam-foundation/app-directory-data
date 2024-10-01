@@ -4,6 +4,7 @@
   "name": "Carbify",
   "category": "defi",
   "chains": ["moonbeam"],
+  "featured": true,
   "logo": {
     "small": {
       "fileName": "carbify-small.png",
