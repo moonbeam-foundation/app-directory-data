@@ -4,6 +4,7 @@
   "name": "Diode",
   "category": "social",
   "chains": ["moonbeam"],
+  "featured": true,
   "logo": {
     "small": {
       "fileName": "diode_favicon_32x32.png",
