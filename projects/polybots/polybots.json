@@ -1,0 +1,125 @@
+{
+  "id": "polybots",
+  "slug": "polybots",
+  "name": "Polybots Rumble",
+  "category": "gaming",
+  "chains": ["moonbeam"],
+  "logo": {
+    "small": {
+      "fileName": "polybots-small.png",
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "polybots-large.png",
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "polybots-full.png",
+      "width": 2048,
+      "height": 2048,
+      "mimeType": "image/png"
+    }
+  },
+  "screenshots": [
+    {
+        "small": {
+            "fileName": "polybots-screenshot-small1.png",
+            "width": 480,
+            "height": 270,
+            "mimeType": "image/png"
+        },
+        "large": {
+            "fileName": "polybots-screenshot-large1.png",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+      "small": {
+          "fileName": "polybots-screenshot-small2.png",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/png"
+      },
+      "large": {
+          "fileName": "polybots-screenshot-large2.png",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+          "fileName": "polybots-screenshot-small3.png",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/png"
+      },
+      "large": {
+          "fileName": "polybots-screenshot-large3.png",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+          "fileName": "polybots-screenshot-small4.png",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/png"
+      },
+      "large": {
+          "fileName": "polybots-screenshot-large4.png",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+          "fileName": "polybots-screenshot-small5.png",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/png"
+      },
+      "large": {
+          "fileName": "polybots-screenshot-large5.png",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+          "fileName": "polybots-screenshot-small6.png",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/png"
+      },
+      "large": {
+          "fileName": "polybots-screenshot-large6.png",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "image/png"
+      }
+    }    
+  ],
+  "shortDescription": "Customize your polybot, engage in epic battles, and dominate the competition.",
+  "description": "Polybots Rumble is an exciting turn-based RPG game where you control customizable robots in intense strategic battles. Set in the futuristic Japan of 2074, the game puts you in the shoes of a teenager who builds and battles with robots on the streets. Manage your resources wisely and customize your robot with powerful parts to face challenges and win every confrontation.",
+  "tags": ["Gaming", "NFT"],
+  "contracts": [],
+  "urls": {
+    "website": "https://polybotsgame.io/",
+    "try": "https://polybotsgame.io/download",
+    "twitter": "https://polybotsgame.io/",
+    "medium": "https://medium.com/@kumagames",
+    "discord": "https://discord.gg/kPvX47GtV7"
+  },
+  "projectCreationDate": 1710776529
+}
