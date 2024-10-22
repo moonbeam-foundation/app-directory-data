@@ -32,9 +32,7 @@
     "memecoins",
     "launcher"
   ],
-  "contracts": {
-    "moonbeam": "0x71CDfFA8A435C812061965be2432184841ff980E"
-  },
+  "contracts": [],
   "urls": {
     "website": "https://www.projekt.lol/",
     "try": "https://www.projekt.lol/",
