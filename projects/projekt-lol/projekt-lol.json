@@ -29,17 +29,15 @@
   "shortDescription": "Launch your own memecoin on Moonbeam with just a few clicks!",
   "description": "projekt.lol is your go-to platform for all the hottest emerging memecoins on Moonbeam. As a memecoin incubator, the platform enables you to invest in early-stage tokens or create your own memecoin with just a few clicks. The token becomes active as soon as it's deployed on the site, allowing for immediate buying and selling. Memes are instantly tradeable, without requiring any initial liquidity.",
   "tags": [
-    "memecoins",
-    "launcher"
+    "DeFi",
+    "GLMR Grants",
   ],
   "contracts": [],
   "urls": {
     "website": "https://www.projekt.lol/",
     "try": "https://www.projekt.lol/",
     "twitter": "https://x.com/projektlol",
-    "telegram": "https://t.me/projektlol",
-    "github": "",
-    "discord": ""
+    "telegram": "https://t.me/projektlol"
   },
-  "projectCreationDate": 1648345443000
+  "projectCreationDate": 1729541655
 }
