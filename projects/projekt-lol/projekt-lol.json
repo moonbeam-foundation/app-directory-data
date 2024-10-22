@@ -9,14 +9,14 @@
   "logo": {
     "small": {
       "fileName": "projekt-lol-logo-small.png",
-      "width": 28,
+      "width": 36,
       "height": 36,
       "mimeType": "image/png"
     },
     "large": {
       "fileName": "projekt-lol-logo-large.png",
-      "width": 225,
-      "height": 285,
+      "width": 179,
+      "height": 179,
       "mimeType": "image/png"
     },
     "full": {
