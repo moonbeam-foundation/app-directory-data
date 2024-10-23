@@ -10,14 +10,14 @@
   "logo": {
     "small": {
       "fileName": "talisman-logo-small.png",
-      "width": 36,
-      "height": 36,
+      "width": 256,
+      "height": 256,
       "mimeType": "image/png"
     },
     "large": {
       "fileName": "talisman-logo-large.png",
-      "width": 328,
-      "height": 328,
+      "width": 492,
+      "height": 492,
       "mimeType": "image/png"
     },
     "full": {
