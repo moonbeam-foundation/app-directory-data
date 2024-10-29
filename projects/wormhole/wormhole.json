@@ -2,7 +2,7 @@
   "id": "wormhole",
   "slug": "wormhole",
   "name": "Wormhole",
-  "category": "other",
+  "category": "bridges",
   "chains": [
     "moonbeam"
   ],
