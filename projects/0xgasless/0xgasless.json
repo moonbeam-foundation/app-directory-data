@@ -1,0 +1,42 @@
+{
+    "id": "0xgasless-smart-accounts",
+    "slug": "0xgasless-smart-accounts",
+    "name": "0xgasless-smart-accounts",
+    "category": "wallets",
+    "chains": [
+        "moonbeam"
+    ],
+    "logo": {
+      "small": {
+        "fileName": "Gasless-Logo-Small.png",
+        "width": 36,
+        "height": 36,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "Gasless-Logo-Large.png",
+        "width": 400,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "Gasless-Logo-Full.png",
+        "width": 3000,
+        "height": 3000,
+        "mimeType": "image/jpeg"
+      }
+    },
+    "shortDescription": "0xGasless Smart Account: Leading Implementation of Account Abstraction",
+    "description": "0xGasless Smart Account is a smart contract wallet focused on implementing Account Abstraction. It builds on the core concepts of Gnosis and Argent safes and is compliant with ERC-4337 and ERC-6900",
+    "tags": [
+      "Wallets"
+    ],
+    "contracts": [],
+    "urls": {
+      "website": "https://0xgasless.com/",
+      "try": "https://0xgasless.com/",
+      "twitter": "https://x.com/0xGasless",
+      "telegram": "https://t.me/Gasless0x"
+    },
+    "projectCreationDate": 	1686244796000
+  }
