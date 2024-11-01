@@ -1,0 +1,120 @@
+{
+  "id": "voidge-against-nouns",
+  "slug": "voidge-against-nouns",
+  "name": "Voidge Against Nouns",
+  "category": "gaming",
+  "chains": ["moonbeam"],
+  "shortDescription": "Explode all the Nouns. Stop their invasion.",
+  "description": "Nouns are trying to dominate the universe, and it’s up to you to stop them. Make them suffer. Explode every. Last. One.",
+  "tags": ["Gaming", "NFT", "Social"],
+  "urls": {
+    "website": "https://voidge.com/",
+    "try": "https://voidge.com/against-nouns",
+    "twitter": "https://twitter.com/myvoidge",
+    "discord": "https://discord.gg/voidge",
+    "medium": "https://medium.com/@myvoidge"
+  },
+  "projectCreationDate": 1725190647000,
+  "logo": {
+    "small": {
+      "fileName": "voidge-against-nouns-logo-small.jpg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "voidge-against-nouns-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "voidge-against-nouns-logo-full.jpg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "screenshots": [
+    {
+      "small": {
+        "fileName": "voidge-screenshot1-small.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "voidge-screenshot1-large.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "voidge-screenshot1-full.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "voidge-screenshot2-small.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "voidge-screenshot2-large.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "voidge-screenshot2-full.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "voidge-screenshot3-small.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "voidge-screenshot3-large.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "voidge-screenshot3-full.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "voidge-screenshot4-small.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "voidge-screenshot4-large.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "voidge-screenshot4-full.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    }
+  ]
+}
