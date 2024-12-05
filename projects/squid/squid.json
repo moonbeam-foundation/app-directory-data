@@ -2,7 +2,7 @@
   "id": "squid",
   "slug": "squid",
   "name": "Squid",
-  "category": "defi",
+  "category": "bridges",
   "chains": [
     "moonbeam"
   ],
