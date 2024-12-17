@@ -29,11 +29,11 @@
   "tags": ["DeFi", "Bridges", "Tool"],
   "contracts": [],
   "urls": {
-    "website": "https://transferto.xyz/swap",
-    "try": "https://transferto.xyz/swap",
-    "twitter": "https://twitter.com/lifiprotocol",
+    "website": "https://jumper.exchange/",
+    "try": "https://jumper.exchange/",
+    "twitter": "https://x.com/lifiprotocol",
     "github": "https://github.com/lifinance",
-    "discord": "https://links.li.fi/link/out?id=1g4imdc-12k7e-1cwqld6"
+    "discord": "https://x.com/lifiprotocol"
   },
   "projectCreationDate": 1653348318000
 }
