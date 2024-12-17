@@ -36,9 +36,9 @@
   "urls": {
     "website": "https://tenderly.co/",
     "try": "https://tenderly.co/",
-    "twitter": "https://twitter.com/TenderlyApp",
-    "github": "https://github.com/Tenderly",
-    "discord": "https://discord.gg/fBvDJYR"
+    "medium": "https://blog.tenderly.co/",
+    "twitter": "https://x.com/TenderlyApp",
+    "github": "https://github.com/Tenderly"
   },
   "projectCreationDate": 1670396331000
 }
