@@ -1,8 +1,8 @@
 {
     "id": "0xgasless-smart-accounts",
     "slug": "0xgasless-smart-accounts",
-    "name": "0xgasless Smart Accounts",
-    "category": "wallets",
+    "name": "0xgasless",
+    "category": "other",
     "chains": [
         "moonbeam"
     ],
@@ -26,10 +26,11 @@
         "mimeType": "image/jpeg"
       }
     },
-    "shortDescription": "0xGasless Smart Account: Leading Implementation of Account Abstraction",
-    "description": "0xGasless Smart Account is a smart contract wallet focused on implementing Account Abstraction. It builds on the core concepts of Gnosis and Argent safes and is compliant with ERC-4337 and ERC-6900",
+    "shortDescription": "0xGasless: SDK for AI agents with Smart Wallets (ERC4337)",
+    "description": "0xGasless is a SDK that empowers AI agents with Smart Wallets (ERC4337), this allows AI agents to manage their own assets and interact with dapps autonomously on any EVM chain.",
     "tags": [
-      "Wallets"
+      "Wallets",
+      "Infrastructure"
     ],
     "contracts": [],
     "urls": {
@@ -38,5 +39,5 @@
       "twitter": "https://x.com/0xGasless",
       "telegram": "https://t.me/Gasless0x"
     },
-    "projectCreationDate": 	1686244796000
+    "projectCreationDate":  1686244796000
   }
