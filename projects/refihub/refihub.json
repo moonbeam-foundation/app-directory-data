@@ -1,0 +1,45 @@
+{
+  "id": "refi-hub",
+  "slug": "refi-hub",
+  "name": "ReFi Hub",
+  "category": "defi",
+  "chains": ["moonbeam"],
+  "web3goIDs": ["ReFiHub"],
+  "logo": {
+    "small": {
+      "fileName": "refihub-logo-small.jpg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpg"
+    },
+    "large": {
+      "fileName": "refihub-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpg"
+    },
+    "full": {
+      "fileName": "refihub-logo-full.jpg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpg"
+    }
+  },
+  "shortDescription": "Invest in Renewable Energy on Moonbeam",
+  "description": "ReFi Hub is a cross-chain dApp on Moonbeam and Solana enabling investments into sustainable projects while earning a yield. The main focus lies in high impact solar plants and EV charging infrastructure. Generate consistent yields on stablecoins while driving positive impact.",
+  "tags": ["Lending", "DeFi"],
+  "contracts": [
+    {
+      "contract": "0x178508847e17C70463E5611C9503d83a796746Af",
+      "chain": "moonbeam"
+    }
+  ],
+  "urls": {
+    "website": "https://www.refihub.io/",
+    "try": "https://app.refihub.io/",
+    "twitter": "https://x.com/Refihub",
+    "github": "https://github.com/ReFi-Hub",
+    "discord": "https://discord.com/invite/B7f8Vx2ZFK"
+  },
+  "projectCreationDate": 1742899200000
+}
