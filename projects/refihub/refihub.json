@@ -7,22 +7,22 @@
   "web3goIDs": ["ReFiHub"],
   "logo": {
     "small": {
-      "fileName": "refihub-logo-small.jpg",
+      "fileName": "refihub-logo-small.jpeg",
       "width": 40,
       "height": 40,
-      "mimeType": "image/jpg"
+      "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "refihub-logo-large.jpg",
+      "fileName": "refihub-logo-large.jpeg",
       "width": 400,
       "height": 400,
-      "mimeType": "image/jpg"
+      "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "refihub-logo-full.jpg",
+      "fileName": "refihub-logo-full.jpeg",
       "width": 3000,
       "height": 3000,
-      "mimeType": "image/jpg"
+      "mimeType": "image/jpeg"
     }
   },
   "shortDescription": "Invest in Renewable Energy on Moonbeam",
