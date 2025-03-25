@@ -4,7 +4,6 @@
   "name": "ReFi Hub",
   "category": "defi",
   "chains": ["moonbeam"],
-  "web3goIDs": ["ReFiHub"],
   "logo": {
     "small": {
       "fileName": "refihub-logo-small.jpeg",
