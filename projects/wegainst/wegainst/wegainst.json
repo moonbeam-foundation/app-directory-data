@@ -31,7 +31,7 @@
     "discord": "https://discord.gg/wegainst",
     "medium": "https://medium.com/@wegainst"
   },
-  "projectCreationDate": 1735732800,
+  "projectCreationDate": 1735732800000,
   "logo": {
     "small": {
       "fileName": "wegainst-logo-small.jpg",
@@ -46,7 +46,7 @@
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "wegainst-logo-full",
+      "fileName": "wegainst-logo-full.jpg",
       "width": 3000,
       "height": 3000,
       "mimeType": "image/jpeg"
