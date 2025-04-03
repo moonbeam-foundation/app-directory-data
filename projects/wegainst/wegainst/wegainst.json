@@ -1,0 +1,197 @@
+{
+  "id": "wegainst",
+  "slug": "wegainst",
+  "name": "Wegainst",
+  "category": "gaming",
+  "chains": ["moonbeam"],
+  "shortDescription": "THE HOME TO ALL TRIBES AND GUILDS ⚔️",
+  "description": "Wegainst is a browser-based, guild-driven MMO: players can own houses in guild territory, grow stronger together, and smash rivals in co-op games and PvP wars.",
+  "contracts": [
+    {
+      "contract": "0xFE1D00Fac9A01726EF21f2d2B1d11F4702c0faf6",
+      "chain": "moonbeam",
+      "name": "Wegainst Items and Resources"
+    },
+    {
+      "contract": "0x2f11E3f7CcB491BF7f8198Adf4DCA99775cedFC0",
+      "chain": "moonbeam",
+      "name": "Presale Scores"
+    },
+    {
+      "contract": "0xeb26Ba82718444a012AeF36eb93b7b2FF1f4E608",
+      "chain": "moonbeam",
+      "name": "Onchain Gaming Scores"
+    }
+  ],
+  "tags": ["Gaming", "Messaging", "NFT", "Social"],
+  "urls": {
+    "website": "https://wegainst.com/",
+    "try": "https://wegainst.com/game",
+    "twitter": "https://x.com/wegainst",
+    "discord": "https://discord.gg/wegainst",
+    "medium": "https://medium.com/@wegainst"
+  },
+  "projectCreationDate": 1735732800,
+  "logo": {
+    "small": {
+      "fileName": "wegainst-logo-small.jpg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "wegainst-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "wegainst-logo-full",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "screenshots": [
+    {
+      "small": {
+        "fileName": "screenshot-small-1.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-1.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-1.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-2.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-2.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-2.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-3.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-3.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-3.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-4.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-4.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-4.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-5.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-5.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-5.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-6.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-6.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-6.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "fileName": "screenshot-small-7.jpg",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/jpeg"
+      },
+      "large": {
+        "fileName": "screenshot-large-7.jpg",
+        "width": 858,
+        "height": 400,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "screenshot-full-7.jpg",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/jpeg"
+      }
+    }
+  ]
+}
