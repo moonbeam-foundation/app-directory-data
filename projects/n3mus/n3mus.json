@@ -1,0 +1,39 @@
+{
+    "id": "n3mus",
+    "slug": "n3mus",
+    "name": "N3MUS",
+    "category": "gaming",
+    "chains": ["moonbeam"],
+    "web3goIDs": ["N3MUS"],
+    "logo": {
+      "small": {
+        "fileName": "n3mus-logo-small.png",
+        "width": 40,
+        "height": 40,
+        "mimeType": "image/png"
+      },
+      "large": {
+        "fileName": "n3mus-logo-small.png",
+        "width": 350,
+        "height": 350,
+        "mimeType": "image/jpeg"
+      },
+      "full": {
+        "fileName": "n3mus-logo-small.png",
+        "width": 2000,
+        "height": 2000,
+        "mimeType": "image/jpeg"
+      }
+    },
+    "shortDescription": "N3MUS is the go-to platform for gamers to join exciting on-chain tournaments, compete for rewards, and be part of a real, active community.",
+    "description": "N3MUS is the ultimate destination for gamers who love to compete, earn, and stand out. Dive into action-packed tournaments built around your favorite games. No crypto knowledge required. Just join, play, complete quests, and climb the leaderboard. From casual challenges to high-stakes showdowns, every quest you complete brings you closer to rewards, bragging rights, and the top of the charts. With new tournaments launching every week, there's always something fresh to explore and win. Join a thriving community of real players, take on quests both in-game and on social platforms, and turn your gaming time into something more. On N3MUS, your skill and dedication actually matter. And they're rewarded every step of the way.",
+    "tags": ["Gaming"],
+    "contracts": [],
+    "urls": {
+      "website": "https://hub.n3mus.com",
+      "try": "https://hub.n3mus.com/",
+      "twitter": "https://x.com/N3MUSFdn",
+      "telegram": "https://t.me/n3muschat"
+    },
+    "projectCreationDate": 1733435023000
+  }  
