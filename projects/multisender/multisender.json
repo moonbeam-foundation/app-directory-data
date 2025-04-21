@@ -1,7 +1,7 @@
 {
   "id": "multisender",
   "slug": "multisender",
-  "name": "Token MultiSender",
+  "name": "MultiSender",
   "category": "defi",
   "chains": [
     "moonbeam",
@@ -27,8 +27,8 @@
       "mimeType": "image/jpeg"
     }
   },
-  "shortDescription": "A tool that allows you to batch send ERC20 tokens",
-  "description": "Welcome to Token MultiSender. A tool that allows you to batch send #ERC20 tokens",
+  "shortDescription": "Batch send ERC-20 tokens to multiple addresses on Moonbeam, Moonriver & more",
+  "description": "Multisender is a Web3 utility that streamlines the process of sending ERC-20 tokens to multiple recipients in a single transaction. Designed for speed and simplicity, it supports major EVM networks — including Moonbeam, Moonriver, and more. Whether you're distributing rewards, administering an airdrop, or managing treasury payouts, Multisender makes it easy: just upload a recipient list, connect your wallet (such as MetaMask), and send. No sign-up required. No data stored. It's secure, efficient, and fully compatible with tools in the Moonbeam ecosystem.",
   "tags": [
     "DeFi",
     "Tool"
