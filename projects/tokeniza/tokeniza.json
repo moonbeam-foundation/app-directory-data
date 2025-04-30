@@ -2,7 +2,7 @@
   "id": "tokeniza",
   "slug": "tokeniza",
   "name": "Tokeniza",
-  "category": "Other",
+  "category": "other",
   "chains": [
     "moonbeam"
   ],
