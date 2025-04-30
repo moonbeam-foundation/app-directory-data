@@ -1,0 +1,42 @@
+{
+  "id": "tokeniza",
+  "slug": "tokeniza",
+  "name": "Tokeniza",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "tokeniza-logo-small.jpg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "tokeniza-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "tokeniza-logo-full.jpg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Brazilian real-world assets",
+  "description": "Tokeniza is a real-world asset (RWA) platform that brings high-yield Brazilian investments on-chain, including court-ordered debt, real estate, and agribusiness. Regulated by Brazil’s SEC (CVM) and built on Moonbeam",
+  "tags": [
+    "Other"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://tokeniza.com.br",
+    "try": "https://plataforma.tokeniza.com.br",
+    "twitter": "https://x.com/tokeniza_tknz",
+    "discord": "https://discord.gg/bitclass"
+  },
+  "projectCreationDate": 1746038874882
+}
