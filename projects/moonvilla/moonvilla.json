@@ -32,7 +32,7 @@
   "screenshots": [
     {
       "full": {
-        "fileName": "1.png",
+        "fileName": "moonvilla_screenshot_1.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
@@ -40,7 +40,7 @@
     },
     {
       "full": {
-        "fileName": "2.png",
+        "fileName": "moonvilla_screenshot_2.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
@@ -48,7 +48,7 @@
     },
     {
       "full": {
-        "fileName": "3.png",
+        "fileName": "moonvilla_screenshot_3.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
@@ -56,7 +56,7 @@
     },
     {
       "full": {
-        "fileName": "4.png",
+        "fileName": "moonvilla_screenshot_4.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
@@ -64,7 +64,7 @@
     },
     {
       "full": {
-        "fileName": "5.png",
+        "fileName": "moonvilla_screenshot_5.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
@@ -72,7 +72,7 @@
     },
     {
       "full": {
-        "fileName": "6.png",
+        "fileName": "moonvilla_screenshot_6.png",
         "width": 1919,
         "height": 816,
         "mimeType": "image/png"
