@@ -2,7 +2,7 @@
   "id": "moonvilla",
   "slug": "moonvilla",
   "name": "MoonVilla",
-  "category": "DAO",
+  "category": "dao",
   "shortDescription": "MoonVilla is a novel proposal for on-chain human coordination.",
   "description": "MoonVilla is a novel proposal for on-chain human coordination. It takes inspiration from Web 3 ideals and aims to address an issue that is currently prevalent in both the traditional world and in simpler forms of DAO, and that, in our opinion, is still one of the greater inhibitors for better systems of human coordination. That issue is that we still operate, even in the so called Web3, with collective arrangements in which “greater purchasing power” usually conveys “greater political representation.",
   "tags": [
