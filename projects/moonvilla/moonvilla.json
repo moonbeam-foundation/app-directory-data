@@ -1,0 +1,98 @@
+{
+  "id": "moonvilla",
+  "slug": "moonvilla",
+  "name": "MoonVilla",
+  "category": "dao",
+  "shortDescription": "MoonVilla is a novel proposal for on-chain human coordination.",
+  "description": "MoonVilla is a novel proposal for on-chain human coordination. It takes inspiration from Web 3 ideals and aims to address an issue that is currently prevalent in both the traditional world and in simpler forms of DAO, and that, in our opinion, is still one of the greater inhibitors for better systems of human coordination. That issue is that we still operate, even in the so called Web3, with collective arrangements in which “greater purchasing power” usually conveys “greater political representation.",
+  "tags": [
+    "DAO"
+  ],
+  "urls": {
+    "website": "https://moon.villas",
+    "try": "https://app.moon.villas",
+    "github": "https://github.com/moonvillas",
+    "twitter": "https://x.com/moonvillabr",
+    "discord": "https://discord.gg/kVfXAQPEu9"
+  },
+  "logo": {
+    "small": {
+      "fileName": "logo-moonvilla-small.jpeg",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "logo-moonvilla-full.jpeg",
+      "width": 604,
+      "height": 94,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "screenshots": [
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_1.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+     }
+    },
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_2.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+     }
+    },
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_3.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_4.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+     }
+    },
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_5.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+     }
+    },
+    {
+      "full": {
+        "fileName": "moonvilla_screenshot_6.png",
+        "width": 1919,
+        "height": 816,
+        "mimeType": "image/png"
+     }
+    }
+  ],
+  "chains": [
+    "moonbeam"
+  ],
+  "contracts": [
+    {
+      "contract": "0x24ce5883699538bE4653F3A579cE9092403F374f",
+      "chain": "moonbeam",
+      "name": "LP Token"
+    },
+    {
+      "contract": "0x2215b2Cd27A187960B487aa282707B10CD2ecc74",
+      "chain": "moonbeam",
+      "name": "Treasury and governance"
+    }
+  ],
+  "projectCreationDate": 1720036800000
+}

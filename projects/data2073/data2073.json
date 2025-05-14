@@ -1,0 +1,234 @@
+{
+  "id": "data2073",
+  "slug": "data2073",
+  "name": "Data2073",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "data2073-logo-small.jpeg",
+      "width": 317,
+      "height": 320,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "data2073-logo-large.jpeg",
+      "width": 633,
+      "height": 640,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "data2073-logo-full.jpeg",
+      "width": 1638,
+      "height": 1655,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "screenshots": [
+    {
+        "small": {
+            "fileName": "data2073-1-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-1-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-2-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-2-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-3-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-3-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-4-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-4-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-5-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-5-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-6-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-6-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-7-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-7-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-8-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-8-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-9-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-9-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-10-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-10-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-11-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-11-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    },
+    {
+        "small": {
+            "fileName": "data2073-12-small.jpeg",
+            "width": 640,
+            "height": 360,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "data2073-12-full.jpeg",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/png"
+        }
+    }
+  ],
+  "shortDescription": "Data2073 Battle Deck is a TCG Auto Battler, with a focus on fast paced and strategic gameplay.",
+  "description": "Data2073 is an innovative Web3 gaming ecosystem revolutionizing how players engage, earn, and connect across multiple games.",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [
+    {
+        "contract": "0xcce31a2d49180bce33925348eadb688245c0d544",
+        "chain": "moonbeam",
+        "name": "DATA2073 Podium NFT collectionn"
+    },
+    {
+        "contract": "0xe937c62abc097b4b029104fee6eb200bf7acb420",
+        "chain": "moonbeam",
+        "name": "DATA2073 - BATTLE DECK - BOOSTER PACKS"
+    },
+    {
+        "contract": "0xd3a97f2163d3b7a94e9fa88adf3fc328535dd5a6",
+        "chain": "moonbeam",
+        "name": "DATA2073 - BATTLE DECK - BATTLE CARDS"
+    },
+    {
+        "contract": "0x2000188043b529f6e22fa48bafca6d565cdfdd7d",
+        "chain": "moonbeam",
+        "name": "DATA2073 - BATTLEDECK - CARD MANAGER"
+    }
+  ],
+  "urls": {
+    "website": "https://data2073.io/",
+    "try": "https://store.epicgames.com/en-US/p/data2073-9d83d4",
+    "twitter": "https://x.com/DATA2073",
+    "discord": "https://discord.gg/An7tupKJ"
+  },
+  "projectCreationDate": 1747094400000
+}
