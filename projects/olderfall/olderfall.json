@@ -1,0 +1,33 @@
+{
+  "id": "olderfall",
+  "slug": "olderfall",
+  "name": "Olderfall",
+  "category": "gaming",
+  "chains": ["moonbeam"],
+  "web3goIDs": ["Olderfall"],
+  "logo": {
+    "small": {
+      "fileName": "olderfall-logo-small.png",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "olderfall-logo-large.png",
+      "width": 350,
+      "height": 350,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Lead your NFT gladiators to glory in this tactical auto-battler.",
+  "description": "Olderfall is a free-to-play auto-battler set in a dystopian arena where gladiators fight for survival, prestige, and onchain rewards. As a Gladiator Master, you train procedurally generated warriors, collect powerful gear, and rise through weekly tournaments tracked directly on the blockchain. Built for real competition and long-term ownership, Olderfall blends fast-paced tactical combat with a frictionless Web3 experience—no wallet or downloads required. Jump in, lead your team, and earn your place among the legends.",
+  "tags": ["Gaming"],
+  "contracts": [],
+  "urls": {
+    "website": "https://olderfall.com/",
+    "try": "https://play.olderfall.com/",
+    "twitter": "https://x.com/olderfall",
+    "discord": "https://discord.com/invite/olderfall"
+  },
+  "projectCreationDate": 1747752425000
+}  
