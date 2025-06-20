@@ -9,19 +9,19 @@
   ],
   "logo": {
     "small": {
-      "fileName": "api3-logo-small.jpeg",
+      "fileName": "api3-logo-small.png",
       "width": 36,
       "height": 36,
       "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "api3-logo-large.jpeg",
+      "fileName": "api3-logo-large.png",
       "width": 400,
       "height": 400,
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "api3-logo-full.jpeg",
+      "fileName": "api3-logo-full.png",
       "width": 3000,
       "height": 3000,
       "mimeType": "image/jpeg"
