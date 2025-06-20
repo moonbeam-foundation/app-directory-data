@@ -1,41 +1,39 @@
 {
   "id": "api3",
   "slug": "api3",
-  "name": "API3",
-  "category": "other",
+  "name": "Api3",
+  "category": "defi",
   "chains": [
     "moonbeam",
     "moonriver"
   ],
   "logo": {
     "small": {
-      "fileName": "api3-logo-small.jpeg",
+      "fileName": "api3-logo-small.png",
       "width": 36,
       "height": 36,
       "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "api3-logo-large.jpeg",
+      "fileName": "api3-logo-large.png",
       "width": 400,
       "height": 400,
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "api3-logo-full.jpeg",
+      "fileName": "api3-logo-full.png",
       "width": 3000,
       "height": 3000,
       "mimeType": "image/jpeg"
     }
   },
-  "shortDescription": "Decentralized APIs for Web 3.0.",
-  "description": "API3 builds decentrally governed and quantifiably secure data feeds that power Web 3.0 applications without employing third-party intermediaries. Powered by Airnode-enabled first-party oracles, API3’s dAPIs are fully decentralized and blockchain-native APIs with quantifiable security.",
-  "tags": [
-    "Tool"
-  ],
+  "shortDescription": "Oracles that pay you",
+  "description": "Api3 delivers first-party oracles that pay you — connecting real-world data directly to smart contracts while reclaiming lost value through Oracle Extractable Value (OEV).",
+  "tags": ["DeFi", "Lending", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://api3.org/",
-    "try": "https://api3.org/",
+    "try": "https://market.api3.org/",
     "twitter": "https://twitter.com/api3dao",
     "medium": "https://medium.com/api3/",
     "telegram": "https://t.me/API3DAO",
