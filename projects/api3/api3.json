@@ -2,7 +2,7 @@
   "id": "api3",
   "slug": "api3",
   "name": "Api3",
-  "category": "other",
+  "category": "DeFi",
   "chains": [
     "moonbeam",
     "moonriver"
@@ -29,11 +29,11 @@
   },
   "shortDescription": "Oracles that pay you",
   "description": "Api3 delivers first-party oracles that pay you — connecting real-world data directly to smart contracts while reclaiming lost value through Oracle Extractable Value (OEV).",
-  "tags": ["DeFi", "Infrastructure", "Oracle"],
+  "tags": ["DeFi", "Lending", "Tool"],
   "contracts": [],
   "urls": {
     "website": "https://api3.org/",
-    "try": "https://api3.org/",
+    "try": "https://market.api3.org/",
     "twitter": "https://twitter.com/api3dao",
     "medium": "https://medium.com/api3/",
     "telegram": "https://t.me/API3DAO",
