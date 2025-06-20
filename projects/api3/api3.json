@@ -2,7 +2,7 @@
   "id": "api3",
   "slug": "api3",
   "name": "Api3",
-  "category": "DeFi",
+  "category": "defi",
   "chains": [
     "moonbeam",
     "moonriver"
