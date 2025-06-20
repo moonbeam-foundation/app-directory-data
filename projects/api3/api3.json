@@ -1,7 +1,7 @@
 {
   "id": "api3",
   "slug": "api3",
-  "name": "API3",
+  "name": "Api3",
   "category": "other",
   "chains": [
     "moonbeam",
@@ -27,11 +27,9 @@
       "mimeType": "image/jpeg"
     }
   },
-  "shortDescription": "Decentralized APIs for Web 3.0.",
-  "description": "API3 builds decentrally governed and quantifiably secure data feeds that power Web 3.0 applications without employing third-party intermediaries. Powered by Airnode-enabled first-party oracles, API3’s dAPIs are fully decentralized and blockchain-native APIs with quantifiable security.",
-  "tags": [
-    "Tool"
-  ],
+  "shortDescription": "Oracles that pay you",
+  "description": "Api3 delivers first-party oracles that pay you — connecting real-world data directly to smart contracts while reclaiming lost value through Oracle Extractable Value (OEV).",
+  "tags": ["DeFi", "Infrastructure", "Oracle"],
   "contracts": [],
   "urls": {
     "website": "https://api3.org/",
