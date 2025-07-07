@@ -1,0 +1,89 @@
+{
+  "id": "outmine",
+  "slug": "outmine",
+  "name": "Outmine",
+  "category": "gaming",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "Outmine"
+  ],
+"screenshots": [
+        {
+            "small": {
+                "fileName": "outmine-screenshot-small1.png",
+                "width": 429,
+                "height": 200,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "outmine-screenshot-full1.png",
+                "width": 858,
+                "height": 400,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "outmine-screenshot-small2.png",
+                "width": 429,
+                "height": 200,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "outmine-screenshot-full2.png",
+                "width": 858,
+                "height": 400,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "outmine-screenshot-small3.png",
+                "width": 429,
+                "height": 200,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "outmine-screenshot-full3.png",
+                "width": 858,
+                "height": 400,
+                "mimeType": "image/png"
+            }
+        }
+    ],
+  "logo": {
+    "small": {
+      "fileName": "outmine-logo-small.png",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "outmine-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "outmine-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "An action-packed dungeon crawling survival game.",
+  "description": "Enter the dungeon, mine gems, fight monsters, compete with other players, survive and escape with your gems!",
+  "tags": [
+    "Gaming",
+    "NFT"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.rogues.studio/outmine",
+    "try": "https://www.rogues.studio/outmine",
+    "twitter": "https://x.com/playoutmine"
+  },
+  "projectCreationDate": 1751658294000                         
+}
