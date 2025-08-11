@@ -2,7 +2,7 @@
     "id": "kugle",
     "slug": "kugle",
     "name": "Kugle",
-    "category": "Gaming",
+    "category": "gaming",
     "chains": [
         "moonbeam"
     ],
