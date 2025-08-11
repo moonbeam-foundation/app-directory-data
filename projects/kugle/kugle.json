@@ -4,7 +4,6 @@
     "name": "Kugle",
     "category": "Gaming",
     "coinGeckoId": "",
-    "web3goIDs": "",
     "chains": [
         "moonbeam"
     ],
