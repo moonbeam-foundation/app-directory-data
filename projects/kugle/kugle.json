@@ -3,7 +3,6 @@
     "slug": "kugle",
     "name": "Kugle",
     "category": "Gaming",
-    "coinGeckoId": "",
     "chains": [
         "moonbeam"
     ],
