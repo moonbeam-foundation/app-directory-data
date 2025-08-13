@@ -1,0 +1,50 @@
+{
+    "id": "kugle",
+    "slug": "kugle",
+    "name": "Kugle",
+    "category": "gaming",
+    "chains": [
+        "moonbeam"
+    ],
+    "logo": {
+        "small": {
+            "fileName": "kugle-logo-small.png",
+            "width": 40,
+            "height": 40,
+            "mimeType": "image/png"
+        },
+        "large": {
+            "fileName": "kugle-logo-large.png",
+            "width": 150,
+            "height": 150,
+            "mimeType": "image/png"
+        },
+        "full": {
+            "fileName": "kugle-logo-full.png",
+            "width": 300,
+            "height": 300,
+            "mimeType": "image/png"
+        }
+    },
+    "shortDescription": "Kugle is a cosy Gravity-platformer party-game online, playable cross-platform on Smartphone and PC. Play with your friends in a cute galaxy where gravity know no bound. In which you collect, care, play, breed and trade colorful little creatures known as Kugles.",
+    "description": "Kugle is more than just a game, it's a vibrant ecosystem where players can enjoy diverse gameplay modes through strategic engagement with the in-game economy. Collect, care, play, breed, and trade colorful little virtual creatures known as Kugles. Whether you're a seasoned crypto enthusiast or a casual gamer, you're sure to find something you'll like. Join us in the Kugle universe and start your adventure today!",
+    "tags": [
+        "Gaming",
+        "NFT"
+    ],
+    "contracts": [
+        {
+            "contract": "0xe8E8BD89a429526561e1283cb789719864fFd0B4",
+            "chain": "moonbeam",
+            "name": "Gu"
+        }
+    ],
+    "urls": {
+        "website": "https://kugle.app/",
+        "try": "https://kugle.app/",
+        "twitter": "https://x.com/Kuglesworld",
+        "telegram": "https://t.me/KugleOfficial",
+        "discord": "https://discord.com/invite/pwFHCx6ZDS"
+    },
+    "projectCreationDate": 1704103200000
+}
