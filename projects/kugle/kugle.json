@@ -3,6 +3,7 @@
     "slug": "kugle",
     "name": "Kugle",
     "category": "gaming",
+    "coinGeckoId": "gu-2",
     "chains": [
         "moonbeam"
     ],
@@ -26,6 +27,92 @@
             "mimeType": "image/png"
         }
     },
+    "screenshots": [
+        {
+            "small": {
+                "fileName": "screen1-small.png",
+                "width": 200,
+                "height": 429,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen1-full.png",
+                "width": 1290,
+                "height": 2796,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "screen2-small.png",
+                "width": 200,
+                "height": 429,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen2-full.png",
+                "width": 1290,
+                "height": 2796,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "screen3-small.png",
+                "width": 200,
+                "height": 429,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen3-full.png",
+                "width": 1290,
+                "height": 2796,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "screen4-small.png",
+                "width": 200,
+                "height": 429,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen4-full.png",
+                "width": 1290,
+                "height": 2796,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "screen5-small.png",
+                "width": 429,
+                "height": 200,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen5-full.png",
+                "width": 1024,
+                "height": 500,
+                "mimeType": "image/png"
+            }
+        },
+        {
+            "small": {
+                "fileName": "screen6-small.png",
+                "width": 429,
+                "height": 200,
+                "mimeType": "image/png"
+            },
+            "full": {
+                "fileName": "screen5-full.png",
+                "width": 1024,
+                "height": 500,
+                "mimeType": "image/png"
+            }
+        }
+    ],
     "shortDescription": "Kugle is a cosy Gravity-platformer party-game online, playable cross-platform on Smartphone and PC. Play with your friends in a cute galaxy where gravity know no bound. In which you collect, care, play, breed and trade colorful little creatures known as Kugles.",
     "description": "Kugle is more than just a game, it's a vibrant ecosystem where players can enjoy diverse gameplay modes through strategic engagement with the in-game economy. Collect, care, play, breed, and trade colorful little virtual creatures known as Kugles. Whether you're a seasoned crypto enthusiast or a casual gamer, you're sure to find something you'll like. Join us in the Kugle universe and start your adventure today!",
     "tags": [
