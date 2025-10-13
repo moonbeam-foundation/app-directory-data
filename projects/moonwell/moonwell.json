@@ -10,7 +10,7 @@
   "web3goIDs": [
     "Moonwell Artemis"
   ],
-  "featured": true,
+  "featured": false,
   "logo": {
     "small": {
       "fileName": "moonwell-logo-small.jpeg",

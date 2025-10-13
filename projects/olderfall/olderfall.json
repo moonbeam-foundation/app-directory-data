@@ -5,6 +5,7 @@
   "category": "gaming",
   "chains": ["moonbeam"],
   "web3goIDs": ["Olderfall"],
+  "featured": true,
   "logo": {
     "small": {
       "fileName": "olderfall-logo-small.png",

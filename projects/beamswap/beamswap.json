@@ -10,7 +10,7 @@
   "web3goIDs": [
     "Beamswap"
   ],
-  "featured": true,
+  "featured": false,
   "logo": {
     "small": {
       "fileName": "beamswap-logo-small.jpeg",
