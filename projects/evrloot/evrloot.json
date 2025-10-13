@@ -9,6 +9,7 @@
   "web3goIDs": [
     "Evrloot"
   ],
+  "featured": false,
   "logo": {
     "small": {
       "fileName": "evrloot-logo-small.png",
