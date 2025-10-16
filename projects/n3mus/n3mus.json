@@ -5,6 +5,7 @@
     "category": "gaming",
     "chains": ["moonbeam"],
     "web3goIDs": ["N3MUS"],
+    "featured": true,
     "logo": {
       "small": {
         "fileName": "n3mus-logo-small.png",
