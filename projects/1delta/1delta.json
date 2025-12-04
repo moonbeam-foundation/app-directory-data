@@ -3,7 +3,6 @@
   "slug": "1delta",
   "name": "1delta",
   "category": "defi",
-  "coinGeckoId": null,
   "chains": [
     "moonbeam"
   ],
