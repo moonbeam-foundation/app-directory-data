@@ -1,0 +1,45 @@
+{
+  "id": "envio",
+  "slug": "envio",
+  "name": "Envio",
+  "category": "other",
+  "chains": [
+    "moonbeam"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "envio-logo-small.jpg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "envio-logo-large.jpg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "envio-logo-full.jpg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Web3's backend. The fastest, most flexible way to get on-chain data.",
+  "description": "Envio is a fast, developer friendly multichain blockchain indexer that makes real-time data accessible for builders across Web3. With Envio, developers can query and stream blockchain data efficiently without the complexity of running their own infrastructure. Envio's blockchain indexing solution natively supports any EVM network and is trusted by many teams building everything from DeFi platforms to analytics dashboards and production applications. If you're a blockchain developer or analyst looking to enhance your workflow, look no further. Join our growing community of Web3 builders and explore our docs.",
+  "tags": [
+    "Infrastructure"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://envio.dev",
+    "try": "https://envio.dev",
+    "twitter": "https://x.com/envio_indexer",
+    "discord": "https://discord.com/invite/envio",
+    "telegram": "https://t.me/+kAIGElzPjApiMjI0",
+    "github": "https://github.com/enviodev"
+  },
+  "projectCreationDate": 1680307200000
+
+}

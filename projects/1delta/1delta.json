@@ -1,0 +1,102 @@
+{
+  "id": "1delta",
+  "slug": "1delta",
+  "name": "1delta",
+  "category": "defi",
+  "chains": [
+    "moonbeam"
+  ],
+  "web3goIDs": [
+    "1delta"
+  ],
+  "featured": false,
+  "logo": {
+    "small": {
+      "fileName": "1delta-logo-small.jpeg",
+      "width": 36,
+      "height": 36,
+      "mimeType": "image/jpeg"
+    },
+    "large": {
+      "fileName": "1delta-logo-large.jpeg",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/jpeg"
+    },
+    "full": {
+      "fileName": "1delta-logo-full.jpeg",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/jpeg"
+    }
+  },
+  "shortDescription": "Universal lending and DeFi aggregator with powerful APIs for lending, payments, swapping, and bridging.",
+  "description": "1delta is a universal lending aggregator enabling users to lend, borrow, and loop positions across multiple liquidity sources with maximum efficiency. In addition to its advanced lending aggregation layer, 1delta provides both a DEX aggregator and a bridge aggregator—ensuring the best execution for swaps and cross-chain transfers on Moonbeam.\n\nBeyond the user interface, 1delta offers a robust suite of developer APIs, giving builders direct access to its lending, payments, and execution infrastructure. These APIs make it easy to embed lending flows, automate position management, enable on-chain payments, or integrate optimized swap and bridge routing into external applications.\n\nBy unifying lending, swapping, bridging, and programmatic access through powerful APIs, 1delta delivers a seamless and capital-efficient DeFi experience for both users and developers.",
+  "tags": [
+    "Lending",
+    "DeFi",
+    "DEX",
+    "Bridges"
+  ],
+  "contracts": [
+    {
+      "contract": "0x8E24CfC19c6C00c524353CB8816f5f1c2F33c201",
+      "chain": "moonbeam",
+      "name": "1delta Composer"
+    }
+  ],
+  "urls": {
+    "website": "https://1delta.io/",
+    "try": "https://app.1delta.io/",
+    "twitter": "https://x.com/1deltaDAO",
+    "medium": "https://1delta.medium.com/",
+    "telegram": "https://t.me/OneDeltaDAO",
+    "github": "https://github.com/1delta-DAO",
+    "discord": "https://discord.gg/erAyePYrNM"
+  },
+  "screenshots": [
+    {
+      "small": {
+        "fileName": "1delta-screenshot-bridge-small.png",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "1delta-screenshot-bridge-large.png",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "1delta-screenshot-swap-small1.png",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "1delta-screenshot-swap-large.png",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "1delta-screenshot-lend-small.png",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "1delta-screenshot-lend-large.png",
+        "width": 1716,
+        "height": 800,
+        "mimeType": "image/png"
+      }
+    }
+  ],
+  "projectCreationDate": 1764831482000
+}
