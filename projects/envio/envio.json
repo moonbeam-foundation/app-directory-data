@@ -8,19 +8,19 @@
   ],
   "logo": {
     "small": {
-      "fileName": "envio-logo-small.jpeg",
+      "fileName": "envio-logo-small.jpg",
       "width": 36,
       "height": 36,
       "mimeType": "image/jpeg"
     },
     "large": {
-      "fileName": "envio-logo-large.jpeg",
+      "fileName": "envio-logo-large.jpg",
       "width": 400,
       "height": 400,
       "mimeType": "image/jpeg"
     },
     "full": {
-      "fileName": "envio-logo-full.jpeg",
+      "fileName": "envio-logo-full.jpg",
       "width": 3000,
       "height": 3000,
       "mimeType": "image/jpeg"
