@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "glob": "^11.1.0",
+    "glob": "^13.0.6",
     "zod": "^4.3.6"
   },
   "overrides": {
