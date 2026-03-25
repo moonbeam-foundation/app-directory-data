@@ -1,0 +1,46 @@
+{
+  "id": "codex",
+  "slug": "codex",
+  "name": "Codex",
+  "category": "other",
+  "chains": [
+    "moonbeam",
+    "moonriver"
+  ],
+  "logo": {
+    "small": {
+      "fileName": "codex-logo-small.png",
+      "width": 40,
+      "height": 40,
+      "mimeType": "image/png"
+    },
+    "large": {
+      "fileName": "codex-logo-large.png",
+      "width": 400,
+      "height": 400,
+      "mimeType": "image/png"
+    },
+    "full": {
+      "fileName": "codex-logo-full.png",
+      "width": 3000,
+      "height": 3000,
+      "mimeType": "image/png"
+    }
+  },
+  "shortDescription": "Real-time blockchain data API for 70M+ tokens across 80+ networks",
+  "description": "Codex is a blockchain data API providing real-time and historical DeFi data across 80+ networks via GraphQL, including Moonbeam and Moonriver. With access to over 70 million tokens and 700 million wallets, Codex delivers sub-second data for building token explorers, trading bots, portfolio trackers, and DeFi dashboards.\n\nCodex exposes a single GraphQL endpoint with 73 query operations covering token prices, OHLCV charts, DEX trades, liquidity pools, wallet activity, and aggregated analytics. Real-time data is available via 25 WebSocket subscription streams and push-based webhooks.\n\nA TypeScript/JavaScript SDK is available for quick integration, or you can write custom GraphQL queries directly against the API.",
+  "tags": [
+    "Infrastructure",
+    "Tool"
+  ],
+  "contracts": [],
+  "urls": {
+    "website": "https://www.codex.io/",
+    "try": "https://www.codex.io/",
+    "twitter": "https://x.com/trycodex",
+    "telegram": "https://t.me/CodexData",
+    "github": "https://github.com/Codex-Data",
+    "discord": "https://discord.com/invite/mFpUhT3vAq"
+  },
+  "projectCreationDate": 1619827200000
+}
