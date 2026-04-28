@@ -6,7 +6,7 @@
   "chains": [
     "moonbeam"
   ],
-  "featured": true,
+  "featured": false,
   "logo": {
     "small": {
       "fileName": "tokeniza-logo-small.jpg",
